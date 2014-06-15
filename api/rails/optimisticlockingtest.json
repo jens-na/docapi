@@ -17,5 +17,6 @@
   "test_quote_table_name": "",
   "test_update_without_attributes_does_not_only_update_lock_version": "Useful for partial updates, don't only update the lock_version if there\nis nothing else being updated.",
   "test_polymorphic_destroy_with_dependencies_and_lock_version": "",
-  "test_removing_has_and_belongs_to_many_associations_upon_destroy": ""
+  "test_removing_has_and_belongs_to_many_associations_upon_destroy": "",
+  "test_quoted_locking_column_is_deprecated": ""
 }

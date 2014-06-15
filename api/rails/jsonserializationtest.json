@@ -14,5 +14,6 @@
   "test_uses_serializable_hash_with_except_option": "",
   "test_does_not_include_inheritance_column_from_sti": "",
   "test_serializable_hash_with_default_except_option_and_excluding_inheritance_column_from_sti": "",
-  "test_serializable_hash_should_not_modify_options_in_argument": ""
+  "test_serializable_hash_should_not_modify_options_in_argument": "",
+  "teardown": ""
 }

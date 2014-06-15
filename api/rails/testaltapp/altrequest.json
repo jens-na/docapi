@@ -1,12 +1,6 @@
 {
-  "path_parameters": "Returns the value of attribute path_parameters",
-  "path_parameters=": "Sets the attribute path_parameters",
-  "path_info": "Returns the value of attribute path_info",
-  "path_info=": "Sets the attribute path_info",
-  "script_name": "Returns the value of attribute script_name",
-  "script_name=": "Sets the attribute script_name",
-  "env": "Returns the value of attribute env",
   "initialize": "",
+  "path_info": "",
   "request_method": "",
   "ip": "",
   "x_header": ""

@@ -23,7 +23,6 @@
   "test_redirect_to_host": "",
   "test_redirect_to_port": "",
   "test_redirect_to_host_and_port": "",
-  "test_redirect_to_host_with_port": "",
   "test_redirect_to_secure_host_when_on_subdomain": "",
   "test_redirect_to_secure_subdomain_when_on_deep_subdomain": ""
 }

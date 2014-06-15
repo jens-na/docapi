@@ -1,7 +1,7 @@
 {
   "show": "",
   "another_action": "",
-  "show_without_action": "",
+  "show_without_filter": "",
   "ensure_login": "",
   "clean_up_tmp": ""
 }

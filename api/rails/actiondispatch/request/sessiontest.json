@@ -3,12 +3,9 @@
   "test_to_hash": "",
   "test_create_merges_old": "",
   "test_find": "",
-  "test_destroy": "",
   "test_keys": "",
   "test_values": "",
   "test_clear": "",
-  "test_update": "",
-  "test_delete": "",
   "test_fetch": "",
   "store": ""
 }

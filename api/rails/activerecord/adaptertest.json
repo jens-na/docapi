@@ -15,7 +15,6 @@
   "test_reset_table_with_non_integer_pk": "",
   "test_uniqueness_violations_are_translated_to_specific_exception": "",
   "test_foreign_key_violations_are_translated_to_specific_exception": "",
-  "test_foreign_key_violations_are_translated_to_specific_exception_with_validate_false": "",
   "test_disable_referential_integrity": "",
   "test_select_all_always_return_activerecord_result": "",
   "test_select_methods_passing_a_association_relation": "",

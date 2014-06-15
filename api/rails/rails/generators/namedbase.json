@@ -1,7 +1,7 @@
 {
   "initialize": ":nodoc:",
   "file_name": "Returns the value of attribute file_name",
-  "singular_name": "FIXME: We are avoiding to use alias because a bug on thor that make\nthis method public and add it to the task list.",
+  "singular_name": "Returns the value of attribute file_name",
   "module_namespacing": "Wrap block with namespace of current application\nif namespace exists and is not skipped",
   "indent": "",
   "wrap_with_namespace": "",

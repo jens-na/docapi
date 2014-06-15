@@ -1,6 +1,8 @@
 {
+  "StubDispatcher": "TODO : clean up routing tests so we don't need this hack",
   "routes": "Returns the value of attribute routes",
   "setup": "",
+  "test_request_class_reader": "",
   "FakeRequestFeeler": "",
   "test_dashes": "",
   "test_unicode": "",
@@ -27,7 +29,6 @@
   "test_generate_calls_param_proc": "",
   "test_generate_id": "",
   "test_generate_escapes": "",
-  "test_generate_escapes_with_namespaced_controller": "",
   "test_generate_extra_params": "",
   "test_generate_uses_recall_if_needed": "",
   "test_generate_with_name": "",
@@ -36,6 +37,7 @@
   "test_recognize_head_request_as_get_route": "",
   "test_recognize_cares_about_verbs": "",
   "add_routes": "",
+  "RailsEnv": "",
   "rails_env": "",
   "rack_env": ""
 }

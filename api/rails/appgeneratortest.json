@@ -8,9 +8,6 @@
   "test_application_new_show_help_message_inside_existing_rails_directory": "",
   "test_application_name_is_detected_if_it_exists_and_app_folder_renamed": "",
   "test_rails_update_generates_correct_session_key": "",
-  "test_new_application_use_json_serialzier": "",
-  "test_rails_update_keep_the_cookie_serializer_if_it_is_already_configured": "",
-  "test_rails_update_set_the_cookie_serializer_to_marchal_if_it_is_not_already_configured": "",
   "test_application_names_are_not_singularized": "",
   "test_gemfile_has_no_whitespace_errors": "",
   "test_config_database_is_added_by_default": "",
@@ -30,7 +27,7 @@
   "test_other_javascript_libraries": "",
   "test_javascript_is_skipped_if_required": "",
   "test_inclusion_of_jbuilder": "",
-  "test_inclusion_of_a_debugger": "",
+  "test_inclusion_of_debugger": "",
   "test_inclusion_of_doc": "",
   "test_template_from_dir_pwd": "",
   "test_usage_read_from_file": "",
@@ -46,9 +43,6 @@
   "test_spring_binstubs": "",
   "test_spring_no_fork": "",
   "test_skip_spring": "",
-  "test_gitignore_when_sqlite3": "",
-  "test_gitignore_when_no_active_record": "",
-  "test_gitignore_when_non_sqlite3_db": "",
   "action": "",
   "assert_gem": ""
 }

@@ -14,8 +14,6 @@
   "test_regexp_precidence": "",
   "test_class_and_lambda_constraints": "",
   "test_lambda_constraints": "",
-  "test_scoped_lambda": "",
-  "test_scoped_lambda_with_get_lambda": "",
   "test_empty_string_match": "",
   "test_non_greedy_glob_regexp": "",
   "test_draw_with_block_arity_one_raises": "",

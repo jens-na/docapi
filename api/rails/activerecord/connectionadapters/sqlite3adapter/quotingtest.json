@@ -11,5 +11,5 @@
   "test_type_cast_string": "",
   "test_type_cast_bigdecimal": "",
   "test_type_cast_unknown_should_raise_error": "",
-  "test_type_cast_object_which_responds_to_quoted_id": ""
+  "test_quoted_id": ""
 }

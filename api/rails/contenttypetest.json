@@ -9,6 +9,5 @@
   "test_nil_default_for_erb": "",
   "test_default_for_erb": "",
   "test_default_for_builder": "",
-  "test_change_for_builder": "",
-  "with_default_charset": ""
+  "test_change_for_builder": ""
 }

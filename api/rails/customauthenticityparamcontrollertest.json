@@ -1,6 +1,5 @@
 {
   "setup": "",
   "teardown": "",
-  "test_should_not_warn_if_form_authenticity_param_matches_form_authenticity_token": "",
-  "test_should_warn_if_form_authenticity_param_does_not_match_form_authenticity_token": ""
+  "test_should_allow_custom_token": ""
 }

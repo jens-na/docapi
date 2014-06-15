@@ -1,6 +1,5 @@
 {
   "setup_data_for_habtm_case": "",
-  "test_marshal_dump": "",
   "test_should_property_quote_string_primary_keys": "",
   "test_proper_usage_of_primary_keys_and_join_table": "",
   "test_has_and_belongs_to_many": "",
@@ -13,8 +12,6 @@
   "test_habtm_adding_before_save": "",
   "test_habtm_saving_multiple_relationships": "",
   "test_habtm_unique_order_preserved": "",
-  "test_habtm_collection_size_from_build": "",
-  "test_habtm_collection_size_from_params": "",
   "test_build": "",
   "test_new_aliased_to_build": "",
   "test_build_by_new_record": "",
@@ -75,10 +72,6 @@
   "test_attributes_are_being_set_when_initialized_from_habm_association_with_multiple_where_clauses": "",
   "test_include_method_in_has_and_belongs_to_many_association_should_return_true_for_instance_added_with_build": "",
   "test_destruction_does_not_error_without_primary_key": "",
-  "test_has_and_belongs_to_many_associations_on_new_records_use_null_relations": "",
   "test_association_with_validate_false_does_not_run_associated_validation_callbacks_on_create": "",
-  "test_association_with_validate_false_does_not_run_associated_validation_callbacks_on_update": "",
-  "test_custom_join_table": "",
-  "test_namespaced_habtm": "",
-  "test_redefine_habtm": ""
+  "test_association_with_validate_false_does_not_run_associated_validation_callbacks_on_update": ""
 }

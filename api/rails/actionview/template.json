@@ -29,7 +29,7 @@
   "instrument": "",
   "HTML": ":nodoc:",
   "Text": ":nodoc:",
-  "Error": "The Template::Error exception is raised when the compilation or rendering of the template\nfails. This exception then gathers a bunch of intimate details and uses it to report a\nprecise exception message.",
   "Types": "",
+  "Error": "The Template::Error exception is raised when the compilation or rendering of the template\nfails. This exception then gathers a bunch of intimate details and uses it to report a\nprecise exception message.",
   "Handlers": ":nodoc:"
 }

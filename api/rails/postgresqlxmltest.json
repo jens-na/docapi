@@ -1,6 +1,7 @@
 {
   "XmlDataType": "",
   "setup": "",
+  "teardown": "",
   "test_column": "",
   "test_null_xml": ""
 }

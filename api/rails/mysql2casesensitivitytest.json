@@ -3,7 +3,5 @@
   "test_columns_include_collation_different_from_table": "",
   "test_case_sensitive": "",
   "test_case_insensitive_comparison_for_ci_column": "",
-  "test_case_insensitive_comparison_for_cs_column": "",
-  "test_case_sensitive_comparison_for_ci_column": "",
-  "test_case_sensitive_comparison_for_cs_column": ""
+  "test_case_insensitive_comparison_for_cs_column": ""
 }

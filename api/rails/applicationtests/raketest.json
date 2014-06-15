@@ -21,6 +21,5 @@
   "test_rake_dump_structure_should_be_called_twice_when_migrate_redo": "",
   "test_rake_dump_schema_cache": "",
   "test_rake_clear_schema_cache": "",
-  "test_copy_templates": "",
-  "test_template_load_initializers": ""
+  "test_copy_templates": ""
 }

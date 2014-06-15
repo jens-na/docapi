@@ -20,5 +20,7 @@
   "test_primary_key_returns_value_if_it_exists": "",
   "test_primary_key_returns_nil_if_it_does_not_exist": "",
   "test_quoted_primary_key_after_set_primary_key": "",
+  "test_two_models_with_same_table_but_different_primary_key": "",
+  "test_models_with_same_table_have_different_columns": "",
   "test_auto_detect_primary_key_from_schema": ""
 }

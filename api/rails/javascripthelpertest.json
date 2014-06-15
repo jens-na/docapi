@@ -5,6 +5,7 @@
   "output_buffer": "Returns the value of attribute output_buffer",
   "output_buffer=": "Sets the attribute output_buffer",
   "update_details": "",
+  "setup": "",
   "teardown": "",
   "test_escape_javascript": "",
   "test_escape_javascript_with_safebuffer": "",

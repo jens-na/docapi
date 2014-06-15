@@ -13,5 +13,6 @@
   "size": "",
   "clear_table_cache!": "Clear out internal caches for table with +table_name+.",
   "marshal_dump": "",
-  "marshal_load": ""
+  "marshal_load": "",
+  "prepare_default_proc": ""
 }

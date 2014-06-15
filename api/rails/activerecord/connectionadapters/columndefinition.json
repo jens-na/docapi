@@ -19,7 +19,5 @@
   "after": "Returns the value of attribute after",
   "primary_key=": "Sets the attribute primary_key",
   "primary_key": "Returns the value of attribute primary_key",
-  "sql_type=": "Sets the attribute sql_type",
-  "sql_type": "Returns the value of attribute sql_type",
   "primary_key?": ""
 }

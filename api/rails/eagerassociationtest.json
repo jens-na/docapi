@@ -23,7 +23,6 @@
   "test_finding_with_includes_on_belongs_to_association_with_same_include_includes_only_once": "",
   "test_finding_with_includes_on_null_belongs_to_association_with_same_include_includes_only_once": "",
   "test_finding_with_includes_on_null_belongs_to_polymorphic_association": "",
-  "test_finding_with_includes_on_empty_polymorphic_type_column": "",
   "test_loading_from_an_association": "",
   "test_loading_from_an_association_that_has_a_hash_of_conditions": "",
   "test_loading_with_no_associations": "",

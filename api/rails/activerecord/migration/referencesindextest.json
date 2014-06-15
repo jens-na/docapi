@@ -2,6 +2,7 @@
   "connection": "Returns the value of attribute connection",
   "table_name": "Returns the value of attribute table_name",
   "setup": "",
+  "teardown": "",
   "test_creates_index": "",
   "test_does_not_create_index": "",
   "test_does_not_create_index_explicit": "",

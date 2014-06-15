@@ -1,8 +1,0 @@
-{
-  "UUID": "",
-  "test_id_is_uuid": "",
-  "test_id_has_a_default": "",
-  "test_auto_create_uuid": "",
-  "test_pk_and_sequence_for_uuid_primary_key": "",
-  "test_schema_dumper_for_uuid_primary_key": ""
-}

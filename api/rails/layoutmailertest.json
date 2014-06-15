@@ -1,4 +1,6 @@
 {
+  "setup": "",
+  "teardown": "",
   "test_should_pickup_default_layout": "",
   "test_should_pickup_multipart_layout": "",
   "test_should_pickup_multipartmixed_layout": "",

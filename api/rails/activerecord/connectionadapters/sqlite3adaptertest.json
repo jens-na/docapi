@@ -6,6 +6,7 @@
   "test_connect_memory_with_url": "",
   "test_valid_column": "",
   "test_invalid_column": "sqlite databases should be able to support any type and not\njust the ones mentioned in the native_database_types.\nTherefore test_invalid column should always return true\neven if the type is not valid.",
+  "teardown": "",
   "test_column_types": "",
   "test_exec_insert": "",
   "test_primary_key_returns_nil_for_no_pk": "",
@@ -45,7 +46,5 @@
   "test_supports_extensions": "",
   "test_respond_to_enable_extension": "",
   "test_respond_to_disable_extension": "",
-  "test_statement_closed": "",
-  "assert_logged": "",
-  "with_example_table": ""
+  "assert_logged": ""
 }

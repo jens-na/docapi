@@ -1,5 +1,6 @@
 {
   "Migration": "",
   "setup": "",
+  "teardown": "",
   "test_migration_should_be_run_without_logger": ""
 }

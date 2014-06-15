@@ -8,7 +8,6 @@
   "test_render_with_forward_slash": ":ported: compatibility",
   "test_render_in_top_directory": ":ported:",
   "test_render_in_top_directory_with_slash": ":ported:",
-  "test_render_process": "",
   "test_render_from_variable": ":ported:",
   "test_render_action": ":ported:",
   "test_render_action_upcased": "",

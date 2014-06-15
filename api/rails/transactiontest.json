@@ -1,6 +1,5 @@
 {
   "setup": "",
-  "test_persisted_in_a_model_with_custom_primary_key_after_failed_save": "",
   "test_raise_after_destroy": "",
   "test_successful": "",
   "transaction_with_return": "",
@@ -9,8 +8,6 @@
   "test_failing_on_exception": "",
   "test_raising_exception_in_callback_rollbacks_in_save": "",
   "after_save_for_transaction": "",
-  "test_rolling_back_in_a_callback_rollbacks_before_save": "",
-  "before_save_for_transaction": "",
   "test_raising_exception_in_nested_transaction_restore_state_in_save": "",
   "test_update_should_rollback_on_failure": "",
   "test_update_should_rollback_on_failure!": "",

@@ -3,7 +3,6 @@
   "test_model_with_missing_attribute_type": "",
   "test_invokes_default_orm": "",
   "test_model_with_parent_option": "",
-  "test_plural_names_are_singularized": "",
   "test_model_with_underscored_parent_option": "",
   "test_model_with_namespace": "",
   "test_migration": "",

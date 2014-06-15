@@ -3,7 +3,6 @@
   "FakeEngine": "",
   "app": "",
   "test_app_name_is_properly_generated_when_engine_is_mounted_in_resources": "",
-  "test_mounting_at_root_path": "",
   "test_mounting_sets_script_name": "",
   "test_mounting_works_with_nested_script_name": "",
   "test_mounting_works_with_scope": "",

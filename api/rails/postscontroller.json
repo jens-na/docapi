@@ -2,5 +2,12 @@
   "AroundExceptions": "",
   "DefaultFilter": "",
   "default_action": "",
-  "show": ""
+  "show": "",
+  "index": "",
+  "edit": "",
+  "update": "",
+  "new": "",
+  "create": "",
+  "destroy": "",
+  "post_params": ""
 }

@@ -1,6 +1,7 @@
 {
   "Routes": "",
   "app": "",
-  "test_send_mail": "",
-  "with_translation": ""
+  "setup": "",
+  "teardown": "",
+  "test_send_mail": ""
 }

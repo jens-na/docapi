@@ -18,7 +18,7 @@
   "member?": "Checks the hash for a key matching the argument passed in:\n\n  hash = ActiveSupport::HashWithIndifferentAccess.new\n  hash['key'] = 'value'\n  hash.key?(:key)  # => true\n  hash.key?('key') # => true",
   "fetch": "Same as <tt>Hash#fetch</tt> where the key passed as argument can be\neither a string or a symbol:\n\n  counters = ActiveSupport::HashWithIndifferentAccess.new\n  counters[:foo] = 1\n\n  counters.fetch('foo')          # => 1\n  counters.fetch(:bar, 0)        # => 0\n  counters.fetch(:bar) { |key| 0 } # => 0\n  counters.fetch(:zoo)           # => KeyError: key not found: \"zoo\"",
   "values_at": "Returns an array of the values at the specified indices:\n\n  hash = ActiveSupport::HashWithIndifferentAccess.new\n  hash[:a] = 'x'\n  hash[:b] = 'y'\n  hash.values_at('a', 'b') # => [\"x\", \"y\"]",
-  "dup": "Returns a shallow copy of the hash.\n\n  hash = ActiveSupport::HashWithIndifferentAccess.new({ a: { b: 'b' } })\n  dup  = hash.dup\n  dup[:a][:c] = 'c'\n\n  hash[:a][:c] # => nil\n  dup[:a][:c]  # => \"c\"",
+  "dup": "Returns an exact copy of the hash.",
   "merge": "This method has the same semantics of +update+, except it does not\nmodify the receiver but rather returns a new hash with indifferent\naccess with the result of the merge.",
   "reverse_merge": "Like +merge+ but the other way around: Merges the receiver into the\nargument and returns a new hash with indifferent access as result:\n\n  hash = ActiveSupport::HashWithIndifferentAccess.new\n  hash['a'] = nil\n  hash.reverse_merge(a: 0, b: 1) # => {\"a\"=>nil, \"b\"=>1}",
   "reverse_merge!": "Same semantics as +reverse_merge+ but modifies the receiver in-place.",

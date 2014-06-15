@@ -1,5 +1,6 @@
 {
   "setup": "",
+  "teardown": "",
   "test_create_tables": "create tables with reserved-word names and columns",
   "test_rename_tables": "rename tables with reserved-word names",
   "test_change_columns": "alter column with a reserved-word name in a table with a reserved-word name",

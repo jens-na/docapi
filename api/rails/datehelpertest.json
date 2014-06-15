@@ -93,7 +93,6 @@
   "test_select_date_with_separator_discard_month_and_day": "",
   "test_select_date_with_hidden": "",
   "test_select_date_with_css_classes_option": "",
-  "test_select_date_with_css_classes_option_and_html_class_option": "",
   "test_select_datetime": "",
   "test_select_datetime_with_ampm": "",
   "test_select_datetime_with_separators": "",

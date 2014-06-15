@@ -1,8 +1,0 @@
-{
-  "EnableHstore": "",
-  "DisableHstore": "",
-  "setup": "",
-  "teardown": "",
-  "test_enable_extension_migration_ignores_prefix_and_suffix": "",
-  "test_disable_extension_migration_ignores_prefix_and_suffix": ""
-}

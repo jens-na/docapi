@@ -1,5 +1,6 @@
 {
   "inspect": "Since the router holds references to many parts of the system\nlike engines, controllers and the application itself, inspecting\nthe route set can actually be really slow, therefore we default\nalias inspect to to_s.",
+  "PARAMETERS_KEY": "",
   "Dispatcher": ":nodoc:",
   "NamedRouteCollection": "A NamedRouteCollection instance is a collection of named routes, and also\nmaintains an anonymous module that can be used to install helpers for the\nnamed routes.",
   "formatter": "Returns the value of attribute formatter",
@@ -44,8 +45,9 @@
   "RESERVED_OPTIONS": "",
   "mounted?": "",
   "optimize_routes_generation?": "",
-  "find_script_name": "",
-  "url_for": "The +options+ argument must be a hash whose keys are *symbols*.",
+  "_generate_prefix": "",
+  "url_for": "The +options+ argument must be +nil+ or a hash whose keys are *symbols*.",
   "call": "",
-  "recognize_path": ""
+  "recognize_path": "",
+  "extract_authentication": ""
 }

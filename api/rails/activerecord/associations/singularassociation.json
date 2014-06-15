@@ -5,9 +5,8 @@
   "create!": "",
   "build": "",
   "create_scope": "",
-  "get_records": "",
   "find_target": "",
   "replace": "",
   "set_new_record": "",
-  "_create_record": ""
+  "create_record": ""
 }

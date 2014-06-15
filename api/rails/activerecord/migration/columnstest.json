@@ -21,6 +21,5 @@
   "test_change_column_default": "",
   "test_change_column_default_to_null": "",
   "test_remove_column_no_second_parameter_raises_exception": "",
-  "test_removing_and_renaming_column_preserves_custom_primary_key": "",
-  "test_column_with_index": ""
+  "test_removing_and_renaming_column_preserves_custom_primary_key": ""
 }

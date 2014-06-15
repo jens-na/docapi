@@ -1,5 +1,5 @@
 {
   "show": "",
-  "before_action_rendering": "",
-  "unreached_after_action": ""
+  "before_filter_rendering": "",
+  "unreached_after_filter": ""
 }

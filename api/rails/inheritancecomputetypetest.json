@@ -1,5 +1,6 @@
 {
   "setup": "",
+  "teardown": "",
   "test_instantiation_doesnt_try_to_require_corresponding_file": "",
   "test_sti_type_from_attributes_disabled_in_non_sti_class": ""
 }

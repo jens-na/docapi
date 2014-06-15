@@ -23,6 +23,8 @@
   "test_with_output_buffer_restores_the_output_buffer": "",
   "test_with_output_buffer_sets_proper_encoding": "",
   "test_with_output_buffer_does_not_assume_there_is_an_output_buffer": "",
+  "test_flush_output_buffer_concats_output_buffer_to_response": "",
+  "test_flush_output_buffer_preserves_the_encoding_of_the_output_buffer": "",
   "alt_encoding": "",
   "view_with_controller": ""
 }

@@ -1,6 +1,0 @@
-{
-  "joins=": "Sets the attribute joins",
-  "joins": "Returns the value of attribute joins",
-  "binds=": "Sets the attribute binds",
-  "binds": "Returns the value of attribute binds"
-}

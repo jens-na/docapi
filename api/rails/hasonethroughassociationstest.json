@@ -3,7 +3,6 @@
   "test_has_one_through_with_has_one": "",
   "test_creating_association_creates_through_record": "",
   "test_creating_association_builds_through_record_for_new": "",
-  "test_creating_association_sets_both_parent_ids_for_new": "",
   "test_replace_target_record": "",
   "test_replacing_target_record_deletes_old_association": "",
   "test_set_record_to_nil_should_delete_association": "",

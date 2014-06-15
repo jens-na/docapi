@@ -23,7 +23,6 @@
   "test_associate_new_by_building": "",
   "test_build_then_save_with_has_many_inverse": "",
   "test_build_then_save_with_has_one_inverse": "",
-  "test_both_parent_ids_set_when_saving_new": "",
   "test_delete_association": "",
   "test_destroy_association": "",
   "test_destroy_all": "",
@@ -112,9 +111,5 @@
   "test_explicitly_joining_join_table": "",
   "test_has_many_through_with_polymorphic_source": "",
   "test_has_many_through_obeys_order_on_through_association": "",
-  "test_has_many_through_associations_on_new_records_use_null_relations": "",
-  "test_has_many_through_with_default_scope_on_the_target": "",
-  "test_has_many_through_with_includes_in_through_association_scope": "",
-  "test_insert_records_via_has_many_through_association_with_scope": "",
-  "test_has_many_through_unscope_default_scope": ""
+  "test_has_many_through_with_includes_in_through_association_scope": ""
 }

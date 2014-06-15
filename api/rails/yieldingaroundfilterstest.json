@@ -4,11 +4,11 @@
   "test_with_class": "",
   "test_with_instance": "",
   "test_with_proc": "",
-  "test_nested_actions": "",
-  "test_action_order_with_all_action_types": "",
-  "test_action_order_with_skip_action_method": "",
-  "test_first_action_in_multiple_before_action_chain_halts": "",
-  "test_second_action_in_multiple_before_action_chain_halts": "",
-  "test_last_action_in_multiple_before_action_chain_halts": "",
+  "test_nested_filters": "",
+  "test_filter_order_with_all_filter_types": "",
+  "test_filter_order_with_skip_filter_method": "",
+  "test_first_filter_in_multiple_before_filter_chain_halts": "",
+  "test_second_filter_in_multiple_before_filter_chain_halts": "",
+  "test_last_filter_in_multiple_before_filter_chain_halts": "",
   "test_process": ""
 }

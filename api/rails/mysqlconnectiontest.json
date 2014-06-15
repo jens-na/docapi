@@ -15,12 +15,10 @@
   "test_mysql_default_in_strict_mode": "TODO: Below is a straight up copy/paste from mysql/connection_test.rb\nI'm not sure what the correct way is to share these tests between\nadapters in minitest.",
   "test_mysql_strict_mode_disabled_dont_override_global_sql_mode": "",
   "test_mysql_set_session_variable": "",
-  "test_mysql_sql_mode_variable_overides_strict_mode": "",
   "test_mysql_set_session_variable_to_default": "",
-  "with_example_table": "",
+  "run_without_connection": "",
   "teardown": "",
   "test_bad_connection": "",
   "test_logs_name_show_variable": "",
-  "test_logs_name_rename_column_sql": "",
-  "test_quote_time_usec": ""
+  "test_logs_name_rename_column_sql": ""
 }

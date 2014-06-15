@@ -15,9 +15,5 @@
   "test_create_join_table_migration": "",
   "test_create_table_migration": "",
   "test_should_create_empty_migrations_if_name_not_start_with_add_or_remove_or_create": "",
-  "test_properly_identifies_usage_file": "",
-  "test_migration_with_singular_table_name": "",
-  "test_create_join_table_migration_with_singular_table_name": "",
-  "test_create_table_migration_with_singular_table_name": "",
-  "with_singular_table_name": ""
+  "test_properly_identifies_usage_file": ""
 }

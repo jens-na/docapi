@@ -1,2 +1,12 @@
 {
+  "SCHEMA_NAME": "",
+  "TABLE_NAME": "",
+  "VIEW_NAME": "",
+  "COLUMNS": "",
+  "ThingView": "",
+  "setup": "",
+  "teardown": "",
+  "test_table_exists": "",
+  "test_column_definitions": "",
+  "columns": ""
 }

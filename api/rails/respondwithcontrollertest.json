@@ -49,7 +49,6 @@
   "test_using_resource_with_set_responder": "",
   "test_uses_renderer_if_an_api_behavior": "",
   "test_raises_missing_renderer_if_an_api_behavior_with_no_renderer": "",
-  "test_removing_renderers": "",
   "test_error_is_raised_if_no_respond_to_is_declared_and_respond_with_is_called": "",
   "with_test_route_set": ""
 }

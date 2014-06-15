@@ -25,7 +25,6 @@
   "test_parse_far_future_date_with_time_zone_offset_in_string": "",
   "test_parse_returns_nil_when_string_without_date_information_is_passed_in": "",
   "test_parse_with_incomplete_date": "",
-  "test_parse_with_day_omitted": "",
   "test_parse_should_not_black_out_system_timezone_dst_jump": "",
   "test_parse_should_black_out_app_timezone_dst_jump": "",
   "test_parse_with_missing_time_components": "",

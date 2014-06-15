@@ -31,6 +31,8 @@
   "code": "Returns a string to ensure compatibility with <tt>Net::HTTPResponse</tt>.",
   "message": "Returns the corresponding message for the current HTTP status code:\n\n  response.status = 200\n  response.message # => \"OK\"\n\n  response.status = 404\n  response.message # => \"Not Found\"",
   "status_message": "Returns the corresponding message for the current HTTP status code:\n\n  response.status = 200\n  response.message # => \"OK\"\n\n  response.status = 404\n  response.message # => \"Not Found\"",
+  "respond_to?": "",
+  "to_path": "",
   "body": "Returns the content of the response as a string. This contains the contents\nof any calls to <tt>render</tt>.",
   "EMPTY": "",
   "body=": "Allows you to manually set or override the response body.",
@@ -41,12 +43,10 @@
   "redirect_url": "The location header we'll be responding with.",
   "location=": "Sets the location header we'll be responding with.",
   "close": "",
-  "abort": "",
   "to_a": "Turns the Response into a Rack-compatible array of the status, headers,\nand body.",
   "prepare!": "Turns the Response into a Rack-compatible array of the status, headers,\nand body.",
   "to_ary": "Turns the Response into a Rack-compatible array of the status, headers,\nand body.",
   "cookies": "Returns the response cookies, converted to a Hash of (name => value) pairs\n\n  assert_equal 'AuthorOfNewPage', r.cookies['author']",
-  "_status_code": "",
   "before_committed": "",
   "before_sending": "",
   "merge_default_headers": "",
@@ -54,6 +54,5 @@
   "munge_body_object": "",
   "assign_default_content_type_and_charset!": "",
   "append_charset?": "",
-  "RackBody": "",
   "rack_response": ""
 }

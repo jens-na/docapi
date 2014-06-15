@@ -1,5 +1,10 @@
 {
   "form_for": "",
+  "setup": "",
+  "errors": "",
+  "to_key": "",
+  "id_before_type_cast": "",
+  "to_param": "",
   "Routes": "",
   "_routes": "",
   "url_for": "",
@@ -9,7 +14,6 @@
   "test_label_with_symbols": "",
   "test_label_with_locales_strings": "",
   "test_label_with_human_attribute_name": "",
-  "test_label_with_human_attribute_name_and_options": "",
   "test_label_with_locales_symbols": "",
   "test_label_with_locales_and_options": "",
   "test_label_with_locales_and_value": "",
@@ -24,7 +28,6 @@
   "test_label_with_for_and_id_attributes_as_string": "",
   "test_label_for_radio_buttons_with_value": "",
   "test_label_with_block": "",
-  "test_label_with_block_and_html": "",
   "test_label_with_block_and_options": "",
   "test_label_with_block_in_erb": "",
   "test_text_field": "",
@@ -241,6 +244,5 @@
   "hidden_fields": "",
   "form_text": "",
   "whole_form": "",
-  "protect_against_forgery?": "",
-  "with_locale": ""
+  "protect_against_forgery?": ""
 }

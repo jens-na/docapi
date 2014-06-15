@@ -13,8 +13,6 @@
   "test_collection_options_with_element_attributes": "",
   "test_string_options_for_select": "",
   "test_array_options_for_select": "",
-  "test_array_options_for_select_with_custom_defined_selected": "",
-  "test_array_options_for_select_with_custom_defined_disabled": "",
   "test_array_options_for_select_with_selection": "",
   "test_array_options_for_select_with_selection_array": "",
   "test_array_options_for_select_with_disabled_value": "",

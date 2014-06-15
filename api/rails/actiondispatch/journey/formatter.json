@@ -9,6 +9,7 @@
   "non_recursive": "",
   "missing_keys": "Returns an array populated with missing keys if any are present.",
   "possibles": "",
+  "verify_required_parts!": "Returns +true+ if no missing keys are present, otherwise +false+.",
   "build_cache": "",
   "cache": ""
 }

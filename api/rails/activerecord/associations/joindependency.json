@@ -21,7 +21,7 @@
   "build": "",
   "construct": "",
   "construct_model": "",
-  "JoinBase": ":nodoc:",
   "JoinPart": "A JoinPart represents a part of a JoinDependency. It is inherited\nby JoinBase and JoinAssociation. A JoinBase represents the Active Record which\neverything else is being joined onto. A JoinAssociation represents an association which\nis joining to the base. A JoinAssociation may result in more than one actual join\noperations (for example a has_and_belongs_to_many JoinAssociation would result in\ntwo; one for the join table and one for the target table).",
+  "JoinBase": ":nodoc:",
   "JoinAssociation": ":nodoc:"
 }

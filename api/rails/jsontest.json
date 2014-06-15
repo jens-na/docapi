@@ -1,0 +1,3 @@
+{
+  "test_deprecated_require_to_json_rb": "See activesupport/test/json/encoding_test.rb for JSON encoding tests"
+}

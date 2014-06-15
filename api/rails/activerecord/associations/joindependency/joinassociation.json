@@ -4,7 +4,6 @@
   "tables=": "Sets the attribute tables",
   "initialize": "",
   "match?": "",
-  "JoinInformation": "",
   "join_constraints": "",
   "build_constraint": "Builds equality condition.\n\n Example:\n\n class Physician < ActiveRecord::Base\n   has_many :appointments\n end\n\n If I execute `Physician.joins(:appointments).to_a` then\n   reflection    # => #<ActiveRecord::Reflection::AssociationReflection @macro=:has_many ...>\n   table         # => #<Arel::Table @name=\"appointments\" ...>\n   key           # =>  physician_id\n   foreign_table # => #<Arel::Table @name=\"physicians\" ...>\n   foreign_key   # => id",
   "table": "",

@@ -9,9 +9,5 @@
   "unary": "",
   "visit_GROUP": "",
   "visit_STAR": "",
-  "terminal": "",
-  "visit_LITERAL": "",
-  "visit_SYMBOL": "",
-  "visit_SLASH": "",
-  "visit_DOT": ""
+  "terminal": ""
 }

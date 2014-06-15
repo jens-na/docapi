@@ -97,6 +97,5 @@
   "test_pluck_with_multiple_columns_and_selection_clause": "",
   "test_pluck_with_multiple_columns_and_includes": "",
   "test_pluck_with_reserved_words": "",
-  "test_pluck_replaces_select_clause": "",
-  "test_pluck_columns_with_same_name": ""
+  "test_pluck_replaces_select_clause": ""
 }

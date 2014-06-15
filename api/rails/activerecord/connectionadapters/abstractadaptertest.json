@@ -1,0 +1,9 @@
+{
+  "adapter": "Returns the value of attribute adapter",
+  "setup": "",
+  "test_in_use?": "",
+  "test_lease_twice": "",
+  "test_last_use": "",
+  "test_expire_mutates_in_use": "",
+  "test_close": ""
+}

@@ -11,6 +11,7 @@
   "NestedRevertWholeMigration": "",
   "RevertNamedIndexMigration1": "",
   "RevertNamedIndexMigration2": "",
+  "teardown": "",
   "test_no_reverse": "",
   "test_exception_on_removing_index_without_column_option": "",
   "test_migrate_up": "",

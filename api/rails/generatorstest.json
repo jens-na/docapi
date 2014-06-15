@@ -3,7 +3,6 @@
   "teardown": "",
   "test_simple_invoke": "",
   "test_invoke_when_generator_is_not_found": "",
-  "test_generator_suggestions": "",
   "test_help_when_a_generator_with_required_arguments_is_invoked_without_arguments": "",
   "test_should_give_higher_preference_to_rails_generators": "",
   "test_invoke_with_default_values": "",

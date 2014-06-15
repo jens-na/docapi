@@ -1,6 +1,5 @@
 {
   "test_path_escape": "",
-  "test_segment_escape": "",
   "test_fragment_escape": "",
   "test_uri_unescape": "",
   "test_normalize_path_not_greedy": "",

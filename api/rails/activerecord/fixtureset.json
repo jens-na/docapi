@@ -1,5 +1,5 @@
 {
-  "MAX_ID": "--\nAn instance of FixtureSet is normally stored in a single YAML file and\npossibly in a folder with the same name.\n++",
+  "MAX_ID": "--\nAn instance of FixtureSet is normally stored in a single YAML file and possibly in a folder with the same name.\n++",
   "@@all_cached_fixtures": "",
   "default_fixture_model_name": ":nodoc:",
   "default_fixture_table_name": ":nodoc:",
@@ -12,7 +12,7 @@
   "instantiate_all_loaded_fixtures": "",
   "ClassCache": "",
   "create_fixtures": "",
-  "identify": "Returns a consistent, platform-independent identifier for +label+.\nInteger identifiers are values less than 2^30. UUIDs are RFC 4122 version 5 SHA-1 hashes.",
+  "identify": "Returns a consistent, platform-independent identifier for +label+.\nIdentifiers are positive integers less than 2^32.",
   "context_class": "Superclass for the evaluation contexts used by ERB fixtures.",
   "table_name": "Returns the value of attribute table_name",
   "name": "Returns the value of attribute name",
@@ -28,7 +28,6 @@
   "ReflectionProxy": ":nodoc:",
   "HasManyThroughProxy": ":nodoc:",
   "primary_key_name": "",
-  "primary_key_type": "",
   "add_join_records": "",
   "has_primary_key_column?": "",
   "timestamp_column_names": "",

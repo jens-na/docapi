@@ -1,6 +1,7 @@
 {
   "ByteaDataType": "",
   "setup": "",
+  "teardown": "",
   "test_column": "",
   "test_type_cast_binary_converts_the_encoding": "",
   "test_type_cast_binary_value": "",
@@ -8,8 +9,6 @@
   "test_read_value": "",
   "test_read_nil_value": "",
   "test_write_value": "",
-  "test_via_to_sql": "",
-  "test_via_to_sql_with_complicating_connection": "",
   "test_write_binary": "",
   "test_write_nil": "",
   "Serializer": "",

@@ -3,6 +3,7 @@
   "initialize": "",
   "call": "",
   "optimized_helper": "",
+  "replace_segment": "",
   "optimize_routes_generation?": "",
   "parameterize_args": "",
   "missing_keys": "",

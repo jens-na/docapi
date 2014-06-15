@@ -3,6 +3,7 @@
   "table_name": "Returns the value of attribute table_name",
   "conn": "Returns the value of attribute connection",
   "setup": "",
+  "teardown": "",
   "test_column_positioning": "",
   "test_add_column_with_positioning": "",
   "test_add_column_with_positioning_first": "",

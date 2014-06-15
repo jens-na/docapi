@@ -1,8 +1,7 @@
 {
   "cache_path": "Returns the value of attribute cache_path",
   "DIR_FORMATTER": "",
-  "FILENAME_MAX_SIZE": "",
-  "FILEPATH_MAX_SIZE": "max filename size on file system is 255, minus room for timestamp and random characters appended by Tempfile (used by atomic write)\nmax is 1024, plus some room",
+  "FILENAME_MAX_SIZE": "max filename size on file system is 255, minus room for timestamp and random characters appended by Tempfile (used by atomic write)",
   "EXCLUDED_DIRS": "",
   "initialize": "",
   "clear": "Deletes all items from the cache. In this case it deletes all the entries in the specified\nfile store directory except for .gitkeep. Be careful which directory is specified in your\nconfig file when using +FileStore+ because everything in that directory will be deleted.",

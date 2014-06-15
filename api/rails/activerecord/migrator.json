@@ -14,6 +14,7 @@
   "needs_migration?": "",
   "last_version": "",
   "last_migration": ":nodoc:",
+  "proper_table_name": "",
   "migrations_paths": "",
   "migrations_path": "",
   "migrations": "",

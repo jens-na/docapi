@@ -1,5 +1,6 @@
 {
   "RAISE_DUP": "",
-  "ALLOW_DUP": "",
+  "YES": "",
+  "NO": "",
   "test_duplicable": ""
 }

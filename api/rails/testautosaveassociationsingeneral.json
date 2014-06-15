@@ -4,6 +4,7 @@
   "test_should_not_add_the_same_callbacks_multiple_times_for_belongs_to": "",
   "test_should_not_add_the_same_callbacks_multiple_times_for_has_many": "",
   "test_should_not_add_the_same_callbacks_multiple_times_for_has_and_belongs_to_many": "",
+  "base": "",
   "assert_no_difference_when_adding_callbacks_twice_for": "",
   "callbacks_for_model": ""
 }

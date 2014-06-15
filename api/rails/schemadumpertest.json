@@ -1,4 +1,5 @@
 {
+  "setup": "",
   "standard_dump": "",
   "test_dump_schema_information_outputs_lexically_ordered_versions": "",
   "test_magic_comment": "",
@@ -33,7 +34,6 @@
   "test_schema_dump_includes_macaddr_shorthand_definition": "",
   "test_schema_dump_includes_uuid_shorthand_definition": "",
   "test_schema_dump_includes_hstores_shorthand_definition": "",
-  "test_schema_dump_includes_citext_shorthand_definition": "",
   "test_schema_dump_includes_ltrees_shorthand_definition": "",
   "test_schema_dump_includes_arrays_shorthand_definition": "",
   "test_schema_dump_includes_tsvector_shorthand_definition": "",

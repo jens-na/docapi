@@ -1,5 +1,6 @@
 {
   "setup": "",
+  "teardown": "",
   "test_connection_no_longer_established": "",
   "test_underlying_adapter_no_longer_active": ""
 }

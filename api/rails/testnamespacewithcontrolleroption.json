@@ -1,11 +1,7 @@
 {
   "draw": "",
-  "test_missing_controller": "",
-  "test_missing_action": "",
-  "test_missing_action_on_hash": "",
   "test_valid_controller_options_inside_namespace": "",
   "test_resources_with_valid_namespaced_controller_option": "",
   "test_warn_with_ruby_constant_syntax_controller_option": "",
-  "test_warn_with_ruby_constant_syntax_namespaced_controller_option": "",
-  "test_warn_with_ruby_constant_syntax_no_colons": ""
+  "test_warn_with_ruby_constant_syntax_namespaced_controller_option": ""
 }

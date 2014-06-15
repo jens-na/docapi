@@ -1,6 +1,7 @@
 {
   "Ltree": "",
   "setup": "",
+  "teardown": "",
   "test_column": "",
   "test_write": "",
   "test_select": ""

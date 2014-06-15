@@ -16,7 +16,5 @@
   "exception_with_callback": "",
   "exception_in_controller": "",
   "bad_request_error": "",
-  "exception_in_exception_callback": "",
-  "overfill_buffer_and_die": "",
-  "ignore_client_disconnect": ""
+  "exception_in_exception_callback": ""
 }

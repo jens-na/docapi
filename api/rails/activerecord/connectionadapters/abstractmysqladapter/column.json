@@ -3,10 +3,12 @@
   "strict": "Returns the value of attribute strict",
   "extra": "Returns the value of attribute extra",
   "initialize": "",
-  "default": "",
+  "extract_default": "",
   "has_default?": "",
   "blob_or_text_column?": "",
+  "adapter": "Must return the relevant concrete adapter",
   "case_sensitive?": "",
-  "missing_default_forged_as_empty_string?": "MySQL misreports NOT NULL column default when none is given.\nWe can't detect this for columns which may have a legitimate ''\ndefault (string) but we can for others (integer, datetime, boolean,\nand the rest).\n\nTest whether the column has default '', is not null, and is not\na type allowing default ''.",
-  "assert_valid_default": ""
+  "simplified_type": "",
+  "extract_limit": "",
+  "missing_default_forged_as_empty_string?": "MySQL misreports NOT NULL column default when none is given.\nWe can't detect this for columns which may have a legitimate ''\ndefault (string) but we can for others (integer, datetime, boolean,\nand the rest).\n\nTest whether the column has default '', is not null, and is not\na type allowing default ''."
 }

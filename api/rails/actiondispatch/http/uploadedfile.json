@@ -5,7 +5,6 @@
   "content_type=": "A string with the MIME type of the file.",
   "tempfile": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
   "tempfile=": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
-  "to_io": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
   "headers": "A string with the headers of the multipart request.",
   "headers=": "A string with the headers of the multipart request.",
   "initialize": ":nodoc:",

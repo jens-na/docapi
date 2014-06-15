@@ -4,6 +4,5 @@
   "test_basic_sse": "",
   "test_sse_with_event_name": "",
   "test_sse_with_retry": "",
-  "test_sse_with_id": "",
-  "test_sse_with_multiple_line_message": ""
+  "test_sse_with_id": ""
 }

@@ -1,6 +1,9 @@
 {
   "setup": "",
   "native_database_types": "",
+  "test_can_set_coder": "",
+  "test_encoded?": "",
+  "test_type_case_coded_column": "",
   "test_should_not_include_default_clause_when_default_is_null": "Avoid column definitions in create table statements like:\n`title` varchar(255) DEFAULT NULL",
   "test_should_include_default_clause_when_default_is_present": "",
   "test_should_specify_not_null_if_null_option_is_false": "",

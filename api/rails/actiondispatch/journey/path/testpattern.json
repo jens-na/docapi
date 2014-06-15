@@ -1,4 +1,5 @@
 {
+  "test_to_raise_exception_with_bad_expression": "",
   "test_to_regexp_with_extended_group": "",
   "test_optional_names": "",
   "test_to_regexp_match_non_optional": "",

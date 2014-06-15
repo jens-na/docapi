@@ -6,7 +6,5 @@
   "text=": "Sets the attribute text",
   "text": "Returns the value of attribute text",
   "directories": "",
-  "extensions": "",
-  "register_extensions": "Registers new Annotations File Extensions\n  SourceAnnotationExtractor::Annotation.register_extensions(\"css\", \"scss\", \"sass\", \"less\", \"js\") { |tag| /\\/\\/\\s*(#{tag}):?\\s*(.*)$/ }",
   "to_s": "Returns a representation of the annotation that looks like this:\n\n  [126] [TODO] This algorithm is simple and clearly correct, make it faster.\n\nIf +options+ has a flag <tt>:tag</tt> the tag is shown as in the example above.\nOtherwise the string contains just line and text."
 }

@@ -6,6 +6,5 @@
   "test_working_with_simple_attributes": "",
   "test_child_class_delegates_to_parent_but_can_be_overridden": "",
   "test_delegation_stops_at_the_right_level": "",
-  "test_delegation_stops_for_nil": "",
-  "test_deprecation_warning": ""
+  "test_delegation_stops_for_nil": ""
 }

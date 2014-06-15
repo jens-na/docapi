@@ -12,6 +12,5 @@
   "test_chaining_multiple": "",
   "test_rewhere_with_one_condition": "",
   "test_rewhere_with_multiple_overwriting_conditions": "",
-  "assert_bound_ast": "",
   "test_rewhere_with_one_overwriting_condition_and_one_unrelated": ""
 }

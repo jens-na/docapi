@@ -1,7 +1,10 @@
 {
-  "UUIDType": "",
-  "test_change_column_default": "",
-  "test_data_type_of_uuid_types": "",
-  "test_treat_blank_uuid_as_nil": "",
-  "test_uuid_formats": ""
+  "UUID": "",
+  "setup": "",
+  "teardown": "",
+  "test_id_is_uuid": "",
+  "test_id_has_a_default": "",
+  "test_auto_create_uuid": "",
+  "test_pk_and_sequence_for_uuid_primary_key": "",
+  "test_schema_dumper_for_uuid_primary_key": ""
 }

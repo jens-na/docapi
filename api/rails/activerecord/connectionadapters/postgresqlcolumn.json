@@ -1,5 +1,20 @@
 {
-  "array": "Returns the value of attribute array",
-  "array=": "Sets the attribute array",
-  "initialize": ""
+  "Cast": "",
+  "array": ":nodoc:",
+  "array=": ":nodoc:",
+  "initialize": "",
+  "number?": "",
+  "text?": "",
+  "money_precision": "Returns the value of attribute money_precision",
+  "money_precision=": "Sets the attribute money_precision",
+  "extract_value_from_default": "Extracts the value from a PostgreSQL column default definition.",
+  "type_cast_for_write": "",
+  "type_cast": "",
+  "accessor": "",
+  "has_default_function?": "",
+  "extract_limit": "",
+  "extract_scale": "Extracts the scale from PostgreSQL-specific data types.",
+  "extract_precision": "Extracts the precision from PostgreSQL-specific data types.",
+  "simplified_type": "Maps PostgreSQL-specific data types to logical Rails types.",
+  "ArrayParser": ""
 }

@@ -7,5 +7,6 @@
   "test_collects_pairs_of_queries_and_binds": "",
   "test_collects_nothing_if_the_statement_is_not_whitelisted": "",
   "test_collects_nothing_if_the_statement_is_only_partially_matched": "",
+  "teardown": "",
   "queries": ""
 }

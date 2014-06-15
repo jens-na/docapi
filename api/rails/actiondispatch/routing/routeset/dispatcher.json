@@ -1,11 +1,11 @@
 {
   "initialize": "",
-  "dispatcher?": "",
-  "serve": "",
+  "call": "",
   "prepare_params!": "",
   "controller": "If this is a default_controller (i.e. a controller specified by the user)\nwe should raise an error in case it's not found, because it usually means\na user error. However, if the controller was retrieved through a dynamic\nsegment, as in :controller(/:action), we should simply return nil and\ndelegate the control back to Rack cascade. Besides, if this is not a default\ncontroller, it means we should respect the @scope[:module] parameter.",
   "controller_reference": "",
   "dispatch": "",
   "normalize_controller!": "",
-  "merge_default_action!": ""
+  "merge_default_action!": "",
+  "split_glob_param!": ""
 }

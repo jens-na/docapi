@@ -6,8 +6,6 @@
   "cached_counter_attribute_name": "",
   "update_counter": "",
   "inverse_updates_counter_cache?": "This shit is nasty. We need to avoid the following situation:\n\n  * An associated record is deleted via record.destroy\n  * Hence the callbacks run, and they find a belongs_to on the record with a\n    :counter_cache options which points back at our owner. So they update the\n    counter cache.\n  * In which case, we must make sure to *not* update the counter cache, or else\n    it will be decremented twice.\n\nHence this method.",
-  "delete_count": "",
-  "delete_or_nullify_all_records": "",
   "delete_records": "Deletes the records according to the <tt>:dependent</tt> option.",
   "foreign_key_present?": ""
 }

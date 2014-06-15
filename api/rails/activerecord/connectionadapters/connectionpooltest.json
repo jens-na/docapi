@@ -1,6 +1,7 @@
 {
   "pool": "Returns the value of attribute pool",
   "setup": "",
+  "teardown": "",
   "active_connections": "",
   "test_checkout_after_close": "",
   "test_released_connection_moves_between_threads": "",

@@ -1,3 +1,6 @@
 {
+  "UUID": "",
+  "setup": "",
+  "teardown": "",
   "test_id_allows_default_override_via_nil": ""
 }

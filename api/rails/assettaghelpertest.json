@@ -34,7 +34,6 @@
   "test_autodiscovery_link_tag_with_unknown_type_but_not_pass_type_option_key": "",
   "test_autodiscovery_link_tag_with_unknown_type": "",
   "test_asset_path_tag": "",
-  "test_asset_path_tag_to_not_create_duplicate_slashes": "",
   "test_compute_asset_public_path": "",
   "test_auto_discovery_link_tag": "",
   "test_javascript_path": "",

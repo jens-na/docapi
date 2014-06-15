@@ -6,7 +6,6 @@
   "notifier": "Returns the value of attribute notifier",
   "namespace": "Returns the value of attribute namespace",
   "add_event_subscriber": "",
-  "patterns": ":nodoc:",
   "initialize": "",
   "start": "",
   "finish": "",

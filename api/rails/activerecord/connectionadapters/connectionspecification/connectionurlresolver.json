@@ -3,7 +3,7 @@
   "to_hash": "Converts the given URL to a full connection hash.",
   "uri": "",
   "uri_parser": "",
-  "query_hash": "Converts the query parameters of the URI into a hash.\n\n  \"localhost?pool=5&reaping_frequency=2\"\n  # => { \"pool\" => \"5\", \"reaping_frequency\" => \"2\" }\n\nreturns empty hash if no query present.\n\n  \"localhost\"\n  # => {}",
+  "query_hash": "Converts the query parameters of the URI into a hash.\n\n  \"localhost?pool=5&reap_frequency=2\"\n  # => { \"pool\" => \"5\", \"reap_frequency\" => \"2\" }\n\nreturns empty hash if no query present.\n\n  \"localhost\"\n  # => {}",
   "raw_config": "",
-  "database_from_path": "Returns name of the database."
+  "database_from_path": "Returns name of the database.\nSqlite3's handling of a leading slash is in transition as of\nRails 4.1."
 }

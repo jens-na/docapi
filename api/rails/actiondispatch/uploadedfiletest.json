@@ -5,7 +5,6 @@
   "test_content_type": "",
   "test_headers": "",
   "test_tempfile": "",
-  "test_to_io_returns_the_tempfile": "",
   "test_delegates_path_to_tempfile": "",
   "test_delegates_open_to_tempfile": "",
   "test_delegates_close_to_tempfile": "",

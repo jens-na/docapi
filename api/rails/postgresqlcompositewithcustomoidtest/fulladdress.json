@@ -1,6 +1,0 @@
-{
-  "city=": "Sets the attribute city",
-  "city": "Returns the value of attribute city",
-  "street=": "Sets the attribute street",
-  "street": "Returns the value of attribute street"
-}

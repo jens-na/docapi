@@ -8,7 +8,7 @@
   "test_relation_merging_with_preload": "",
   "test_relation_merging_with_joins": "",
   "test_relation_merging_with_association": "",
+  "test_merging_removes_rhs_bind_parameters": "",
   "test_merging_keeps_lhs_bind_parameters": "",
-  "test_merging_reorders_bind_params": "",
-  "test_merging_compares_symbols_and_strings_as_equal": ""
+  "test_merging_reorders_bind_params": ""
 }

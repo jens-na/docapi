@@ -4,5 +4,5 @@
   "test_string_defaults_in_new_schema_when_overriding_domain": "",
   "test_bpchar_defaults_in_new_schema_when_overriding_domain": "",
   "test_text_defaults_after_updating_column_default": "",
-  "test_default_containing_quote_and_colons": ""
+  "teardown": ""
 }

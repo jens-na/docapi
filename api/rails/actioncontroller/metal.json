@@ -19,6 +19,5 @@
   "use": "Pushes the given Rack middleware and its arguments to the bottom of the\nmiddleware stack.",
   "middleware": "Alias for +middleware_stack+.",
   "call": "Makes the controller a Rack endpoint that runs the action in the given\n+env+'s +action_dispatch.request.path_parameters+ key.",
-  "action": "Returns a Rack endpoint for the given action name.",
-  "_status_code": ""
+  "action": "Returns a Rack endpoint for the given action name."
 }

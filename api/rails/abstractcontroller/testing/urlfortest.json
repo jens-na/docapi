@@ -1,7 +1,6 @@
 {
   "W": "",
   "teardown": "",
-  "test_nested_optional": "",
   "add_host!": "",
   "add_port!": "",
   "add_numeric_host!": "",
@@ -25,7 +24,6 @@
   "test_protocol": "",
   "test_protocol_with_and_without_separators": "",
   "test_without_protocol": "",
-  "test_without_protocol_and_with_port": "",
   "test_trailing_slash": "",
   "test_trailing_slash_with_protocol": "",
   "test_trailing_slash_with_only_path": "",

@@ -2,7 +2,6 @@
   "test_add_column_newline_default": "",
   "test_add_remove_single_field_using_string_arguments": "",
   "test_add_remove_single_field_using_symbol_arguments": "",
-  "test_add_column_without_limit": "",
   "test_unabstracted_database_dependent_types": "",
   "test_native_decimal_insert_manual_vs_automatic": "We specifically do a manual INSERT here, and then test only the SELECT\nfunctionality. This allows us to more easily catch INSERT being broken,\nbut SELECT actually working fine.",
   "test_add_column_with_precision_and_scale": "",

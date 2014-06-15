@@ -10,7 +10,5 @@
   "klass": "Returns the class for the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns the Money class\n<tt>has_many :clients</tt> returns the Client class",
   "class_name": "Returns the class name for the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns <tt>'Money'</tt>\n<tt>has_many :clients</tt> returns <tt>'Client'</tt>",
   "==": "Returns +true+ if +self+ and +other_aggregation+ have the same +name+ attribute, +active_record+ attribute,\nand +other_aggregation+ has an options hash assigned to it.",
-  "JoinKeys": ":nodoc:",
-  "join_keys": "",
   "derive_class_name": ""
 }

@@ -4,7 +4,6 @@
   "requirements": "Returns the value of attribute requirements",
   "separators": "Returns the value of attribute separators",
   "anchor": "Returns the value of attribute anchor",
-  "ast": "Returns the value of attribute ast",
-  "build": "",
-  "initialize": ""
+  "initialize": "",
+  "names": ""
 }

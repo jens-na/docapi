@@ -6,6 +6,7 @@
   "test_create_fixtures": "",
   "test_multiple_clean_fixtures": "",
   "test_create_symbol_fixtures": "",
+  "test_create_symbol_fixtures_is_deprecated": "",
   "test_attributes": "",
   "test_inserts": "",
   "test_inserts_with_pre_and_suffix": "",

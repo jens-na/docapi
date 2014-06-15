@@ -4,5 +4,6 @@
   "find_finder_class_for": "The check for an existing value should be run from a class that\nisn't abstract. This means working down from the current class\n(self), to the first non-abstract class. Since classes don't know\ntheir subclasses, we have to build the hierarchy between self and\nthe record's class.",
   "build_relation": ":nodoc:",
   "scope_relation": "",
+  "deserialize_attribute": "",
   "map_enum_attribute": ""
 }

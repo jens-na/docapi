@@ -10,8 +10,6 @@
   "test_rake_tasks_defined_on_different_applications_go_to_the_same_class": "",
   "test_multiple_applications_can_be_initialized": "",
   "test_initializers_run_on_different_applications_go_to_the_same_class": "",
-  "test_consoles_run_on_different_applications_go_to_the_same_class": "",
-  "test_generators_run_on_different_applications_go_to_the_same_class": "",
   "test_runners_run_on_different_applications_go_to_the_same_class": "",
   "test_isolate_namespace_on_an_application": "",
   "test_inserting_configuration_into_application": ""

@@ -1,10 +1,12 @@
 {
   "MyObject": "",
-  "test_serialize_does_not_eagerly_load_columns": "",
+  "teardown": "",
   "test_list_of_serialized_attributes": "",
   "test_serialized_attribute": "",
+  "test_serialized_attribute_init_with": "",
   "test_serialized_attribute_in_base_class": "",
-  "test_serialized_attributes_from_database_on_subclass": "",
+  "test_serialized_attribute_before_type_cast_returns_unserialized_value": "This test was added to fix GH #4004. Obviously the value returned\nis not really the value 'before type cast' so we should maybe think\nabout changing that in the future.",
+  "test_serialized_attributes_before_type_cast_returns_unserialized_value": "",
   "test_serialized_attribute_calling_dup_method": "",
   "test_serialized_attribute_declared_in_subclass": "",
   "test_serialized_time_attribute": "",
@@ -20,9 +22,9 @@
   "test_serialized_boolean_value_true": "",
   "test_serialized_boolean_value_false": "",
   "test_serialize_with_coder": "",
+  "test_serialize_with_bcrypt_coder": "",
   "test_serialize_attribute_via_select_method_when_time_zone_available": "",
   "test_serialize_attribute_can_be_serialized_in_an_integer_column": "",
   "test_regression_serialized_default_on_text_column_with_null_false": "",
-  "test_serialized_column_should_unserialize_after_update_column": "",
-  "test_serialized_column_should_unserialize_after_update_attribute": ""
+  "test_serialized_column_should_not_be_wrapped_twice": ""
 }

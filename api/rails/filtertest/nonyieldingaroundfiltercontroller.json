@@ -1,7 +1,7 @@
 {
   "index": "",
   "filter_one": "",
-  "action_two": "",
-  "non_yielding_action": "",
-  "action_three": ""
+  "filter_two": "",
+  "non_yielding_filter": "",
+  "filter_three": ""
 }

@@ -1,6 +1,7 @@
 {
   "request": "Returns the value of attribute request",
   "view": "Returns the value of attribute view",
+  "setup": "",
   "test_delegates_to_i18n_setting_the_rescue_format_option_to_html": "",
   "test_delegates_localize_to_i18n": "",
   "test_returns_missing_translation_message_wrapped_into_span": "",
@@ -23,6 +24,5 @@
   "test_translate_with_two_defaults_named_html": "",
   "test_translate_with_last_default_named_html": "",
   "test_translate_with_string_default": "",
-  "test_translate_with_array_of_string_defaults": "",
-  "test_translate_does_not_change_options": ""
+  "test_translate_with_array_of_string_defaults": ""
 }

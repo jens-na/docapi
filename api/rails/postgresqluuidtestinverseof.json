@@ -1,5 +1,7 @@
 {
   "UuidPost": "",
   "UuidComment": "",
+  "setup": "",
+  "teardown": "",
   "test_collection_association_with_uuid": ""
 }

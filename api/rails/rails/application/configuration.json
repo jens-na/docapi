@@ -66,6 +66,5 @@
   "log_level": "",
   "colorize_logging": "",
   "colorize_logging=": "",
-  "session_store": "",
-  "annotations": ""
+  "session_store": ""
 }

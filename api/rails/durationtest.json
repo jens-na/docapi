@@ -2,7 +2,6 @@
   "test_is_a": "",
   "test_threequals": "",
   "test_equals": "",
-  "test_eql": "",
   "test_inspect": "",
   "test_minus_with_duration_does_not_break_subtraction_of_date_from_date": "",
   "test_plus_with_time": "",

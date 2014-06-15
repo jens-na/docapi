@@ -5,7 +5,6 @@
   "test_should_compute_proper_path": "",
   "test_should_return_nothing_if_asset_host_isnt_configured": "",
   "test_should_current_request_host_is_always_returned_for_request": "",
-  "test_should_return_custom_host_if_passed_in_options": "",
   "test_should_ignore_relative_root_path_on_complete_url": "",
   "test_should_return_simple_string_asset_host": "",
   "test_should_return_relative_asset_host": "",

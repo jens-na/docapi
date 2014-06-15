@@ -1,6 +1,7 @@
 {
   "Sensor": "Use this class to sense if migrations have gone\nup or down.",
   "setup": "",
+  "teardown": "",
   "test_migrator_with_duplicate_names": "",
   "test_migrator_with_duplicate_versions": "",
   "test_migrator_with_missing_version_numbers": "",

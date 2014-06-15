@@ -1,2 +1,4 @@
 {
+  "initialize": "",
+  "extend_message": "can be over written to add additional error information."
 }

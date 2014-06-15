@@ -2,6 +2,5 @@
   "basic_sse": "",
   "sse_with_event": "",
   "sse_with_retry": "",
-  "sse_with_id": "",
-  "sse_with_multiple_line_message": ""
+  "sse_with_id": ""
 }

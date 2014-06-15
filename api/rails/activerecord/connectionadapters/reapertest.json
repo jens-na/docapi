@@ -1,6 +1,7 @@
 {
   "pool": "Returns the value of attribute pool",
   "setup": "",
+  "teardown": "",
   "FakePool": "",
   "test_nil_time": "A reaper with nil time should never reap connections",
   "test_some_time": "",

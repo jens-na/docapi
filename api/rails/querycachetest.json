@@ -8,7 +8,6 @@
   "test_cache_on_during_body_write": "",
   "test_cache_off_after_close": "",
   "test_cache_clear_after_close": "",
-  "test_cache_passing_a_relation": "",
   "test_find_queries": "",
   "test_find_queries_with_cache": "",
   "test_find_queries_with_cache_multi_record": "",

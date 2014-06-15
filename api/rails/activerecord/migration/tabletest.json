@@ -1,5 +1,6 @@
 {
   "setup": "",
+  "teardown": "",
   "with_change_table": "",
   "test_references_column_type_adds_id": "",
   "test_remove_references_column_type_removes_id": "",

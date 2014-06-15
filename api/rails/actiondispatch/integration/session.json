@@ -19,6 +19,5 @@
   "https?": "Returns +true+ if the session is mimicking a secure HTTPS request.\n\n  if session.https?\n    ...\n  end",
   "host!": "Sets the attribute host\nSet the host name to use in the next request.\n\n  session.host! \"www.example.com\"",
   "_mock_session": "",
-  "process": "Performs the actual request.",
-  "build_full_uri": ""
+  "process": "Performs the actual request."
 }

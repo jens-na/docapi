@@ -3,7 +3,6 @@
   "teardown": "",
   "cache_dir": "",
   "test_clear": "",
-  "test_long_keys": "",
   "test_key_transformation": "",
   "test_key_transformation_with_pathname": "",
   "test_filename_max_size": "Test that generated cache keys are short enough to have Tempfile stuff added to them and\nremain valid",

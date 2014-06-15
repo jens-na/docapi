@@ -1,5 +1,6 @@
 {
-  "test_column": "",
-  "test_composite_mapping": "",
-  "ensure_warning_is_issued": ""
+  "PostgresqlComposite": "",
+  "teardown": "",
+  "setup": "",
+  "test_composite_mapping": ""
 }

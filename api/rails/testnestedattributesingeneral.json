@@ -1,4 +1,5 @@
 {
+  "teardown": "",
   "test_base_should_have_an_empty_nested_attributes_options": "",
   "test_should_add_a_proc_to_nested_attributes_options": "",
   "test_should_not_build_a_new_record_using_reject_all_even_if_destroy_is_given": "",

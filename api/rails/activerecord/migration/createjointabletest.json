@@ -1,6 +1,7 @@
 {
   "connection": "Returns the value of attribute connection",
   "setup": "",
+  "teardown": "",
   "test_create_join_table": "",
   "test_create_join_table_set_not_null_by_default": "",
   "test_create_join_table_with_strings": "",

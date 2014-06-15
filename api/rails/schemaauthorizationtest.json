@@ -3,6 +3,7 @@
   "COLUMNS": "",
   "USERS": "",
   "setup": "",
+  "teardown": "",
   "test_schema_invisible": "",
   "test_session_auth=": "",
   "test_setting_auth_clears_stmt_cache": "",

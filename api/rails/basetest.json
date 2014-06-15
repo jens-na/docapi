@@ -1,10 +1,10 @@
 {
+  "teardown": "",
   "MyObserver": "Before and After hooks",
   "MySecondObserver": "",
   "MyInterceptor": "",
   "MySecondInterceptor": "",
+  "BaseMailerPreview": "",
   "swap": "Execute the block setting the given values and restoring old values after\nthe block is executed.",
-  "with_default": "",
-  "mail_side_effects": "A simple hack to restore the observers and interceptors for Mail, as it\ndoes not have an unregister API yet.",
-  "with_translation": ""
+  "with_default": ""
 }

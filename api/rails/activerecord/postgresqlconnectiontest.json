@@ -7,8 +7,6 @@
   "test_ctype": "",
   "test_default_client_min_messages": "",
   "test_connection_options": "Ensure, we can set connection params using the example of Generic\nQuery Optimizer (geqo). It is 'on' per default.",
-  "test_reset": "",
-  "test_reset_with_transaction": "",
   "test_tables_logs_name": "",
   "test_indexes_logs_name": "",
   "test_table_exists_logs_name": "",
@@ -21,5 +19,6 @@
   "test_set_session_variable_true": "",
   "test_set_session_variable_false": "",
   "test_set_session_variable_nil": "",
-  "test_set_session_variable_default": ""
+  "test_set_session_variable_default": "",
+  "run_without_connection": ""
 }

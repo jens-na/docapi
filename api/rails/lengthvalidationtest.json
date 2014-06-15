@@ -36,8 +36,5 @@
   "test_validates_length_of_using_both_minimum_and_maximum_should_not_allow_nil": "",
   "test_validates_length_of_using_minimum_0_should_not_allow_nil": "",
   "test_validates_length_of_using_is_0_should_not_allow_nil": "",
-  "test_validates_with_diff_in_option": "",
-  "test_validates_size_of_association": "",
-  "test_validates_size_of_association_using_within": "",
-  "test_validates_size_of_association_utf8": ""
+  "test_validates_with_diff_in_option": ""
 }

@@ -10,6 +10,7 @@
   "Dress": "",
   "Compress": "",
   "setup": "",
+  "teardown": "",
   "connection": "",
   "test_eager_no_extra_singularization_belongs_to": "",
   "test_eager_no_extra_singularization_has_one": "",

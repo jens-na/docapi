@@ -14,5 +14,7 @@
   "[]=": "",
   "states": "",
   "transitions": "",
-  "states_hash_for": ""
+  "states_hash_for": "",
+  "move_regexp": "",
+  "move_string": ""
 }

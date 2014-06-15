@@ -19,7 +19,6 @@
   "test_supports_yaml_arrays": "",
   "test_strips_DEFAULTS_key": "",
   "test_supports_label_interpolation": "",
-  "test_supports_label_string_interpolation": "",
   "test_supports_polymorphic_belongs_to": "",
   "test_only_generates_a_pk_if_necessary": "",
   "test_supports_sti": "",

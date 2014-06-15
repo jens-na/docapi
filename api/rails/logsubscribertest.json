@@ -12,6 +12,5 @@
   "test_basic_query_doesnt_log_when_level_is_not_debug": "",
   "test_cached_queries_doesnt_log_when_level_is_not_debug": "",
   "test_initializes_runtime": "",
-  "test_binary_data_is_not_logged": "",
-  "test_nil_binary_data_is_logged": ""
+  "test_binary_data_is_not_logged": ""
 }

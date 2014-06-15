@@ -10,7 +10,6 @@
   "test_gem_with_version_should_include_version_in_gemfile": "",
   "test_gem_should_insert_on_separate_lines": "",
   "test_gem_should_include_options": "",
-  "test_gem_falls_back_to_inspect_if_string_contains_single_quote": "",
   "test_gem_group_should_wrap_gems_in_a_group": "",
   "test_environment_should_include_data_in_environment_initializer_block": "",
   "test_environment_should_include_data_in_environment_initializer_block_with_env_option": "",

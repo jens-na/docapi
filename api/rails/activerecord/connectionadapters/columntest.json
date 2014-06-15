@@ -1,0 +1,13 @@
+{
+  "test_type_cast_boolean": "",
+  "test_type_cast_integer": "",
+  "test_type_cast_non_integer_to_integer": "",
+  "test_type_cast_activerecord_to_integer": "",
+  "test_type_cast_object_without_to_i_to_integer": "",
+  "test_type_cast_nan_and_infinity_to_integer": "",
+  "test_type_cast_time": "",
+  "test_type_cast_datetime_and_timestamp": "",
+  "test_type_cast_date": "",
+  "test_type_cast_duration_to_integer": "",
+  "test_string_to_time_with_timezone": ""
+}

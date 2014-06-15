@@ -2,6 +2,7 @@
   "connection": "Returns the value of attribute connection",
   "table_name": "Returns the value of attribute table_name",
   "setup": "",
+  "teardown": "",
   "test_rename_index": "",
   "test_double_add_index": "",
   "test_remove_nonexistent_index": "",

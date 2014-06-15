@@ -1,0 +1,12 @@
+{
+  "coder=": "Sets the attribute coder",
+  "coder": "Returns the value of attribute coder",
+  "value=": "Sets the attribute value",
+  "value": "Returns the value of attribute value",
+  "state=": "Sets the attribute state",
+  "state": "Returns the value of attribute state",
+  "unserialized_value": "",
+  "serialized_value": "",
+  "unserialize": "",
+  "serialize": ""
+}

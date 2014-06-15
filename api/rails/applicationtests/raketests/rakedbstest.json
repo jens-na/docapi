@@ -3,6 +3,7 @@
   "teardown": "",
   "database_url_db_name": "",
   "set_database_url": "",
+  "expected": "",
   "db_create_and_drop": "",
   "db_migrate_and_status": "",
   "db_schema_dump": "",

@@ -1,7 +1,0 @@
-{
-  "name=": "Sets the attribute name",
-  "name": "Returns the value of attribute name",
-  "escaper=": "Sets the attribute escaper",
-  "escaper": "Returns the value of attribute escaper",
-  "escape": ""
-}

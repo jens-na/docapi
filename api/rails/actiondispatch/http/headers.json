@@ -2,14 +2,14 @@
   "CGI_VARIABLES": "",
   "HTTP_HEADER": "",
   "env": "Returns the value of attribute env",
-  "initialize": ":nodoc:",
-  "[]": "Returns the value for the given key mapped to @env.",
-  "[]=": "Sets the given value for the key mapped to @env.",
+  "initialize": "",
+  "[]": "",
+  "[]=": "",
   "key?": "",
   "include?": "",
-  "fetch": "Returns the value for the given key mapped to @env.\n\nIf the key is not found and an optional code block is not provided,\nraises a <tt>KeyError</tt> exception.\n\nIf the code block is provided, then it will be run and\nits result returned.",
+  "fetch": "",
   "each": "",
-  "merge": "Returns a new Http::Headers instance containing the contents of\n<tt>headers_or_env</tt> and the original instance.",
-  "merge!": "Adds the contents of <tt>headers_or_env</tt> to original instance\nentries; duplicate keys are overwritten with the values from\n<tt>headers_or_env</tt>.",
-  "env_name": "Converts a HTTP header name to an environment variable name if it is\nnot contained within the headers hash."
+  "merge": "",
+  "merge!": "",
+  "env_name": ""
 }

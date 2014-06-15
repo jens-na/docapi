@@ -7,8 +7,6 @@
   "test_set_response!": "",
   "test_write_to_stream": "",
   "test_async_stream": "",
-  "test_abort_with_full_buffer": "",
-  "test_ignore_client_disconnect": "",
   "test_thread_locals_get_copied": "",
   "test_live_stream_default_header": "",
   "test_render_text": "",

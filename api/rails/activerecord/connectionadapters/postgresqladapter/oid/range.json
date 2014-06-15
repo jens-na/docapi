@@ -1,0 +1,9 @@
+{
+  "subtype": "Returns the value of attribute subtype",
+  "initialize": "",
+  "extract_bounds": "",
+  "infinity": "",
+  "infinity?": "",
+  "to_integer": "",
+  "type_cast": ""
+}

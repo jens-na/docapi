@@ -1,6 +1,5 @@
 {
   "setup": "",
-  "teardown": "",
   "test_translated_model_attributes": "",
   "test_translated_model_attributes_with_default": "",
   "test_translated_model_attributes_using_default_option": "",

@@ -4,7 +4,7 @@
   "PROTECTED_IVARS": "Define some internal variables that should not be propagated to the view.",
   "_protected_ivars": ":nodoc:",
   "protected_instance_variables": "",
-  "before_actions": "",
+  "before_filters": "",
   "assigns": "",
   "test_routes": ""
 }

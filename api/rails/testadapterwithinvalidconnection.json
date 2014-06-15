@@ -1,4 +1,5 @@
 {
   "Bird": "",
-  "setup": ""
+  "setup": "",
+  "teardown": ""
 }

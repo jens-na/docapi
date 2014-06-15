@@ -1,7 +1,5 @@
 {
   "setup": "",
-  "MysqlDouble": "",
-  "test_float_limits": "",
   "test_schema": "",
   "test_primary_key": "",
   "test_table_exists?": "",

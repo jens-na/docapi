@@ -1,0 +1,5 @@
+{
+  "test_concern_shortcut_creates_a_module_but_doesnt_include_it": "",
+  "test_concern_creates_a_module_extended_with_active_support_concern": "",
+  "test_concerning_declares_a_concern_and_includes_it_immediately": ""
+}

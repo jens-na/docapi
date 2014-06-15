@@ -1,11 +1,15 @@
 {
   "setup": "",
   "test_units": "",
+  "test_deprecated_since_and_ago": "",
+  "test_deprecated_since_and_ago_without_argument": "",
   "test_irregular_durations": "",
   "test_duration_addition": "",
   "test_time_plus_duration": "",
   "test_chaining_duration_operations": "",
   "test_duration_after_conversion_is_no_longer_accurate": "",
   "test_add_one_year_to_leap_day": "",
+  "test_since_and_ago_anchored_to_time_now_when_time_zone_is_not_set": "",
+  "test_since_and_ago_anchored_to_time_zone_now_when_time_zone_is_set": "",
   "with_env_tz": ""
 }

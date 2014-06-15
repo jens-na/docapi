@@ -1,5 +1,5 @@
 {
   "REGEXPS": "",
-  "path": "Returns the path which was unable to be loaded.",
-  "is_missing?": "Returns true if the given path name (except perhaps for the \".rb\"\nextension) is the missing file which caused the exception to be raised."
+  "path": "",
+  "is_missing?": ""
 }
