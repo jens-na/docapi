@@ -1,0 +1,6 @@
+{
+  "initialize": "Creates a new JSON::Ext::Parser instance for the string _source_.\n\nCreates a new JSON::Ext::Parser instance for the string _source_.\n\nIt will be configured by the _opts_ hash. _opts_ can have the following\nkeys:\n\n_opts_ can have the following keys:\n* *max_nesting*: The maximum depth of nesting allowed in the parsed data\n  structures. Disable depth checking with :max_nesting => false|nil|0, it\n  defaults to 100.\n* *allow_nan*: If set to true, allow NaN, Infinity and -Infinity in\n  defiance of RFC 4627 to be parsed by the Parser. This option defaults to\n  false.\n* *symbolize_names*: If set to true, returns symbols for the names\n  (keys) in a JSON object. Otherwise strings are returned, which is also\n  the default.\n* *create_additions*: If set to false, the Parser doesn't create\n  additions even if a matchin class and create_id was found. This option\n  defaults to true.\n* *object_class*: Defaults to Hash\n* *array_class*: Defaults to Array",
+  "parse": "Parses the current JSON text _source_ and returns the complete data\n structure as a result.",
+  "source": "Returns a copy of the current _source_ string, that was used to construct\nthis Parser.",
+  "quirks_mode?": "Returns a true, if this parser is in quirks_mode, false otherwise."
+}

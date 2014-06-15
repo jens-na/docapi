@@ -1,0 +1,4 @@
+{
+  "input": "input gzipped string",
+  "inspect": "Constructs a String of the GzipFile Error"
+}

@@ -1,0 +1,16 @@
+{
+  "mtime=": "Specify the modification time (+mtime+) in the gzip header.\nUsing a Fixnum or Integer",
+  "orig_name=": "Specify the original name (+str+) in the gzip header.",
+  "comment=": "Specify the comment (+str+) in the gzip header.",
+  "pos": "Total number of input bytes read so far.",
+  "tell": "Total number of input bytes read so far.",
+  "open": "Opens a file specified by +filename+ for writing gzip compressed data, and\nreturns a GzipWriter object associated with that file.  Further details of\nthis method are found in Zlib::GzipWriter.new and Zlib::GzipFile.wrap.",
+  "initialize": "Creates a GzipWriter object associated with +io+. +level+ and +strategy+\nshould be the same as the arguments of Zlib::Deflate.new.  The GzipWriter\nobject writes gzipped data to +io+.  +io+ must respond to the\n+write+ method that behaves the same as IO#write.\n\nThe +options+ hash may be used to set the encoding of the data.\n+:external_encoding+, +:internal_encoding+ and +:encoding+ may be set as in\nIO::new.",
+  "flush": "Flushes all the internal buffers of the GzipWriter object.  The meaning of\n+flush+ is same as in Zlib::Deflate#deflate.  <tt>Zlib::SYNC_FLUSH</tt> is used if\n+flush+ is omitted.  It is no use giving flush <tt>Zlib::NO_FLUSH</tt>.",
+  "write": "Same as IO.",
+  "putc": "Same as IO.",
+  "<<": "call-seq: << string\n\nInputs +string+ into the deflate stream just like Zlib::Deflate#deflate, but\nreturns the Zlib::Deflate object itself.  The output from the stream is\npreserved in output buffer.",
+  "printf": "Same as IO.",
+  "print": "Same as IO.",
+  "puts": "Same as IO."
+}

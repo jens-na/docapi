@@ -1,0 +1,19 @@
+{
+  "initialize": "",
+  "to_pem": "",
+  "to_der": "",
+  "to_s": "",
+  "to_text": "",
+  "version": "",
+  "version=": "",
+  "subject": "",
+  "subject=": "",
+  "signature_algorithm": "",
+  "public_key": "",
+  "public_key=": "NO DUP - OK",
+  "sign": "",
+  "verify": "Checks that cert signature is made with PRIVversion of this PUBLIC 'key'",
+  "attributes": "",
+  "attributes=": "",
+  "add_attribute": ""
+}

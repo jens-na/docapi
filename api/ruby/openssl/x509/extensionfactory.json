@@ -1,0 +1,9 @@
+{
+  "initialize": "",
+  "issuer_certificate=": "",
+  "subject_certificate=": "",
+  "subject_request=": "",
+  "crl=": "",
+  "config=": "",
+  "create_ext": "Array to X509_EXTENSION\nStructure:\n[\"ln\", \"value\", bool_critical] or\n[\"sn\", \"value\", bool_critical] or\n[\"ln\", \"critical,value\"] or the same for sn\n[\"ln\", \"value\"] => not critical"
+}

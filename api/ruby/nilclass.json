@@ -1,0 +1,15 @@
+{
+  "to_i": "Always returns zero.\n\n   nil.to_i   #=> 0",
+  "to_f": "Always returns zero.\n\n   nil.to_f   #=> 0.0",
+  "to_s": "Always returns the empty string.",
+  "to_a": "call-seq:\n    nil.to_a    -> []\n\n Always returns an empty array.\n\n    nil.to_a   #=> []",
+  "to_h": "call-seq:\n    nil.to_h    -> {}\n\n Always returns an empty hash.\n\n    nil.to_h   #=> {}",
+  "inspect": "Always returns the string \"nil\".",
+  "&": "And---Returns <code>false</code>. <i>obj</i> is always\nevaluated as it is the argument to a method call---there is no\nshort-circuit evaluation in this case.",
+  "|": "Or---Returns <code>false</code> if <i>obj</i> is\n<code>nil</code> or <code>false</code>; <code>true</code> otherwise.",
+  "^": "Exclusive Or---If <i>obj</i> is <code>nil</code> or\n<code>false</code>, returns <code>false</code>; otherwise, returns\n<code>true</code>.",
+  "nil?": "Only the object <i>nil</i> responds <code>true</code> to <code>nil?</code>.",
+  "to_c": "Returns zero as a complex.",
+  "to_r": "Returns zero as a rational.",
+  "rationalize": "Returns zero as a rational.  The optional argument eps is always\nignored."
+}

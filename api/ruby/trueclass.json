@@ -1,0 +1,7 @@
+{
+  "to_s": "The string representation of <code>true</code> is \"true\".",
+  "inspect": "The string representation of <code>true</code> is \"true\".",
+  "&": "And---Returns <code>false</code> if <i>obj</i> is\n<code>nil</code> or <code>false</code>, <code>true</code> otherwise.",
+  "|": "Or---Returns <code>true</code>. As <i>anObject</i> is an argument to\na method call, it is always evaluated; there is no short-circuit\nevaluation in this case.\n\n   true |  puts(\"or\")\n   true || puts(\"logical or\")\n\n<em>produces:</em>\n\n   or",
+  "^": "Exclusive Or---Returns <code>true</code> if <i>obj</i> is\n<code>nil</code> or <code>false</code>, <code>false</code>\notherwise."
+}

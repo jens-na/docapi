@@ -1,0 +1,7 @@
+{
+  "list": "Returns an array of all existing Thread objects that belong to this group.\n\n   ThreadGroup::Default.list   #=> [#<Thread:0x401bdf4c run>]",
+  "enclose": "Prevents threads from being added to or removed from the receiving\nThreadGroup.\n\nNew threads can still be started in an enclosed ThreadGroup.\n\n   ThreadGroup::Default.enclose        #=> #<ThreadGroup:0x4029d914>\n   thr = Thread::new { Thread.stop }   #=> #<Thread:0x402a7210 sleep>\n   tg = ThreadGroup::new               #=> #<ThreadGroup:0x402752d4>\n   tg.add thr\n   #=> ThreadError: can't move from the enclosed thread group",
+  "enclosed?": "Returns +true+ if the +thgrp+ is enclosed. See also ThreadGroup#enclose.",
+  "add": "Adds the given +thread+ to this group, removing it from any other\ngroup to which it may have previously been a member.\n\n   puts \"Initial group is #{ThreadGroup::Default.list}\"\n   tg = ThreadGroup.new\n   t1 = Thread.new { sleep }\n   t2 = Thread.new { sleep }\n   puts \"t1 is #{t1}\"\n   puts \"t2 is #{t2}\"\n   tg.add(t1)\n   puts \"Initial group now #{ThreadGroup::Default.list}\"\n   puts \"tg group now #{tg.list}\"\n\nThis will produce:\n\n   Initial group is #<Thread:0x401bdf4c>\n   t1 is #<Thread:0x401b3c90>\n   t2 is #<Thread:0x401b3c18>\n   Initial group now #<Thread:0x401b3c18>#<Thread:0x401bdf4c>\n   tg group now #<Thread:0x401b3c90>",
+  "Default": "The default ThreadGroup created when Ruby starts; all Threads belong to it\n by default."
+}

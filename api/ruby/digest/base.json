@@ -1,0 +1,9 @@
+{
+  "initialize_copy": ":nodoc:",
+  "reset": ":nodoc:",
+  "update": ":nodoc:",
+  "<<": ":nodoc:",
+  "finish": ":nodoc:",
+  "digest_length": ":nodoc:",
+  "block_length": ":nodoc:"
+}

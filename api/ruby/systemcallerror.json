@@ -1,0 +1,5 @@
+{
+  "initialize": "If _errno_ corresponds to a known system error code, constructs\nthe appropriate <code>Errno</code> class for that error, otherwise\nconstructs a generic <code>SystemCallError</code> object. The\nerror number is subsequently available via the <code>errno</code>\nmethod.",
+  "errno": "Return this SystemCallError's error number.",
+  "===": "Return +true+ if the receiver is a generic +SystemCallError+, or\nif the error numbers +self+ and _other_ are the same."
+}

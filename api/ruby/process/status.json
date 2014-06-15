@@ -1,0 +1,17 @@
+{
+  "==": "Returns +true+ if the integer value of _stat_\nequals <em>other</em>.",
+  "&": "Logical AND of the bits in _stat_ with <em>num</em>.\n\n   fork { exit 0x37 }\n   Process.wait\n   sprintf('%04x', $?.to_i)       #=> \"3700\"\n   sprintf('%04x', $? & 0x1e00)   #=> \"1600\"",
+  ">>": "Shift the bits in _stat_ right <em>num</em> places.\n\n   fork { exit 99 }   #=> 26563\n   Process.wait       #=> 26563\n   $?.to_i            #=> 25344\n   $? >> 8            #=> 99",
+  "to_i": "Returns the bits in _stat_ as a <code>Fixnum</code>. Poking\naround in these bits is platform dependent.\n\n   fork { exit 0xab }         #=> 26566\n   Process.wait               #=> 26566\n   sprintf('%04x', $?.to_i)   #=> \"ab00\"",
+  "to_s": "Show pid and exit status as a string.\n\n  system(\"false\")\n  p $?.to_s         #=> \"pid 12766 exit 1\"",
+  "inspect": "Override the inspection method.\n\n  system(\"false\")\n  p $?.inspect #=> \"#<Process::Status: pid 12861 exit 1>\"",
+  "pid": "Returns the process ID that this status object represents.\n\n   fork { exit }   #=> 26569\n   Process.wait    #=> 26569\n   $?.pid          #=> 26569",
+  "stopped?": "Returns +true+ if this process is stopped. This is only\nreturned if the corresponding <code>wait</code> call had the\n<code>WUNTRACED</code> flag set.",
+  "stopsig": "Returns the number of the signal that caused _stat_ to stop\n(or +nil+ if self is not stopped).",
+  "signaled?": "Returns +true+ if _stat_ terminated because of\nan uncaught signal.",
+  "termsig": "Returns the number of the signal that caused _stat_ to\nterminate (or +nil+ if self was not terminated by an\nuncaught signal).",
+  "exited?": "Returns +true+ if _stat_ exited normally (for\nexample using an <code>exit()</code> call or finishing the\nprogram).",
+  "exitstatus": "Returns the least significant eight bits of the return code of\n_stat_. Only available if <code>exited?</code> is\n+true+.\n\n   fork { }           #=> 26572\n   Process.wait       #=> 26572\n   $?.exited?         #=> true\n   $?.exitstatus      #=> 0\n\n   fork { exit 99 }   #=> 26573\n   Process.wait       #=> 26573\n   $?.exited?         #=> true\n   $?.exitstatus      #=> 99",
+  "success?": "Returns +true+ if _stat_ is successful, +false+ if not.\nReturns +nil+ if <code>exited?</code> is not +true+.",
+  "coredump?": "Returns +true+ if _stat_ generated a coredump\nwhen it terminated. Not available on all platforms."
+}

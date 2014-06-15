@@ -1,0 +1,10 @@
+{
+  "initialize": "",
+  "add_nonce": "",
+  "check_nonce": "Check nonce validity in a request and response.\nReturn value reflects result:\n 1: nonces present and equal.\n 2: nonces both absent.\n 3: nonce present in response only.\n 0: nonces both present and not equal.\n -1: nonce in request only.\n\n For most responders clients can check return > 0.\n If responder doesn't handle nonces return != 0 may be\n necessary. return == 0 is always an error.",
+  "add_certid": "",
+  "certid": "",
+  "sign": "",
+  "verify": "",
+  "to_der": ""
+}

@@ -1,0 +1,7 @@
+{
+  "!": ":nodoc:",
+  "==": ":nodoc:",
+  "to_str": ":nodoc:",
+  "_dump": ":nodoc:",
+  "_load": ":nodoc:"
+}

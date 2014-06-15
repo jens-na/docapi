@@ -1,0 +1,6 @@
+{
+  "initialize": ":nodoc:",
+  "digest": "Returns the hash value of a given _string_.  This is equivalent to\nDigest::Class.new(*parameters).digest(string), where extra\n_parameters_, if any, are passed through to the constructor and the\n_string_ is passed to #digest().",
+  "hexdigest": "Returns the hex-encoded hash value of a given _string_.  This is\nalmost equivalent to\nDigest.hexencode(Digest::Class.new(*parameters).digest(string)).",
+  "bubblebabble": "call-seq:\n    Digest::Class.bubblebabble(string, ...) -> hash_string\n\nReturns the BubbleBabble encoded hash value of a given _string_."
+}

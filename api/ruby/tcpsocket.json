@@ -1,0 +1,4 @@
+{
+  "gethostbyname": "Lookups host information by _hostname_.\n\n  TCPSocket.gethostbyname(\"localhost\")\n  #=> [\"localhost\", [\"hal\"], 2, \"127.0.0.1\"]",
+  "initialize": "Opens a TCP connection to +remote_host+ on +remote_port+.  If +local_host+\nand +local_port+ are specified, then those parameters are used on the local\nend to establish the connection."
+}

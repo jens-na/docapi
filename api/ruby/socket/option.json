@@ -1,0 +1,16 @@
+{
+  "initialize": "Returns a new Socket::Option object.\n\n  sockopt = Socket::Option.new(:INET, :SOCKET, :KEEPALIVE, [1].pack(\"i\"))\n  p sockopt #=> #<Socket::Option: INET SOCKET KEEPALIVE 1>",
+  "family": "returns the socket family as an integer.\n\n  p Socket::Option.new(:INET6, :IPV6, :RECVPKTINFO, [1].pack(\"i!\")).family\n  #=> 10",
+  "level": "returns the socket level as an integer.\n\n  p Socket::Option.new(:INET6, :IPV6, :RECVPKTINFO, [1].pack(\"i!\")).level\n  #=> 41",
+  "optname": "returns the socket option name as an integer.\n\n  p Socket::Option.new(:INET6, :IPV6, :RECVPKTINFO, [1].pack(\"i!\")).optname\n  #=> 2",
+  "data": "returns the socket option data as a string.\n\n  p Socket::Option.new(:INET6, :IPV6, :RECVPKTINFO, [1].pack(\"i!\")).data\n  #=> \"\\x01\\x00\\x00\\x00\"",
+  "inspect": "Returns a string which shows sockopt in human-readable form.\n\n  p Socket::Option.new(:INET, :SOCKET, :KEEPALIVE, [1].pack(\"i\")).inspect\n  #=> \"#<Socket::Option: INET SOCKET KEEPALIVE 1>\"",
+  "int": "Returns the data in _sockopt_ as an int.\n\nThe size and endian is dependent on the platform.\n\n  sockopt = Socket::Option.int(:INET, :SOCKET, :KEEPALIVE, 1)\n  p sockopt.int => 1",
+  "byte": "Returns the data in _sockopt_ as an byte.\n\nThe size and endian is dependent on the platform.\n\n  sockopt = Socket::Option.byte(:INET, :SOCKET, :KEEPALIVE, 1)\n  p sockopt.byte => 1",
+  "bool": "Returns the data in _sockopt_ as an boolean value.\n\n  sockopt = Socket::Option.int(:INET, :SOCKET, :KEEPALIVE, 1)\n  p sockopt.bool => true",
+  "linger": "Returns the linger data in _sockopt_ as a pair of boolean and integer.\n\n  sockopt = Socket::Option.linger(true, 10)\n  p sockopt.linger => [true, 10]",
+  "ipv4_multicast_ttl": "Returns the ipv4_multicast_ttl data in _sockopt_ as a integer.\n\n  sockopt = Socket::Option.ipv4_multicast_ttl(10)\n  p sockopt.ipv4_multicast_ttl => 10",
+  "ipv4_multicast_loop": "Returns the ipv4_multicast_loop data in _sockopt_ as a integer.\n\n  sockopt = Socket::Option.ipv4_multicast_loop(10)\n  p sockopt.ipv4_multicast_loop => 10",
+  "unpack": "Calls String#unpack on sockopt.data.\n\n  sockopt = Socket::Option.new(:INET, :SOCKET, :KEEPALIVE, [1].pack(\"i\"))\n  p sockopt.unpack(\"i\")      #=> [1]\n  p sockopt.data.unpack(\"i\") #=> [1]",
+  "to_s": "returns the socket option data as a string.\n\n  p Socket::Option.new(:INET6, :IPV6, :RECVPKTINFO, [1].pack(\"i!\")).data\n  #=> \"\\x01\\x00\\x00\\x00\""
+}

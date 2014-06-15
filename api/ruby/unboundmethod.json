@@ -1,0 +1,15 @@
+{
+  "==": "Two method objects are equal if they are bound to the same\nobject and refer to the same method definition and their owners are the\nsame class or module.",
+  "eql?": "Two method objects are equal if they are bound to the same\nobject and refer to the same method definition and their owners are the\nsame class or module.",
+  "hash": "Returns a hash value corresponding to the method object.",
+  "clone": "Returns a clone of this method.\n\n  class A\n    def foo\n      return \"bar\"\n    end\n  end\n\n  m = A.new.method(:foo)\n  m.call # => \"bar\"\n  n = m.clone.call # => \"bar\"",
+  "arity": "Returns an indication of the number of arguments accepted by a\nmethod. Returns a nonnegative integer for methods that take a fixed\nnumber of arguments. For Ruby methods that take a variable number of\narguments, returns -n-1, where n is the number of required\narguments. For methods written in C, returns -1 if the call takes a\nvariable number of arguments.\n\n   class C\n     def one;    end\n     def two(a); end\n     def three(*a);  end\n     def four(a, b); end\n     def five(a, b, *c);    end\n     def six(a, b, *c, &d); end\n   end\n   c = C.new\n   c.method(:one).arity     #=> 0\n   c.method(:two).arity     #=> 1\n   c.method(:three).arity   #=> -1\n   c.method(:four).arity    #=> 2\n   c.method(:five).arity    #=> -3\n   c.method(:six).arity     #=> -3\n\n   \"cat\".method(:size).arity      #=> 0\n   \"cat\".method(:replace).arity   #=> 1\n   \"cat\".method(:squeeze).arity   #=> -1\n   \"cat\".method(:count).arity     #=> -1",
+  "inspect": "Returns the name of the underlying method.\n\n  \"cat\".method(:count).inspect   #=> \"#<Method: String#count>\"",
+  "to_s": "Returns the name of the underlying method.\n\n  \"cat\".method(:count).inspect   #=> \"#<Method: String#count>\"",
+  "name": "Returns the name of the method.",
+  "original_name": "Returns the original name of the method.",
+  "owner": "Returns the class or module that defines the method.",
+  "bind": "Bind <i>umeth</i> to <i>obj</i>. If <code>Klass</code> was the class\nfrom which <i>umeth</i> was obtained,\n<code>obj.kind_of?(Klass)</code> must be true.\n\n   class A\n     def test\n       puts \"In test, class = #{self.class}\"\n     end\n   end\n   class B < A\n   end\n   class C < B\n   end\n\n\n   um = B.instance_method(:test)\n   bm = um.bind(C.new)\n   bm.call\n   bm = um.bind(B.new)\n   bm.call\n   bm = um.bind(A.new)\n   bm.call\n\n<em>produces:</em>\n\n   In test, class = C\n   In test, class = B\n   prog.rb:16:in `bind': bind argument must be an instance of B (TypeError)\n   \tfrom prog.rb:16",
+  "source_location": "Returns the Ruby source filename and line number containing this method\nor nil if this method was not defined in Ruby (i.e. native)",
+  "parameters": "Returns the parameter information of this method."
+}

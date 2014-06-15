@@ -1,0 +1,4 @@
+{
+  "initialize": "call-seq: new(ret, args, abi = Fiddle::DEFAULT)\n\nConstruct a new Closure object.\n\n* +ret+ is the C type to be returned\n* +args+ is an Array of arguments, passed to the callback function\n* +abi+ is the abi of the closure\n\nIf there is an error in preparing the ffi_cif or ffi_prep_closure,\nthen a RuntimeError will be raised.",
+  "to_i": "Returns the memory address for this closure"
+}

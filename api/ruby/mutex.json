@@ -1,0 +1,10 @@
+{
+  "initialize": "Creates a new Mutex",
+  "locked?": "Returns +true+ if this lock is currently held by some thread.",
+  "try_lock": "Attempts to obtain the lock and returns immediately. Returns +true+ if the\nlock was granted.",
+  "lock": "Attempts to grab the lock and waits if it isn't available.\nRaises +ThreadError+ if +mutex+ was locked by the current thread.",
+  "unlock": "Releases the lock.\nRaises +ThreadError+ if +mutex+ wasn't locked by the current thread.",
+  "sleep": "Releases the lock and sleeps +timeout+ seconds if it is given and\nnon-nil or forever.  Raises +ThreadError+ if +mutex+ wasn't locked by\nthe current thread.\n\nWhen the thread is next woken up, it will attempt to reacquire\nthe lock.\n\nNote that this method can wakeup without explicit Thread#wakeup call.\nFor example, receiving signal and so on.",
+  "synchronize": "Obtains a lock, runs the block, and releases the lock when the block\ncompletes.  See the example under +Mutex+.",
+  "owned?": "Returns +true+ if this lock is currently held by current thread.\n<em>This API is experimental, and subject to change.</em>"
+}

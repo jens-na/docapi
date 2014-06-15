@@ -1,0 +1,13 @@
+{
+  "Error": "",
+  "initialize": "See the OpenSSL documentation for EC_POINT_*",
+  "eql?": "",
+  "==": "",
+  "infinity?": "",
+  "on_curve?": "",
+  "make_affine!": "",
+  "invert!": "",
+  "set_to_infinity!": "",
+  "to_bn": "See the OpenSSL documentation for EC_POINT_point2bn()",
+  "mul": ""
+}

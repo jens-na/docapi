@@ -1,0 +1,14 @@
+{
+  "initialize": "",
+  "verify_callback=": "General callback for OpenSSL verify",
+  "flags=": "",
+  "purpose=": "",
+  "trust=": "",
+  "time=": "",
+  "add_path": "",
+  "add_file": "Adds the certificates in +file+ to the certificate store.  The +file+ can\ncontain multiple PEM-encoded certificates.",
+  "set_default_paths": "Adds the default certificates to the certificate store.  These certificates\nare loaded from the default configuration directory which can usually be\ndetermined by:\n\n  File.dirname OpenSSL::Config::DEFAULT_CONFIG_FILE",
+  "add_cert": "Adds the OpenSSL::X509::Certificate +cert+ to the certificate store.",
+  "add_crl": "",
+  "verify": ""
+}

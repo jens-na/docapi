@@ -1,0 +1,22 @@
+{
+  "initialize": "Creates a new Lazy enumerator. When the enumerator is actually enumerated\n(e.g. by calling #force), +obj+ will be enumerated and each value passed\nto the given block. The block can yield values back using +yielder+.\nFor example, to create a method +filter_map+ in both lazy and\nnon-lazy fashions:\n\n  module Enumerable\n    def filter_map(&block)\n      map(&block).compact\n    end\n  end\n\n  class Enumerator::Lazy\n    def filter_map\n      Lazy.new(self) do |yielder, *values|\n        result = yield *values\n        yielder << result if result\n      end\n    end\n  end\n\n  (1..Float::INFINITY).lazy.filter_map{|i| i*i if i.even?}.first(5)\n      # => [4, 16, 36, 64, 100]",
+  "to_enum": "Similar to Kernel#to_enum, except it returns a lazy enumerator.\nThis makes it easy to define Enumerable methods that will\nnaturally remain lazy if called from a lazy enumerator.\n\nFor example, continuing from the example in Kernel#to_enum:\n\n  # See Kernel#to_enum for the definition of repeat\n  r = 1..Float::INFINITY\n  r.repeat(2).first(5) # => [1, 1, 2, 2, 3]\n  r.repeat(2).class # => Enumerator\n  r.repeat(2).map{|n| n ** 2}.first(5) # => endless loop!\n  # works naturally on lazy enumerator:\n  r.lazy.repeat(2).class # => Enumerator::Lazy\n  r.lazy.repeat(2).map{|n| n ** 2}.first(5) # => [1, 1, 4, 4, 9]",
+  "enum_for": "Similar to Kernel#to_enum, except it returns a lazy enumerator.\nThis makes it easy to define Enumerable methods that will\nnaturally remain lazy if called from a lazy enumerator.\n\nFor example, continuing from the example in Kernel#to_enum:\n\n  # See Kernel#to_enum for the definition of repeat\n  r = 1..Float::INFINITY\n  r.repeat(2).first(5) # => [1, 1, 2, 2, 3]\n  r.repeat(2).class # => Enumerator\n  r.repeat(2).map{|n| n ** 2}.first(5) # => endless loop!\n  # works naturally on lazy enumerator:\n  r.lazy.repeat(2).class # => Enumerator::Lazy\n  r.lazy.repeat(2).map{|n| n ** 2}.first(5) # => [1, 1, 4, 4, 9]",
+  "map": "",
+  "collect": "",
+  "flat_map": "Returns a new lazy enumerator with the concatenated results of running\n<i>block</i> once for every element in <i>lazy</i>.\n\n  [\"foo\", \"bar\"].lazy.flat_map {|i| i.each_char.lazy}.force\n  #=> [\"f\", \"o\", \"o\", \"b\", \"a\", \"r\"]\n\nA value <i>x</i> returned by <i>block</i> is decomposed if either of\nthe following conditions is true:\n\n  a) <i>x</i> responds to both each and force, which means that\n     <i>x</i> is a lazy enumerator.\n  b) <i>x</i> is an array or responds to to_ary.\n\nOtherwise, <i>x</i> is contained as-is in the return value.\n\n  [{a:1}, {b:2}].lazy.flat_map {|i| i}.force\n  #=> [{:a=>1}, {:b=>2}]",
+  "collect_concat": "Returns a new lazy enumerator with the concatenated results of running\n<i>block</i> once for every element in <i>lazy</i>.\n\n  [\"foo\", \"bar\"].lazy.flat_map {|i| i.each_char.lazy}.force\n  #=> [\"f\", \"o\", \"o\", \"b\", \"a\", \"r\"]\n\nA value <i>x</i> returned by <i>block</i> is decomposed if either of\nthe following conditions is true:\n\n  a) <i>x</i> responds to both each and force, which means that\n     <i>x</i> is a lazy enumerator.\n  b) <i>x</i> is an array or responds to to_ary.\n\nOtherwise, <i>x</i> is contained as-is in the return value.\n\n  [{a:1}, {b:2}].lazy.flat_map {|i| i}.force\n  #=> [{:a=>1}, {:b=>2}]",
+  "select": "",
+  "find_all": "",
+  "reject": "",
+  "grep": "",
+  "zip": "",
+  "take": "",
+  "take_while": "",
+  "drop": "",
+  "drop_while": "",
+  "lazy": "",
+  "chunk": "",
+  "slice_before": "",
+  "force": ""
+}

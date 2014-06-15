@@ -1,0 +1,4 @@
+{
+  "initialize": "Opens a SOCKS connection to +host+ via the SOCKS server +serv+.",
+  "close": "Closes the SOCKS connection."
+}

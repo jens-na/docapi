@@ -1,0 +1,21 @@
+{
+  "Error": "",
+  "initialize": "See the OpenSSL documentation for EC_GROUP_*",
+  "eql?": "",
+  "==": "",
+  "generator": "See the OpenSSL documentation for EC_GROUP_get0_generator()",
+  "set_generator": "See the OpenSSL documentation for EC_GROUP_set_generator()",
+  "order": "See the OpenSSL documentation for EC_GROUP_get_order()",
+  "cofactor": "See the OpenSSL documentation for EC_GROUP_get_cofactor()",
+  "curve_name": "See the OpenSSL documentation for EC_GROUP_get_curve_name()",
+  "asn1_flag": "See the OpenSSL documentation for EC_GROUP_get_asn1_flag()",
+  "asn1_flag=": "See the OpenSSL documentation for EC_GROUP_set_asn1_flag()",
+  "point_conversion_form": "See the OpenSSL documentation for EC_GROUP_get_point_conversion_form()",
+  "point_conversion_form=": "See the OpenSSL documentation for EC_GROUP_set_point_conversion_form()",
+  "seed": "See the OpenSSL documentation for EC_GROUP_get0_seed()",
+  "seed=": "See the OpenSSL documentation for EC_GROUP_set_seed()",
+  "degree": "See the OpenSSL documentation for EC_GROUP_get_degree()",
+  "to_pem": "See the OpenSSL documentation for PEM_write_bio_ECPKParameters()",
+  "to_der": "See the OpenSSL documentation for i2d_ECPKParameters_bio()",
+  "to_text": "See the OpenSSL documentation for ECPKParameters_print()"
+}

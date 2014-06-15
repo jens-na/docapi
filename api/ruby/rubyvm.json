@@ -1,0 +1,13 @@
+{
+  "stat": "Returns a Hash containing implementation-dependent counters inside the VM.\n\nThis hash includes information about method/constant cache serials:\n\n  {\n    :global_method_state=>251,\n    :global_constant_state=>481,\n    :class_serial=>9029\n  }\n\nThe contents of the hash are implementation specific and may be changed in\nthe future.\n\nThis method is only expected to work on C Ruby.",
+  "Env": "",
+  "USAGE_ANALYSIS_INSN_STOP": "",
+  "USAGE_ANALYSIS_OPERAND_STOP": "",
+  "USAGE_ANALYSIS_REGISTER_STOP": "",
+  "OPTS": "RubyVM::OPTS, which shows vm build options",
+  "INSTRUCTION_NAMES": "RubyVM::INSTRUCTION_NAMES",
+  "DEFAULT_PARAMS": "RubyVM::DEFAULT_PARAMS\nThis constant variable shows VM's default parameters.\nNote that changing these values does not affect VM execution.\nSpecification is not stable and you should not depend on this value.\nOf course, this constant is MRI specific.",
+  "SDR": ":nodoc:",
+  "NSDR": ":nodoc:",
+  "InstructionSequence": "The InstructionSequence class represents a compiled sequence of\ninstructions for the Ruby Virtual Machine.\n\nWith it, you can get a handle to the instructions that make up a method or\na proc, compile strings of Ruby code down to VM instructions, and\ndisassemble instruction sequences to strings for easy inspection. It is\nmostly useful if you want to learn how the Ruby VM works, but it also lets\nyou control various settings for the Ruby iseq compiler.\n\nYou can find the source for the VM instructions in +insns.def+ in the Ruby\nsource.\n\nThe instruction sequence results will almost certainly change as Ruby\nchanges, so example output in this documentation may be different from what\nyou see."
+}

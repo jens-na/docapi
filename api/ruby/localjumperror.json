@@ -1,0 +1,4 @@
+{
+  "exit_value": "Returns the exit value associated with this +LocalJumpError+.",
+  "reason": "The reason this block was terminated:\n:break, :redo, :retry, :next, :return, or :noreason."
+}

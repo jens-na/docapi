@@ -1,0 +1,5 @@
+{
+  "type": "Returns the type of the internal object.",
+  "inspect": "See Object#inspect.",
+  "internal_object_id": "Returns the Object#object_id of the internal object."
+}

@@ -1,0 +1,6 @@
+{
+  "PKCS12Error": "",
+  "create": "=== Parameters\n* +pass+ - string\n* +name+ - A string describing the key.\n* +key+ - Any PKey.\n* +cert+ - A X509::Certificate.\n* * The public_key portion of the certificate must contain a valid public key.\n* * The not_before and not_after fields must be filled in.\n* +ca+ - An optional array of X509::Certificate's.\n* +key_pbe+ - string\n* +cert_pbe+ - string\n* +key_iter+ - integer\n* +mac_iter+ - integer\n* +keytype+ - An integer representing an MSIE specific extension.\n\nAny optional arguments may be supplied as nil to preserve the OpenSSL defaults.\n\nSee the OpenSSL documentation for PKCS12_create().",
+  "initialize": "=== Parameters\n* +str+ - Must be a DER encoded PKCS12 string.\n* +pass+ - string",
+  "to_der": ""
+}

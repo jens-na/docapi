@@ -1,0 +1,3 @@
+{
+  "status": "Returns the exit status of the child for which PTY#check\nraised this exception"
+}

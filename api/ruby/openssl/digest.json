@@ -1,0 +1,3 @@
+{
+  "DigestError": "Generic Exception class that is raised if an error occurs during a\nDigest operation."
+}

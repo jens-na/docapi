@@ -1,0 +1,12 @@
+{
+  "Version": "version of Ripper",
+  "initialize": "Create a new Ripper object.\n_src_ must be a String, an IO, or an Object which has #gets method.\n\nThis method does not starts parsing.\nSee also Ripper#parse and Ripper.parse.",
+  "parse": "Start parsing and returns the value of the root action.",
+  "column": "Return column number of current parsing line.\nThis number starts from 0.",
+  "filename": "Return current parsing filename.",
+  "lineno": "Return line number of current parsing line.\nThis number starts from 1.",
+  "end_seen?": "Return true if parsed source ended by +\\_\\_END\\_\\_+.",
+  "encoding": "Return encoding of the source.",
+  "yydebug": "Get yydebug.",
+  "yydebug=": "Set yydebug."
+}

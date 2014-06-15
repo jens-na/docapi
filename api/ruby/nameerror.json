@@ -1,0 +1,5 @@
+{
+  "message": ":nodoc:",
+  "initialize": "Construct a new NameError exception. If given the <i>name</i>\nparameter may subsequently be examined using the <code>NameError.name</code>\nmethod.",
+  "name": "Return the name associated with this NameError exception."
+}

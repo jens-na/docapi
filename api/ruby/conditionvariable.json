@@ -1,0 +1,6 @@
+{
+  "initialize": "Creates a new condition variable instance.",
+  "wait": "Releases the lock held in +mutex+ and waits; reacquires the lock on wakeup.\n\nIf +timeout+ is given, this method returns after +timeout+ seconds passed,\neven if no other thread doesn't signal.",
+  "signal": "Wakes up the first thread in line waiting for this lock.",
+  "broadcast": "Wakes up all threads waiting for this lock."
+}

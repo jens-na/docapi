@@ -1,0 +1,10 @@
+{
+  "initialize": "",
+  "serial": "",
+  "serial=": "",
+  "time": "",
+  "time=": "",
+  "extensions": "Gets X509v3 extensions as array of X509Ext objects",
+  "extensions=": "Sets X509_EXTENSIONs",
+  "add_extension": ""
+}

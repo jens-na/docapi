@@ -1,0 +1,10 @@
+{
+  "initialize": "Creates an X509 extension.\n\nThe extension may be created from +asn1+ data or from an extension +name+\nand +value+.  The +name+ may be either an OID or an extension name.  If\n+critical+ is true the extension is marked critical.",
+  "oid=": "",
+  "value=": "",
+  "critical=": "",
+  "oid": "",
+  "value": "",
+  "critical?": "",
+  "to_der": ""
+}

@@ -1,0 +1,18 @@
+{
+  "initialize": "Creates a new Name.\n\nA name may be created from a DER encoded string +der+, an Array\nrepresenting a +distinguished_name+ or a +distinguished_name+ along with a\n+template+.\n\n  name = OpenSSL::X509::Name.new [['CN', 'nobody'], ['DC', 'example']]\n\n  name = OpenSSL::X509::Name.new name.to_der\n\nSee add_entry for a description of the +distinguished_name+ Array's\ncontents",
+  "add_entry": "Adds a new entry with the given +oid+ and +value+ to this name.  The +oid+\nis an object identifier defined in ASN.1.  Some common OIDs are:\n\nC::  Country Name\nCN:: Common Name\nDC:: Domain Component\nO::  Organization Name\nOU:: Organizational Unit Name\nST:: State or Province Name",
+  "to_s": "Returns this name as a Distinguished Name string.  +flags+ may be one of:\n\n* OpenSSL::X509::Name::COMPAT\n* OpenSSL::X509::Name::RFC2253\n* OpenSSL::X509::Name::ONELINE\n* OpenSSL::X509::Name::MULTILINE",
+  "to_a": "Returns an Array representation of the distinguished name suitable for\npassing to ::new",
+  "cmp": "Compares this Name with +other+ and returns 0 if they are the same and -1 or\n+1 if they are greater or less than each other respectively.",
+  "<=>": "Compares this Name with +other+ and returns 0 if they are the same and -1 or\n+1 if they are greater or less than each other respectively.",
+  "eql?": "Returns true if +name+ and +other+ refer to the same hash key.",
+  "hash": "The hash value returned is suitable for use as a certificate's filename in\na CA path.",
+  "hash_old": "Returns an MD5 based hash used in OpenSSL 0.9.X.",
+  "to_der": "Converts the name to DER encoding",
+  "DEFAULT_OBJECT_TYPE": "The default object type for name entries.",
+  "OBJECT_TYPE_TEMPLATE": "The default object type template for name entries.",
+  "COMPAT": "A flag for #to_s.\n\nBreaks the name returned into multiple lines if longer than 80\ncharacters.",
+  "RFC2253": "A flag for #to_s.\n\nReturns an RFC2253 format name.",
+  "ONELINE": "A flag for #to_s.\n\nReturns a more readable format than RFC2253.",
+  "MULTILINE": "A flag for #to_s.\n\nReturns a multiline format."
+}

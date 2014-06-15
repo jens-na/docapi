@@ -1,0 +1,18 @@
+{
+  "EngineError": "This is the generic exception for OpenSSL::Engine related errors",
+  "load": "call-seq:\n  load(enginename = nil)\n\nThis method loads engines. If +name+ is nil, then all builtin engines are\nloaded. Otherwise, the given +name+, as a string,  is loaded if available to\nyour runtime, and returns true. If +name+ is not found, then nil is\nreturned.",
+  "cleanup": "It is only necessary to run cleanup when engines are loaded via\nOpenSSL::Engine.load. However, running cleanup before exit is recommended.\n\nSee also, https://www.openssl.org/docs/crypto/engine.html",
+  "engines": "Returns an array of currently loaded engines.",
+  "by_id": "call-seq:\n  by_id(name) -> engine\n\nFetch the engine as specified by the +id+ String\n\n  OpenSSL::Engine.by_id(\"openssl\")\n   => #<OpenSSL::Engine id=\"openssl\" name=\"Software engine support\">\n\nSee OpenSSL::Engine.engines for the currently loaded engines",
+  "id": "Get the id for this engine\n\n   OpenSSL::Engine.load\n   OpenSSL::Engine.engines #=> [#<OpenSSL::Engine#>, ...]\n   OpenSSL::Engine.engines.first.id\n#=> \"rsax\"",
+  "name": "Get the descriptive name for this engine\n\n   OpenSSL::Engine.load\n   OpenSSL::Engine.engines #=> [#<OpenSSL::Engine#>, ...]\n   OpenSSL::Engine.engines.first.name\n#=> \"RSAX engine support\"",
+  "finish": "Releases all internal structural references for this engine.\n\nMay raise an EngineError if the engine is unavailable",
+  "cipher": "call-seq:\n  engine.cipher(name) -> OpenSSL::Cipher\n\nThis returns an OpenSSL::Cipher by +name+, if it is available in this\nengine.\n\nA EngineError will be raised if the cipher is unavailable.\n\n   e = OpenSSL::Engine.by_id(\"openssl\")\n    => #<OpenSSL::Engine id=\"openssl\" name=\"Software engine support\">\n   e.cipher(\"RC4\")\n    => #<OpenSSL::Cipher:0x007fc5cacc3048>",
+  "digest": "call-seq:\n  engine.digest(name) -> OpenSSL::Digest\n\nThis returns an OpenSSL::Digest by +name+.\n\nWill raise an EngineError if the digest is unavailable.\n\n   e = OpenSSL::Engine.by_id(\"openssl\")\n#=> #<OpenSSL::Engine id=\"openssl\" name=\"Software engine support\">\n   e.digest(\"SHA1\")\n#=> #<OpenSSL::Digest: da39a3ee5e6b4b0d3255bfef95601890afd80709>\n   e.digest(\"zomg\")\n#=> OpenSSL::Engine::EngineError: no such digest `zomg'",
+  "load_private_key": "call-seq:\n   engine.load_private_key(id = nil, data = nil) -> OpenSSL::PKey\n\nLoads the given private key by +id+ and +data+.\n\nAn EngineError is raised of the OpenSSL::PKey is unavailable.",
+  "load_public_key": "call-seq:\n   engine.load_public_key(id = nil, data = nil) -> OpenSSL::PKey\n\nLoads the given private key by +id+ and +data+.\n\nAn EngineError is raised of the OpenSSL::PKey is unavailable.",
+  "set_default": "call-seq:\n   engine.set_default(flag)\n\nSet the defaults for this engine with the given +flag+.\n\nThese flags are used to control combinations of algorithm methods.\n\n+flag+ can be one of the following, other flags are available depending on\nyour OS.\n\n[All flags]  0xFFFF\n[No flags]\t0x0000\n\nSee also <openssl/engine.h>",
+  "ctrl_cmd": "call-seq:\n   engine.ctrl_cmd(command, value = nil) -> engine\n\nSend the given +command+ to this engine.\n\nRaises an EngineError if the +command+ fails.",
+  "cmds": "Returns an array of command definitions for the current engine",
+  "inspect": "Pretty print this engine"
+}

@@ -1,0 +1,17 @@
+{
+  "[]=": "Creates a weak reference from the given key to the given value",
+  "[]": "Retrieves a weakly referenced object with the given key",
+  "include?": "Returns +true+ if +key+ is registered",
+  "member?": "Returns +true+ if +key+ is registered",
+  "key?": "Returns +true+ if +key+ is registered",
+  "inspect": "",
+  "each": "Iterates over keys and objects in a weakly referenced object",
+  "each_pair": "Iterates over keys and objects in a weakly referenced object",
+  "each_key": "Iterates over keys and objects in a weakly referenced object",
+  "each_value": "Iterates over keys and objects in a weakly referenced object",
+  "keys": "Iterates over keys and objects in a weakly referenced object",
+  "values": "Iterates over values and objects in a weakly referenced object",
+  "size": "",
+  "length": "",
+  "finalize": ""
+}

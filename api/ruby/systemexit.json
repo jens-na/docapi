@@ -1,0 +1,5 @@
+{
+  "initialize": "Create a new +SystemExit+ exception with the given status and message.\nStatus is true, false, or an integer.\nIf status is not given, true is used.",
+  "status": "Return the status value associated with this system exit.",
+  "success?": "Returns +true+ if exiting successful, +false+ if not."
+}

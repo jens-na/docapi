@@ -1,0 +1,6 @@
+{
+  "DEFAULT": "Default ABI",
+  "STDCALL": "FFI implementation of WIN32 stdcall convention",
+  "call": "Calls the constructed Function, with +args+\n\nFor an example see Fiddle::Function",
+  "initialize": "Constructs a Function object.\n* +ptr+ is a referenced function, of a Fiddle::Handle\n* +args+ is an Array of arguments, passed to the +ptr+ function\n* +ret_type+ is the return type of the function\n* +abi+ is the ABI of the function"
+}

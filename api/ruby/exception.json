@@ -1,0 +1,12 @@
+{
+  "exception": "call-seq:\n   exc.exception(string)  ->  an_exception or exc\n\nWith no argument, or if the argument is the same as the receiver,\nreturn the receiver. Otherwise, create a new\nexception object of the same class as the receiver, but with a\nmessage equal to <code>string.to_str</code>.",
+  "initialize": "Construct a new Exception object, optionally passing in\n a message.",
+  "==": "Equality---If <i>obj</i> is not an <code>Exception</code>, returns\n<code>false</code>. Otherwise, returns <code>true</code> if <i>exc</i> and\n<i>obj</i> share same class, messages, and backtrace.",
+  "to_s": "Returns exception's message (or the name of the exception if\nno message is set).",
+  "message": "Returns the result of invoking <code>exception.to_s</code>.\nNormally this returns the exception's message or name. By\nsupplying a to_str method, exceptions are agreeing to\nbe used where Strings are expected.",
+  "inspect": "Return this exception's class name and message",
+  "backtrace": "Returns any backtrace associated with the exception. The backtrace\nis an array of strings, each containing either ``filename:lineNo: in\n`method''' or ``filename:lineNo.''\n\n   def a\n     raise \"boom\"\n   end\n\n   def b\n     a()\n   end\n\n   begin\n     b()\n   rescue => detail\n     print detail.backtrace.join(\"\\n\")\n   end\n\n<em>produces:</em>\n\n   prog.rb:2:in `a'\n   prog.rb:6:in `b'\n   prog.rb:10",
+  "backtrace_locations": "Returns any backtrace associated with the exception. This method is\nsimilar to Exception#backtrace, but the backtrace is an array of\n Thread::Backtrace::Location.\n\nNow, this method is not affected by Exception#set_backtrace().",
+  "set_backtrace": "Sets the backtrace information associated with +exc+. The +backtrace+ must\nbe an array of String objects or a single String in the format described\nin Exception#backtrace.",
+  "cause": ""
+}

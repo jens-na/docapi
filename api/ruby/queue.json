@@ -1,0 +1,14 @@
+{
+  "initialize": "Creates a new queue instance.",
+  "push": "Pushes the given +object+ to the queue.",
+  "pop": "Retrieves data from the queue.\n\nIf the queue is empty, the calling thread is suspended until data is pushed\nonto the queue. If +non_block+ is true, the thread isn't suspended, and an\nexception is raised.",
+  "empty?": "Returns +true+ if the queue is empty.",
+  "clear": "Removes all objects from the queue.",
+  "length": "Returns the length of the queue.",
+  "num_waiting": "Returns the number of threads waiting on the queue.",
+  "enq": "Pushes the given +object+ to the queue.",
+  "<<": "Pushes the given +object+ to the queue.",
+  "deq": "Retrieves data from the queue.\n\nIf the queue is empty, the calling thread is suspended until data is pushed\nonto the queue. If +non_block+ is true, the thread isn't suspended, and an\nexception is raised.",
+  "shift": "Retrieves data from the queue.\n\nIf the queue is empty, the calling thread is suspended until data is pushed\nonto the queue. If +non_block+ is true, the thread isn't suspended, and an\nexception is raised.",
+  "size": "Returns the length of the queue."
+}

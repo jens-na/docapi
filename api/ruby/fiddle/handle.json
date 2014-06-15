@@ -1,0 +1,15 @@
+{
+  "sym": "call-seq: sym(name)\n\nGet the address as an Integer for the function named +name+.",
+  "[]": "call-seq: sym(name)\n\nGet the address as an Integer for the function named +name+.",
+  "NEXT": "A predefined pseudo-handle of RTLD_NEXT\n\nWhich will find the next occurrence of a function in the search order\nafter the current library.",
+  "DEFAULT": "A predefined pseudo-handle of RTLD_DEFAULT\n\nWhich will find the first occurrence of the desired symbol using the\ndefault library search order",
+  "RTLD_GLOBAL": ":Handle flag.\n\nThe symbols defined by this library will be made available for symbol\nresolution of subsequently loaded libraries.",
+  "RTLD_LAZY": ":Handle flag.\n\nPerform lazy binding.  Only resolve symbols as the code that references\nthem is executed.  If the  symbol is never referenced, then it is never\nresolved.  (Lazy binding is only performed for function references;\nreferences to variables are always immediately bound when the library\nis loaded.)",
+  "RTLD_NOW": ":Handle flag.\n\nIf this value is specified or the environment variable LD_BIND_NOW is\nset to a nonempty string, all undefined symbols in the library are\nresolved before Fiddle.dlopen returns.  If this cannot be done an error\nis returned.",
+  "initialize": "Create a new handler that opens +library+ with +flags+.\n\nIf no +library+ is specified or +nil+ is given, DEFAULT is used, which is\nthe equivalent to RTLD_DEFAULT. See <code>man 3 dlopen</code> for more.\n\nlib = Fiddle::Handle.new\n\nThe default is dependent on OS, and provide a handle for all libraries\nalready loaded. For example, in most cases you can use this to access +libc+\nfunctions, or ruby functions like +rb_str_new+.",
+  "to_i": "Returns the memory address for this handle.",
+  "close": "Close this handle.\n\nCalling close more than once will raise a Fiddle::DLError exception.",
+  "disable_close": "Disable a call to dlclose() when this handle is garbage collected.",
+  "enable_close": "Enable a call to dlclose() when this handle is garbage collected.",
+  "close_enabled?": "Returns +true+ if dlclose() will be called when this handle is garbage collected.\n\nSee man(3) dlclose() for more info."
+}

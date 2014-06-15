@@ -1,0 +1,9 @@
+{
+  "lineno": "Returns the line number of this frame.\n\nFor example, using +caller_locations.rb+ from Thread::Backtrace::Location\n\nloc = c(0..1).first\nloc.lineno #=> 2",
+  "label": "Returns the label of this frame.\n\nUsually consists of method, class, module, etc names with decoration.\n\nConsider the following example:\n\ndef foo\n  puts caller_locations(0).first.label\n\n  1.times do\n    puts caller_locations(0).first.label\n\n    1.times do\n      puts caller_locations(0).first.label\n    end\n\n  end\nend\n\nThe result of calling +foo+ is this:\n\nlabel: foo\nlabel: block in foo\nlabel: block (2 levels) in foo",
+  "base_label": "Returns the base label of this frame.\n\nUsually same as #label, without decoration.",
+  "path": "Returns the file name of this frame.\n\nFor example, using +caller_locations.rb+ from Thread::Backtrace::Location\n\nloc = c(0..1).first\nloc.path #=> caller_locations.rb",
+  "absolute_path": "Returns the full file path of this frame.\n\nSame as #path, but includes the absolute path.",
+  "to_s": "Returns a Kernel#caller style string representing this frame.",
+  "inspect": "Returns the same as calling +inspect+ on the string representation of\n#to_str"
+}

@@ -1,0 +1,8 @@
+{
+  "clone": ":nodoc:",
+  "dup": ":nodoc:",
+  "eval": "Evaluates the Ruby expression(s) in <em>string</em>, in the\n<em>binding</em>'s context.  If the optional <em>filename</em> and\n<em>lineno</em> parameters are present, they will be used when\nreporting syntax errors.\n\n   def get_binding(param)\n     return binding\n   end\n   b = get_binding(\"hello\")\n   b.eval(\"param\")   #=> \"hello\"",
+  "local_variable_get": "Returns a +value+ of local variable +symbol+.\n\ndef foo\n\t  a = 1\n\t  binding.local_variable_get(:a) #=> 1\n\t  binding.local_variable_get(:b) #=> NameError\n\tend\n\nThis method is short version of the following code.\n\nbinding.eval(\"#{symbol}\")",
+  "local_variable_set": "Set local variable named +symbol+ as +obj+.\n\ndef foo\n\t  a = 1\n\t  b = binding\n\t  b.local_variable_set(:a, 2) # set existing local variable `a'\n\t  b.local_variable_set(:b, 3) # create new local variable `b'\n\t                              # `b' exists only in binding.\n\t  b.local_variable_get(:a) #=> 2\n\t  b.local_variable_get(:b) #=> 3\n\t  p a #=> 2\n\t  p b #=> NameError\n\tend\n\nThis method is a similar behavior of the following code\n\n  binding.eval(\"#{symbol} = #{obj}\")\n\nif obj can be dumped in Ruby code.",
+  "local_variable_defined?": "Returns a +true+ if a local variable +symbol+ exists.\n\ndef foo\n\t  a = 1\n\t  binding.local_variable_defined?(:a) #=> true\n\t  binding.local_variable_defined?(:b) #=> false\n\tend\n\nThis method is short version of the following code.\n\nbinding.eval(\"defined?(#{symbol}) == 'local-variable'\")"
+}

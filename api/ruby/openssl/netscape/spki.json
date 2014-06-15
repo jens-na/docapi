@@ -1,0 +1,13 @@
+{
+  "initialize": "=== Parameters\n* +request+ - optional raw request, either in PEM or DER format.",
+  "to_der": "Returns the DER encoding of this SPKI.",
+  "to_pem": "Returns the PEM encoding of this SPKI.",
+  "to_s": "Returns the PEM encoding of this SPKI.",
+  "to_text": "Returns a textual representation of this SPKI, useful for debugging\npurposes.",
+  "public_key": "Returns the public key associated with the SPKI, an instance of\nOpenSSL::PKey.",
+  "public_key=": "=== Parameters\n* +pub+ - the public key to be set for this instance\n\nSets the public key to be associated with the SPKI, an instance of\nOpenSSL::PKey. This should be the public key corresponding to the\nprivate key used for signing the SPKI.",
+  "sign": "=== Parameters\n* +key+ - the private key to be used for signing this instance\n* +digest+ - the digest to be used for signing this instance\n\nTo sign an SPKI, the private key corresponding to the public key set\nfor this instance should be used, in addition to a digest algorithm in\nthe form of an OpenSSL::Digest. The private key should be an instance of\nOpenSSL::PKey.",
+  "verify": "=== Parameters\n* +key+ - the public key to be used for verifying the SPKI signature\n\nReturns +true+ if the signature is valid, +false+ otherwise. To verify an\nSPKI, the public key contained within the SPKI should be used.",
+  "challenge": "Returns the challenge string associated with this SPKI.",
+  "challenge=": "=== Parameters\n* +str+ - the challenge string to be set for this instance\n\nSets the challenge to be associated with the SPKI. May be used by the\nserver, e.g. to prevent replay."
+}

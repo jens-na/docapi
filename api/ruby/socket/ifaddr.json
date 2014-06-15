@@ -1,0 +1,10 @@
+{
+  "inspect": "Returns a string to show contents of _ifaddr_.",
+  "name": "Returns the interface name of _ifaddr_.",
+  "ifindex": "Returns the interface index of _ifaddr_.",
+  "flags": "Returns the flags of _ifaddr_.",
+  "addr": "Returns the address of _ifaddr_.\nnil is returned if address is not available in _ifaddr_.",
+  "netmask": "Returns the netmask address of _ifaddr_.\nnil is returned if netmask is not available in _ifaddr_.",
+  "broadaddr": "Returns the broadcast address of _ifaddr_.\nnil is returned if the flags doesn't have IFF_BROADCAST.",
+  "dstaddr": "Returns the destination address of _ifaddr_.\nnil is returned if the flags doesn't have IFF_POINTOPOINT."
+}

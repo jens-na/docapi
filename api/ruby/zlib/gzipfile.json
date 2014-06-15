@@ -1,0 +1,19 @@
+{
+  "Error": "Base class of errors that occur when processing GZIP files.",
+  "NoFooter": "Raised when gzip file footer is not found.",
+  "CRCError": "Raised when the CRC checksum recorded in gzip file footer is not equivalent\nto the CRC checksum of the actual uncompressed data.",
+  "LengthError": "Raised when the data length recorded in the gzip file footer is not equivalent\nto the length of the actual uncompressed data.",
+  "wrap": "call-seq:\n  Zlib::GzipReader.wrap(io, ...) { |gz| ... }\n  Zlib::GzipWriter.wrap(io, ...) { |gz| ... }\n\nCreates a GzipReader or GzipWriter associated with +io+, passing in any\nnecessary extra options, and executes the block with the newly created\nobject just like File.open.\n\nThe GzipFile object will be closed automatically after executing the block.\nIf you want to keep the associated IO object open, you may call\nZlib::GzipFile#finish method in the block.",
+  "to_io": "Same as IO.",
+  "crc": "Returns CRC value of the uncompressed data.",
+  "mtime": "Returns last modification time recorded in the gzip file header.",
+  "level": "Returns compression level.",
+  "os_code": "Returns OS code number recorded in the gzip file header.",
+  "orig_name": "Returns original filename recorded in the gzip file header, or +nil+ if\noriginal filename is not present.",
+  "comment": "Returns comments recorded in the gzip file header, or nil if the comments\nis not present.",
+  "close": "Closes the GzipFile object. This method calls close method of the\nassociated IO object. Returns the associated IO object.",
+  "finish": "Closes the GzipFile object. Unlike Zlib::GzipFile#close, this method never\ncalls the close method of the associated IO object. Returns the associated IO\nobject.",
+  "closed?": "Same as IO#closed?",
+  "sync": "Same as IO#sync",
+  "sync=": "call-seq: sync = flag\n\nSame as IO.  If flag is +true+, the associated IO object must respond to the\n+flush+ method.  While +sync+ mode is +true+, the compression ratio\ndecreases sharply."
+}

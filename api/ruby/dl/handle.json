@@ -1,0 +1,12 @@
+{
+  "sym": "call-seq: sym(name)\n\nGet the address as an Integer for the function named +name+.",
+  "[]": "call-seq: sym(name)\n\nGet the address as an Integer for the function named +name+.",
+  "NEXT": "A predefined pseudo-handle of RTLD_NEXT\n\nWhich will find the next occurrence of a function in the search order\nafter the current library.",
+  "DEFAULT": "A predefined pseudo-handle of RTLD_DEFAULT\n\nWhich will find the first occurrence of the desired symbol using the\ndefault library search order",
+  "initialize": "Create a new handler that opens library named +lib+ with +flags+.  If no\nlibrary is specified, RTLD_DEFAULT is used.",
+  "to_i": "Returns the memory address for this handle.",
+  "close": "Close this DL::Handle.  Calling close more than once will raise a\nDL::DLError exception.",
+  "disable_close": "Disable a call to dlclose() when this DL::Handle is garbage collected.",
+  "enable_close": "Enable a call to dlclose() when this DL::Handle is garbage collected.",
+  "close_enabled?": "Returns +true+ if dlclose() will be called when this DL::Handle is\ngarbage collected."
+}

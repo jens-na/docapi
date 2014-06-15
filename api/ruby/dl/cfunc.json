@@ -1,0 +1,17 @@
+{
+  "last_error": "Returns the last error for the current executing thread",
+  "win32_last_error": "Returns the last win32 error for the current executing thread",
+  "initialize": "Create a new function that points to +address+ with an optional return type\nof +type+, a name of +name+ and a calltype of +calltype+.",
+  "call": "Calls the function pointer passing in +ary+ as values to the underlying\nC function.  The return value depends on the ctype.",
+  "[]": "Calls the function pointer passing in +ary+ as values to the underlying\nC function.  The return value depends on the ctype.",
+  "name": "Get the name of this function",
+  "ctype": "Get the C function return value type.  See DL for a list of constants\ncorresponding to this method's return value.",
+  "ctype=": "Set the C function return value type to +type+.",
+  "calltype": "Get the call type of this function.",
+  "calltype=": "Set the call type for this function.",
+  "ptr": "Get the underlying function pointer as a DL::CPtr object.",
+  "ptr=": "Set the underlying function pointer to a DL::CPtr named +pointer+.",
+  "inspect": "Returns a string formatted with an easily readable representation of the\ninternal state of the DL::CFunc",
+  "to_s": "Returns a string formatted with an easily readable representation of the\ninternal state of the DL::CFunc",
+  "to_i": "Returns the memory location of this function pointer as an integer."
+}

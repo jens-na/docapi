@@ -1,0 +1,3 @@
+{
+  "result": "Returns the return value of the iterator.\n\n  o = Object.new\n  def o.each\n    yield 1\n    yield 2\n    yield 3\n    100\n  end\n\n  e = o.to_enum\n\n  puts e.next                   #=> 1\n  puts e.next                   #=> 2\n  puts e.next                   #=> 3\n\n  begin\n    e.next\n  rescue StopIteration => ex\n    puts ex.result              #=> 100\n  end"
+}

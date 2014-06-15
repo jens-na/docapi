@@ -1,0 +1,4 @@
+{
+  "initialize": "Construct a NoMethodError exception for a method of the given name\ncalled with the given arguments. The name may be accessed using\nthe <code>#name</code> method on the resulting object, and the\narguments using the <code>#args</code> method.",
+  "args": "Return the arguments passed in as the third parameter to\nthe constructor."
+}

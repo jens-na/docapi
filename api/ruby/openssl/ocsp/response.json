@@ -1,0 +1,8 @@
+{
+  "create": "OCSP::Response",
+  "initialize": "",
+  "status": "",
+  "status_string": "",
+  "basic": "",
+  "to_der": ""
+}

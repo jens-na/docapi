@@ -1,0 +1,19 @@
+{
+  "avail_out": "Returns number of bytes of free spaces in output buffer.  Because the free\nspace is allocated automatically, this method returns 0 normally.",
+  "avail_out=": "Allocates +size+ bytes of free space in the output buffer. If there are more\nthan +size+ bytes already in the buffer, the buffer is truncated. Because\nfree space is allocated automatically, you usually don't need to use this\nmethod.",
+  "avail_in": "Returns bytes of data in the input buffer. Normally, returns 0.",
+  "total_in": "Returns the total bytes of the input data to the stream.  FIXME",
+  "total_out": "Returns the total bytes of the output data from the stream.  FIXME",
+  "data_type": "Guesses the type of the data which have been inputed into the stream. The\nreturned value is either <tt>BINARY</tt>, <tt>ASCII</tt>, or\n<tt>UNKNOWN</tt>.",
+  "adler": "Returns the adler-32 checksum.",
+  "finished?": "Returns true if the stream is finished.",
+  "stream_end?": "Returns true if the stream is finished.",
+  "closed?": "Returns true if the stream is closed.",
+  "ended?": "Returns true if the stream is closed.",
+  "close": "Closes the stream. All operations on the closed stream will raise an\nexception.",
+  "end": "Closes the stream. All operations on the closed stream will raise an\nexception.",
+  "reset": "Resets and initializes the stream. All data in both input and output buffer\nare discarded.",
+  "finish": "Finishes the stream and flushes output buffer.  If a block is given each\nchunk is yielded to the block until the input buffer has been flushed to\nthe output buffer.",
+  "flush_next_in": "",
+  "flush_next_out": "Flushes output buffer and returns all data in that buffer.  If a block is\ngiven each chunk is yielded to the block until the current output buffer\nhas been flushed."
+}
