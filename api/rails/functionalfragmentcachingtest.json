@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "test_fragment_caching": "",
+  "test_fragment_caching_in_partials": "",
+  "test_skipping_fragment_cache_digesting": "",
+  "test_render_inline_before_fragment_caching": "",
+  "test_fragment_cache_instrumentation": "",
+  "test_html_formatted_fragment_caching": "",
+  "test_xml_formatted_fragment_caching": "",
+  "test_fragment_caching_with_variant": "",
+  "template_digest": ""
+}

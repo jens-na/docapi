@@ -1,0 +1,20 @@
+{
+  "initialize": "",
+  "column": "Adds a new column to the named table.\nSee TableDefinition#column for details of the options you can use.\n\n====== Creating a simple column\n t.column(:name, :string)",
+  "column_exists?": "Checks to see if a column exists. See SchemaStatements#column_exists?",
+  "index": "Adds a new index to the table. +column_name+ can be a single Symbol, or\nan Array of Symbols. See SchemaStatements#add_index\n\n====== Creating a simple index\n t.index(:name)\n====== Creating a unique index\n t.index([:branch_id, :party_id], unique: true)\n====== Creating a named index\n t.index([:branch_id, :party_id], unique: true, name: 'by_branch_party')",
+  "index_exists?": "Checks to see if an index exists. See SchemaStatements#index_exists?",
+  "rename_index": "Renames the given index on the table.\n\n t.rename_index(:user_id, :account_id)",
+  "timestamps": "Adds timestamps (+created_at+ and +updated_at+) columns to the table. See SchemaStatements#add_timestamps\n\n t.timestamps",
+  "change": "Changes the column's definition according to the new options.\nSee TableDefinition#column for details of the options you can use.\n\n t.change(:name, :string, limit: 80)\n t.change(:description, :text)",
+  "change_default": "Sets a new default value for a column. See SchemaStatements#change_column_default\n\n t.change_default(:qualification, 'new')\n t.change_default(:authorized, 1)",
+  "remove": "Removes the column(s) from the table definition.\n\n t.remove(:qualification)\n t.remove(:qualification, :experience)",
+  "remove_index": "Removes the given index from the table.\n\n====== Remove the index_table_name_on_column in the table_name table\n  t.remove_index :column\n====== Remove the index named index_table_name_on_branch_id in the table_name table\n  t.remove_index column: :branch_id\n====== Remove the index named index_table_name_on_branch_id_and_party_id in the table_name table\n  t.remove_index column: [:branch_id, :party_id]\n====== Remove the index named by_branch_party in the table_name table\n  t.remove_index name: :by_branch_party",
+  "remove_timestamps": "Removes the timestamp columns (+created_at+ and +updated_at+) from the table.\n\n t.remove_timestamps",
+  "rename": "Renames a column.\n\n t.rename(:description, :name)",
+  "references": "Adds a reference. Optionally adds a +type+ column, if <tt>:polymorphic</tt> option is provided.\n<tt>references</tt> and <tt>belongs_to</tt> are acceptable.\n\n t.references(:user)\n t.belongs_to(:supplier, polymorphic: true)",
+  "belongs_to": "Adds a reference. Optionally adds a +type+ column, if <tt>:polymorphic</tt> option is provided.\n<tt>references</tt> and <tt>belongs_to</tt> are acceptable.\n\n t.references(:user)\n t.belongs_to(:supplier, polymorphic: true)",
+  "remove_references": "Removes a reference. Optionally removes a +type+ column.\n<tt>remove_references</tt> and <tt>remove_belongs_to</tt> are acceptable.\n\n t.remove_references(:user)\n t.remove_belongs_to(:supplier, polymorphic: true)",
+  "remove_belongs_to": "Removes a reference. Optionally removes a +type+ column.\n<tt>remove_references</tt> and <tt>remove_belongs_to</tt> are acceptable.\n\n t.remove_references(:user)\n t.remove_belongs_to(:supplier, polymorphic: true)",
+  "native": ""
+}

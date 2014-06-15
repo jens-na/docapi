@@ -1,0 +1,3 @@
+{
+  "deep_munge": "Remove nils from the params hash"
+}

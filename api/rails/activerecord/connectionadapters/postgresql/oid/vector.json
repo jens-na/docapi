@@ -1,0 +1,6 @@
+{
+  "delim": "Returns the value of attribute delim",
+  "subtype": "Returns the value of attribute subtype",
+  "initialize": "+delim+ corresponds to the `typdelim` column in the pg_types\ntable.  +subtype+ is derived from the `typelem` column in the\npg_types table.",
+  "type_cast": "FIXME: this should probably split on +delim+ and use +subtype+\nto cast the values.  Unfortunately, the current Rails behavior\nis to just return the string."
+}

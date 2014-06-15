@@ -1,0 +1,17 @@
+{
+  "test_push_does_not_load_target": "",
+  "test_push_has_many_through_does_not_load_target": "",
+  "test_push_followed_by_save_does_not_load_target": "",
+  "test_push_does_not_lose_additions_to_new_record": "",
+  "test_append_behaves_like_push": "",
+  "test_prepend_is_not_defined": "",
+  "test_save_on_parent_does_not_load_target": "",
+  "test_inspect_does_not_reload_a_not_yet_loaded_target": "",
+  "test_save_on_parent_saves_children": "",
+  "test_create_via_association_with_block": "",
+  "test_create_with_bang_via_association_with_block": "",
+  "test_reload_returns_association": "",
+  "test_proxy_association_accessor": "",
+  "test_scoped_allows_conditions": "",
+  "test_reset_unloads_target": ""
+}

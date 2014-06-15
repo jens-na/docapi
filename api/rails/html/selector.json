@@ -1,0 +1,16 @@
+{
+  "InvalidSelectorError": "An invalid selector.",
+  "for_class": ":call-seq:\n  Selector.for_class(cls) => selector\n\nCreates a new selector for the given class name.",
+  "for_id": ":call-seq:\n  Selector.for_id(id) => selector\n\nCreates a new selector for the given id.",
+  "initialize": ":call-seq:\n  Selector.new(string, [values ...]) => selector\n\nCreates a new selector from a CSS 2 selector expression.\n\nThe first argument is the selector expression. All other arguments\nare used for value substitution.\n\nThrows InvalidSelectorError is the selector expression is invalid.",
+  "match": ":call-seq:\n  match(element, first?) => array or nil\n\nMatches an element against the selector.\n\nFor a simple selector this method returns an array with the\nelement if the element matches, nil otherwise.\n\nFor a complex selector (sibling and descendant) this method\nreturns an array with all matching elements, nil if no match is\nfound.\n\nUse +first_only=true+ if you are only interested in the first element.\n\nFor example:\n  if selector.match(element)\n    puts \"Element is a login form\"\n  end",
+  "select": ":call-seq:\n  select(root) => array\n\nSelects and returns an array with all matching elements, beginning\nwith one node and traversing through all children depth-first.\nReturns an empty array if no match is found.\n\nThe root node may be any element in the document, or the document\nitself.\n\nFor example:\n  selector = HTML::Selector.new \"input[type=text]\"\n  matches = selector.select(element)\n  matches.each do |match|\n    puts \"Found text field with name #{match.attributes['name']}\"\n  end",
+  "select_first": "Similar to #select but returns the first matching element. Returns +nil+\nif no element matches the selector.",
+  "to_s": ":nodoc:",
+  "next_element": "Returns the next element after this one. Skips sibling text nodes.\n\nWith the +name+ argument, returns the next element with that name,\nskipping other sibling elements.",
+  "simple_selector": "Creates a simple selector given the statement and array of\nsubstitution values.\n\nReturns a hash with the values +tag_name+, +attributes+,\n+pseudo+ (classes) and +negation+.\n\nCalled the first time with +can_negate+ true to allow\nnegation. Called a second time with false since negation\ncannot be negated.",
+  "attribute_match": "Create a regular expression to match an attribute value based\non the equality operator (=, ^=, |=, etc).",
+  "nth_child": "Returns a lambda that can match an element against the nth-child\npseudo class, given the following arguments:\n* +a+ -- Value of a part.\n* +b+ -- Value of b part.\n* +of_type+ -- True to test only elements of this type (of-type).\n* +reverse+ -- True to count in reverse order (last-).",
+  "only_child": "Creates a only child lambda. Pass +of-type+ to only look at\nelements of its type.",
+  "next_selector": "Called to create a dependent selector (sibling, descendant, etc).\nPasses the remainder of the statement that will be reduced to zero\neventually, and array of substitution values.\n\nThis method is called from four places, so it helps to put it here\nfor reuse. The only logic deals with the need to detect comma\nseparators (alternate) and apply them to the selector group of the\ntop selector."
+}

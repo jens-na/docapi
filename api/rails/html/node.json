@@ -1,0 +1,15 @@
+{
+  "children": "The array of children of this node. Not all nodes have children.",
+  "parent": "The parent node of this node. All nodes have a parent, except for the\nroot node.",
+  "line": "The line number of the input where this node was begun",
+  "position": "The byte position in the input where this node was begun",
+  "initialize": "Create a new node as a child of the given parent.",
+  "to_s": "Returns a textual representation of the node.",
+  "match": "Returns false (subclasses must override this to provide specific matching\nbehavior.) +conditions+ may be of any type.",
+  "find": "Search the children of this node for the first node for which #find\nreturns non +nil+. Returns the result of the #find call that succeeded.",
+  "find_all": "Search for all nodes that match the given conditions, and return them\nas an array.",
+  "tag?": "Returns +false+. Subclasses may override this if they define a kind of\ntag.",
+  "validate_conditions": "",
+  "==": "",
+  "parse": ""
+}

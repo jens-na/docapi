@@ -1,0 +1,19 @@
+{
+  "IDENTITY_TYPE": ":nodoc:",
+  "columns": "Returns the value of attribute columns",
+  "rows": "Returns the value of attribute rows",
+  "column_types": "Returns the value of attribute column_types",
+  "initialize": "",
+  "identity_type": ":nodoc:",
+  "column_type": "",
+  "each": "",
+  "to_hash": "",
+  "map!": "",
+  "collect!": "",
+  "empty?": "Returns true if there are no records.",
+  "to_ary": "",
+  "[]": "",
+  "last": "",
+  "initialize_copy": "",
+  "hash_rows": ""
+}

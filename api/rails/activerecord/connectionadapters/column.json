@@ -1,0 +1,15 @@
+{
+  "TRUE_VALUES": "",
+  "FALSE_VALUES": "",
+  "Format": "",
+  "name": "Returns the value of attribute name",
+  "cast_type": "Returns the value of attribute cast_type",
+  "null": "Returns the value of attribute null",
+  "sql_type": "Returns the value of attribute sql_type",
+  "default_function": "Returns the value of attribute default_function",
+  "initialize": "Instantiates a new column in the table.\n\n+name+ is the column's name, such as <tt>supplier_id</tt> in <tt>supplier_id int(11)</tt>.\n+default+ is the type-casted default value, such as +new+ in <tt>sales_stage varchar(20) default 'new'</tt>.\n+cast_type+ is the object used for type casting and type information.\n+sql_type+ is used to extract the column's length, if necessary. For example +60+ in\n<tt>company_name varchar(60)</tt>.\nIt will be mapped to one of the standard Rails SQL types in the <tt>type</tt> attribute.\n+null+ determines if this column allows +NULL+ values.",
+  "has_default?": "",
+  "human_name": "Returns the human name of the column name.\n\n===== Examples\n Column.new('sales_stage', ...).human_name # => 'Sales stage'",
+  "default": "",
+  "with_type": ""
+}

@@ -1,0 +1,14 @@
+{
+  "deprecation_horizon": "The version number in which the deprecated behavior will be removed, by default.",
+  "deprecation_horizon=": "The version number in which the deprecated behavior will be removed, by default.",
+  "initialize": "It accepts two parameters on initialization. The first is a version of library\nand the second is a library name\n\n  ActiveSupport::Deprecation.new('2.0', 'MyLibrary')",
+  "DEFAULT_BEHAVIORS": "Default warning behaviors per Rails.env.",
+  "Behavior": "",
+  "Reporting": "",
+  "DeprecationProxy": ":nodoc:",
+  "DeprecatedObjectProxy": "This DeprecatedObjectProxy transforms object to deprecated object.\n\n  @old_object = DeprecatedObjectProxy.new(Object.new, \"Don't use this object anymore!\")\n  @old_object = DeprecatedObjectProxy.new(Object.new, \"Don't use this object anymore!\", deprecator_instance)\n\nWhen someone executes any method except +inspect+ on proxy object this will\ntrigger +warn+ method on +deprecator_instance+.\n\nDefault deprecator is <tt>ActiveSupport::Deprecation</tt>",
+  "DeprecatedInstanceVariableProxy": "This DeprecatedInstanceVariableProxy transforms instance variable to\ndeprecated instance variable.\n\n  class Example\n    def initialize(deprecator)\n      @request = ActiveSupport::Deprecation::DeprecatedInstanceVariableProxy.new(self, :request, :@request, deprecator)\n      @_request = :a_request\n    end\n\n    def request\n      @_request\n    end\n\n    def old_request\n      @request\n    end\n  end\n\nWhen someone execute any method on @request variable this will trigger\n+warn+ method on +deprecator_instance+ and will fetch <tt>@_request</tt>\nvariable via +request+ method and execute the same method on non-proxy\ninstance variable.\n\nDefault deprecator is <tt>ActiveSupport::Deprecation</tt>.",
+  "DeprecatedConstantProxy": "This DeprecatedConstantProxy transforms constant to deprecated constant.\n\n  OLD_CONST = ActiveSupport::Deprecation::DeprecatedConstantProxy.new('OLD_CONST', 'NEW_CONST')\n  OLD_CONST = ActiveSupport::Deprecation::DeprecatedConstantProxy.new('OLD_CONST', 'NEW_CONST', deprecator_instance)\n\nWhen someone use old constant this will trigger +warn+ method on\n+deprecator_instance+.\n\nDefault deprecator is <tt>ActiveSupport::Deprecation</tt>.",
+  "MethodWrapper": "",
+  "InstanceDelegator": ":nodoc:"
+}

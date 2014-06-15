@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_root_password_is_requested": "",
+  "test_connection_established_as_root": "",
+  "test_database_created_by_root": "",
+  "test_grant_privileges_for_normal_user": "",
+  "test_do_not_grant_privileges_for_root_user": "",
+  "test_connection_established_as_normal_user": "",
+  "test_sends_output_to_stderr_when_other_errors": "",
+  "assert_permissions_granted_for": ""
+}

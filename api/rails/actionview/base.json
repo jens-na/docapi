@@ -1,0 +1,13 @@
+{
+  "@@field_error_proc": "",
+  "@@streaming_completion_on_exception": "",
+  "@@prefix_partial_path_with_controller_namespace": "",
+  "@@raise_on_missing_translations": "",
+  "cache_template_loading": "",
+  "cache_template_loading=": "",
+  "xss_safe?": ":nodoc:",
+  "view_renderer": "Returns the value of attribute view_renderer",
+  "view_renderer=": "Sets the attribute view_renderer",
+  "assign": ":nodoc:",
+  "initialize": ":nodoc:"
+}

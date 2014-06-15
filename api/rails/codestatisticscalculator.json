@@ -1,0 +1,12 @@
+{
+  "lines": "Returns the value of attribute lines",
+  "code_lines": "Returns the value of attribute code_lines",
+  "classes": "Returns the value of attribute classes",
+  "methods": "Returns the value of attribute methods",
+  "PATTERNS": "",
+  "initialize": "",
+  "add": "",
+  "add_by_file_path": "",
+  "add_by_io": "",
+  "file_type": ""
+}

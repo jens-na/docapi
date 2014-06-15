@@ -1,0 +1,17 @@
+{
+  "aliases": "Returns the value of attribute aliases",
+  "aliases=": "Sets the attribute aliases",
+  "options": "Returns the value of attribute options",
+  "options=": "Sets the attribute options",
+  "templates": "Returns the value of attribute templates",
+  "templates=": "Sets the attribute templates",
+  "fallbacks": "Returns the value of attribute fallbacks",
+  "fallbacks=": "Sets the attribute fallbacks",
+  "colorize_logging": "Returns the value of attribute colorize_logging",
+  "colorize_logging=": "Sets the attribute colorize_logging",
+  "hidden_namespaces": "Returns the value of attribute hidden_namespaces",
+  "initialize": "",
+  "initialize_copy": "",
+  "hide_namespace": "",
+  "method_missing": ""
+}

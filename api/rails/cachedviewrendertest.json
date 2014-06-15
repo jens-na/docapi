@@ -1,0 +1,4 @@
+{
+  "setup": "Ensure view path cache is primed",
+  "teardown": ""
+}

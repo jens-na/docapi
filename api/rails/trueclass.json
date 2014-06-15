@@ -1,0 +1,6 @@
+{
+  "as_json": ":nodoc:",
+  "blank?": "+true+ is not blank:\n\n  true.blank? # => false",
+  "to_param": "Returns +self+.",
+  "duplicable?": "+true+ is not duplicable:\n\n  true.duplicable? # => false\n  true.dup         # => TypeError: can't dup TrueClass"
+}

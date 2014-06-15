@@ -1,0 +1,17 @@
+{
+  "Reloader": "",
+  "test_prepare_callbacks": "",
+  "MyBody": "",
+  "test_returned_body_object_always_responds_to_close": "",
+  "test_returned_body_object_always_responds_to_close_even_if_called_twice": "",
+  "test_condition_specifies_when_to_reload": "",
+  "test_returned_body_object_behaves_like_underlying_object": "",
+  "test_it_calls_close_on_underlying_object_when_close_is_called_on_body": "",
+  "test_returned_body_object_responds_to_all_methods_supported_by_underlying_object": "",
+  "test_cleanup_callbacks_are_called_when_body_is_closed": "",
+  "test_prepare_callbacks_arent_called_when_body_is_closed": "",
+  "test_manual_reloading": "",
+  "test_prepend_prepare_callback": "",
+  "test_cleanup_callbacks_are_called_on_exceptions": "",
+  "call_and_return_body": ""
+}

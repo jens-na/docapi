@@ -1,0 +1,6 @@
+{
+  "XHTML_TAG_NAMES": "",
+  "initialize": "",
+  "method_missing": "Delegate to xml builder, first wrapping the element in a xhtml\nnamespaced div element if the method and arguments indicate\nthat an xhtml_block? is desired.",
+  "xhtml_block?": "True if the method name matches one of the five elements defined\nin the Atom spec as potentially containing XHTML content and\nif type: 'xhtml' is, in fact, specified."
+}

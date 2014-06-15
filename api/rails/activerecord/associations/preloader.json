@@ -1,0 +1,20 @@
+{
+  "NULL_RELATION": "Eager loads the named associations for the given Active Record record(s).\n\nIn this description, 'association name' shall refer to the name passed\nto an association creation method. For example, a model that specifies\n<tt>belongs_to :author</tt>, <tt>has_many :buyers</tt> has association\nnames +:author+ and +:buyers+.\n\n== Parameters\n+records+ is an array of ActiveRecord::Base. This array needs not be flat,\ni.e. +records+ itself may also contain arrays of records. In any case,\n+preload_associations+ will preload the all associations records by\nflattening +records+.\n\n+associations+ specifies one or more associations that you want to\npreload. It may be:\n- a Symbol or a String which specifies a single association name. For\n  example, specifying +:books+ allows this method to preload all books\n  for an Author.\n- an Array which specifies multiple association names. This array\n  is processed recursively. For example, specifying <tt>[:avatar, :books]</tt>\n  allows this method to preload an author's avatar as well as all of his\n  books.\n- a Hash which specifies multiple association names, as well as\n  association names for the to-be-preloaded association objects. For\n  example, specifying <tt>{ author: :avatar }</tt> will preload a\n  book's author, as well as that author's avatar.\n\n+:associations+ has the same format as the +:include+ option for\n<tt>ActiveRecord::Base.find</tt>. So +associations+ could look like this:\n\n  :books\n  [ :books, :author ]\n  { author: :avatar }\n  [ :books, { author: :avatar } ]",
+  "preload": "",
+  "preloaders_on": "",
+  "preloaders_for_hash": "",
+  "preloaders_for_one": "Not all records have the same class, so group then preload group on the reflection\nitself so that if various subclass share the same association then we do not split\nthem unnecessarily\n\nAdditionally, polymorphic belongs_to associations can have multiple associated\nclasses, depending on the polymorphic_type field. So we group by the classes as\nwell.",
+  "grouped_records": "",
+  "AlreadyLoaded": "",
+  "NullPreloader": "",
+  "preloader_for": "",
+  "HasOne": ":nodoc:",
+  "HasMany": ":nodoc:",
+  "BelongsTo": ":nodoc:",
+  "Association": ":nodoc:",
+  "HasOneThrough": ":nodoc:",
+  "HasManyThrough": ":nodoc:",
+  "ThroughAssociation": ":nodoc:",
+  "SingularAssociation": ":nodoc:",
+  "CollectionAssociation": ":nodoc:"
+}

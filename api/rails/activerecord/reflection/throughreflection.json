@@ -1,0 +1,17 @@
+{
+  "initialize": "",
+  "source_reflection": "Returns the source of the through reflection. It checks both a singularized\nand pluralized form for <tt>:belongs_to</tt> or <tt>:has_many</tt>.\n\n  class Post < ActiveRecord::Base\n    has_many :taggings\n    has_many :tags, through: :taggings\n  end\n\n  class Tagging < ActiveRecord::Base\n    belongs_to :post\n    belongs_to :tag\n  end\n\n  tags_reflection = Post.reflect_on_association(:tags)\n  tags_reflection.source_reflection\n  # => <ActiveRecord::Reflection::AssociationReflection: @macro=:belongs_to, @name=:tag, @active_record=Tagging, @plural_name=\"tags\">",
+  "through_reflection": "Returns the AssociationReflection object specified in the <tt>:through</tt> option\nof a HasManyThrough or HasOneThrough association.\n\n  class Post < ActiveRecord::Base\n    has_many :taggings\n    has_many :tags, through: :taggings\n  end\n\n  tags_reflection = Post.reflect_on_association(:tags)\n  tags_reflection.through_reflection\n  # => <ActiveRecord::Reflection::AssociationReflection: @macro=:has_many, @name=:taggings, @active_record=Post, @plural_name=\"taggings\">",
+  "chain": "Returns an array of reflections which are involved in this association. Each item in the\narray corresponds to a table which will be part of the query for this association.\n\nThe chain is built by recursively calling #chain on the source reflection and the through\nreflection. The base case for the recursion is a normal association, which just returns\n[self] as its #chain.\n\n  class Post < ActiveRecord::Base\n    has_many :taggings\n    has_many :tags, through: :taggings\n  end\n\n  tags_reflection = Post.reflect_on_association(:tags)\n  tags_reflection.chain\n  # => [<ActiveRecord::Reflection::ThroughReflection: @macro=:has_many, @name=:tags, @options={:through=>:taggings}, @active_record=Post>,\n        <ActiveRecord::Reflection::AssociationReflection: @macro=:has_many, @name=:taggings, @options={}, @active_record=Post>]",
+  "scope_chain": "Consider the following example:\n\n  class Person\n    has_many :articles\n    has_many :comment_tags, through: :articles\n  end\n\n  class Article\n    has_many :comments\n    has_many :comment_tags, through: :comments, source: :tags\n  end\n\n  class Comment\n    has_many :tags\n  end\n\nThere may be scopes on Person.comment_tags, Article.comment_tags and/or Comment.tags,\nbut only Comment.tags will be represented in the #chain. So this method creates an array\nof scopes corresponding to the chain.",
+  "source_macro": "The macro used by the source association",
+  "nested?": "A through association is nested if there would be more than one join table",
+  "association_primary_key": "We want to use the klass from this reflection, rather than just delegate straight to\nthe source_reflection, because the source_reflection may be polymorphic. We still\nneed to respect the source_reflection's :primary_key option, though.",
+  "source_reflection_names": "Gets an array of possible <tt>:through</tt> source reflection names in both singular and plural form.\n\n  class Post < ActiveRecord::Base\n    has_many :taggings\n    has_many :tags, through: :taggings\n  end\n\n  tags_reflection = Post.reflect_on_association(:tags)\n  tags_reflection.source_reflection_names\n  # => [:tag, :tags]",
+  "source_reflection_name": ":nodoc:",
+  "source_options": "",
+  "through_options": "",
+  "check_validity!": "",
+  "actual_source_reflection": "FIXME: this is a horrible name",
+  "derive_class_name": ""
+}

@@ -1,0 +1,14 @@
+{
+  "setup": "",
+  "test_should_serialize_string": "",
+  "test_should_serialize_integer": "",
+  "test_should_serialize_binary": "",
+  "test_should_serialize_datetime": "",
+  "test_should_serialize_boolean": "",
+  "test_should_serialize_hash": "",
+  "test_uses_serializable_hash_with_only_option": "",
+  "serializable_hash": "",
+  "test_uses_serializable_hash_with_except_option": "",
+  "test_does_not_include_inheritance_column_from_sti": "",
+  "test_serializable_hash_with_default_except_option_and_excluding_inheritance_column_from_sti": ""
+}

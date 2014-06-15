@@ -1,0 +1,11 @@
+{
+  "RESCUES_TEMPLATE_PATH": "",
+  "initialize": "",
+  "call": "",
+  "render_exception": "",
+  "render": "",
+  "log_error": "",
+  "logger": "",
+  "stderr_logger": "Silence logger",
+  "routes_inspector": ""
+}

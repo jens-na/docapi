@@ -1,0 +1,9 @@
+{
+  "queries": "Returns the value of attribute queries",
+  "queries=": "Sets the attribute queries",
+  "collect": "Returns the value of attribute collect",
+  "collect=": "Sets the attribute collect",
+  "initialize": "",
+  "collect?": "",
+  "reset": ""
+}

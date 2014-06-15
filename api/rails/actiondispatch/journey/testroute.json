@@ -1,0 +1,12 @@
+{
+  "test_initialize": "",
+  "test_route_adds_itself_as_memo": "",
+  "test_ip_address": "",
+  "test_default_ip": "",
+  "test_format_with_star": "",
+  "test_connects_all_match": "",
+  "test_extras_are_not_included_if_optional": "",
+  "test_extras_are_not_included_if_optional_with_parameter": "",
+  "test_extras_are_not_included_if_optional_parameter_is_nil": "",
+  "test_score": ""
+}

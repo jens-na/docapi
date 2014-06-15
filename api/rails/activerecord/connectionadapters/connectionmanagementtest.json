@@ -1,0 +1,12 @@
+{
+  "App": "",
+  "setup": "",
+  "test_connection_pool_per_pid": "",
+  "test_app_delegation": "",
+  "test_connections_are_active_after_call": "",
+  "test_body_responds_to_each": "",
+  "test_connections_are_cleared_after_body_close": "",
+  "test_active_connections_are_not_cleared_on_body_close_during_test": "",
+  "test_connections_closed_if_exception": "",
+  "test_connections_not_closed_if_exception_and_test": ""
+}

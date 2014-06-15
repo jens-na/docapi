@@ -1,0 +1,22 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_translated_model_attributes": "",
+  "test_translated_model_attributes_with_default": "",
+  "test_translated_model_attributes_using_default_option": "",
+  "test_translated_model_attributes_using_default_option_as_symbol": "",
+  "test_translated_model_attributes_falling_back_to_default": "",
+  "test_translated_model_attributes_using_default_option_as_symbol_and_falling_back_to_default": "",
+  "test_translated_model_attributes_with_symbols": "",
+  "test_translated_model_attributes_with_ancestor": "",
+  "test_translated_model_attributes_with_ancestors_fallback": "",
+  "test_translated_model_attributes_with_attribute_matching_namespaced_model_name": "",
+  "test_translated_deeply_nested_model_attributes": "",
+  "test_translated_nested_model_attributes": "",
+  "test_translated_nested_model_attributes_with_namespace_fallback": "",
+  "test_translated_model_names": "",
+  "test_translated_model_names_with_sti": "",
+  "test_translated_model_names_with_ancestors_fallback": "",
+  "test_human_does_not_modify_options": "",
+  "test_human_attribute_name_does_not_modify_options": ""
+}

@@ -1,0 +1,7 @@
+{
+  "result": "",
+  "test_to_hash_returns_row_hashes": "",
+  "test_each_with_block_returns_row_hashes": "",
+  "test_each_without_block_returns_an_enumerator": "",
+  "test_each_without_block_returns_a_sized_enumerator": ""
+}

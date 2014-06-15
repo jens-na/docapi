@@ -1,0 +1,20 @@
+{
+  "CLEAR": "Embed in a String to clear all previous ANSI sequences.",
+  "BOLD": "",
+  "BLACK": "Colors",
+  "RED": "",
+  "GREEN": "",
+  "YELLOW": "",
+  "BLUE": "",
+  "MAGENTA": "",
+  "CYAN": "",
+  "WHITE": "",
+  "logger": "",
+  "logger=": "Sets the attribute logger",
+  "log_subscribers": "",
+  "flush_all!": "Flush all log_subscribers' logger.",
+  "start": "",
+  "finish": "",
+  "color": "Set color by using a string or one of the defined constants. If a third\noption is set to +true+, it also adds bold to the string. This is based\non the Highline implementation and will automatically append CLEAR to the\nend of the returned String.",
+  "TestHelper": "Provides some helpers to deal with testing log subscribers by setting up\nnotifications. Take for instance Active Record subscriber tests:\n\n  class SyncLogSubscriberTest < ActiveSupport::TestCase\n    include ActiveSupport::LogSubscriber::TestHelper\n\n    def setup\n      ActiveRecord::LogSubscriber.attach_to(:active_record)\n    end\n\n    def test_basic_query_logging\n      Developer.all.to_a\n      wait\n      assert_equal 1, @logger.logged(:debug).size\n      assert_match(/Developer Load/, @logger.logged(:debug).last)\n      assert_match(/SELECT \\* FROM \"developers\"/, @logger.logged(:debug).last)\n    end\n  end\n\nAll you need to do is to ensure that your log subscriber is added to\nRails::Subscriber, as in the second line of the code above. The test\nhelpers are responsible for setting up the queue, subscriptions and\nturning colors in logs off.\n\nThe messages are available in the @logger instance, which is a logger with\nlimited powers (it actually does not send anything to your output), and\nyou can collect them doing @logger.logged(level), where level is the level\nused in logging, like info, debug, warn and so on."
+}

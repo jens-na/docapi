@@ -1,0 +1,12 @@
+{
+  "all": "Returns all mailer preview classes",
+  "call": "Returns the mail object for the given email name. The registered preview\ninterceptors will be informed so that they can transform the message\nas they would if the mail was actually being delivered.",
+  "emails": "Returns all of the available email previews",
+  "email_exists?": "Returns true if the email exists",
+  "exists?": "Returns true if the preview exists",
+  "find": "Find a mailer preview by its underscored class name",
+  "preview_name": "Returns the underscored name of the mailer preview without the suffix",
+  "load_previews": ":nodoc:",
+  "preview_path": ":nodoc:",
+  "inform_preview_interceptors": ":nodoc:"
+}

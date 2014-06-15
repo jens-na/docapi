@@ -1,0 +1,8 @@
+{
+  "permitted": "Returns the value of attribute permitted",
+  "permitted=": "Sets the attribute permitted",
+  "permitted?": "Returns the value of attribute permitted",
+  "initialize": "",
+  "permit!": "",
+  "dup": ""
+}

@@ -1,0 +1,7 @@
+{
+  "TestCreator": "A utility class which is used primarily in \"rails/test_unit/testing.rake\"\nto help define rake tasks corresponding to <tt>rake test</tt>.\n\nThis class takes a TestInfo class and defines the appropriate rake task\nbased on the information, then invokes it.",
+  "TestInfo": "This is a utility class used by the <tt>TestTask::TestCreator</tt> class.\nThis class takes a set of test tasks and checks to see if they correspond\nto test files (or can be transformed into test files). Calling <tt>files</tt>\nprovides the set of test files and is used when initializing tests after\na call to <tt>rake test</tt>.",
+  "test_creator": "",
+  "initialize": "",
+  "define": ""
+}

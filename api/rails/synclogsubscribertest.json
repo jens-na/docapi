@@ -1,0 +1,16 @@
+{
+  "setup": "",
+  "teardown": "",
+  "instrument": "",
+  "test_proxies_method_to_rails_logger": "",
+  "test_set_color_for_messages": "",
+  "test_does_not_set_color_if_colorize_logging_is_set_to_false": "",
+  "test_event_is_sent_to_the_registered_class": "",
+  "test_event_is_an_active_support_notifications_event": "",
+  "test_does_not_send_the_event_if_it_doesnt_match_the_class": "",
+  "test_does_not_send_the_event_if_logger_is_nil": "",
+  "test_does_not_fail_with_non_namespaced_events": "",
+  "test_flushes_loggers": "",
+  "test_flushes_the_same_logger_just_once": "",
+  "test_logging_does_not_die_on_failures": ""
+}

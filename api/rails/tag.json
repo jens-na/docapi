@@ -1,0 +1,13 @@
+{
+  "id": "Returns the value of attribute id",
+  "post_id": "Returns the value of attribute post_id",
+  "initialize": "",
+  "to_key": "",
+  "save": "",
+  "persisted?": "",
+  "to_param": "",
+  "value": "",
+  "relevances": "Returns the value of attribute relevances",
+  "relevances=": "Sets the attribute relevances",
+  "relevances_attributes=": ""
+}

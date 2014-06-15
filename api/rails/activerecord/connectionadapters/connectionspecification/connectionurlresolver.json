@@ -1,0 +1,9 @@
+{
+  "initialize": "== Example\n\n  url = \"postgresql://foo:bar@localhost:9000/foo_test?pool=5&timeout=3000\"\n  ConnectionUrlResolver.new(url).to_hash\n  # => {\n    \"adapter\"  => \"postgresql\",\n    \"host\"     => \"localhost\",\n    \"port\"     => 9000,\n    \"database\" => \"foo_test\",\n    \"username\" => \"foo\",\n    \"password\" => \"bar\",\n    \"pool\"     => \"5\",\n    \"timeout\"  => \"3000\"\n  }",
+  "to_hash": "Converts the given URL to a full connection hash.",
+  "uri": "",
+  "uri_parser": "",
+  "query_hash": "Converts the query parameters of the URI into a hash.\n\n  \"localhost?pool=5&reaping_frequency=2\"\n  # => { \"pool\" => \"5\", \"reaping_frequency\" => \"2\" }\n\nreturns empty hash if no query present.\n\n  \"localhost\"\n  # => {}",
+  "raw_config": "",
+  "database_from_path": "Returns name of the database."
+}

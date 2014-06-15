@@ -1,0 +1,12 @@
+{
+  "XmlRenderable": "",
+  "TestController": "",
+  "setup": "",
+  "test_rendering_with_location_should_set_header": "",
+  "test_rendering_xml_should_call_to_xml_if_possible": "",
+  "test_rendering_xml_should_call_to_xml_with_extra_options": "",
+  "test_rendering_with_object_location_should_set_header_with_url_for": "",
+  "test_should_render_formatted_xml_erb_template": "",
+  "test_should_render_xml_but_keep_custom_content_type": "",
+  "test_should_use_implicit_content_type": ""
+}

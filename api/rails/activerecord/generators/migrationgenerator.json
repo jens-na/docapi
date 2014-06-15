@@ -1,0 +1,11 @@
+{
+  "create_migration_file": "",
+  "migration_action": "Returns the value of attribute migration_action",
+  "join_tables": "Returns the value of attribute join_tables",
+  "set_local_assigns!": "sets the default migration template that is being used for the generation of the migration\ndepending on the arguments which would be sent out in the command line, the migration template \nand the table name instance variables are setup.",
+  "set_index_names": "",
+  "index_name_for": "",
+  "attributes_with_index": "",
+  "validate_file_name!": "",
+  "normalize_table_name": ""
+}

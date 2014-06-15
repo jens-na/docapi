@@ -1,0 +1,5 @@
+{
+  "test_orm_class_returns_custom_generator_if_supported_custom_orm_set": "",
+  "test_orm_class_returns_rails_generator_if_unsupported_custom_orm_set": "",
+  "test_orm_instance_returns_orm_class_instance_with_name": ""
+}

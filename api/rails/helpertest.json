@@ -1,0 +1,21 @@
+{
+  "TestController": "",
+  "setup": "",
+  "test_helper": "",
+  "test_helper_method": "",
+  "test_helper_attr": "",
+  "call_controller": "",
+  "test_helper_for_nested_controller": "",
+  "test_helper_for_acronym_controller": "",
+  "test_default_helpers_only": "",
+  "test_base_helper_methods_after_clear_helpers": "",
+  "test_lib_helper_methods_after_clear_helpers": "",
+  "test_all_helpers": "",
+  "test_all_helpers_with_alternate_helper_dir": "",
+  "test_helper_proxy": "",
+  "test_helper_proxy_config": "",
+  "expected_helper_methods": "",
+  "master_helper_methods": "",
+  "missing_methods": "",
+  "test_helper=": ""
+}

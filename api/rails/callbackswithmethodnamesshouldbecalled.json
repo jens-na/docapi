@@ -1,0 +1,8 @@
+{
+  "test_if_condition_is_respected_for_before_validation": "",
+  "test_before_validation_and_after_validation_callbacks_should_be_called": "",
+  "test_before_validation_and_after_validation_callbacks_should_be_called_with_proc": "",
+  "test_before_validation_and_after_validation_callbacks_should_be_called_in_declared_order": "",
+  "test_further_callbacks_should_not_be_called_if_before_validation_returns_false": "",
+  "test_validation_test_should_be_done": ""
+}

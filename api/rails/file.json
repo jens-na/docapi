@@ -1,0 +1,4 @@
+{
+  "atomic_write": "Write to a file atomically. Useful for situations where you don't\nwant other processes or threads to see half-written files.\n\n  File.atomic_write('important.file') do |file|\n    file.write('hello')\n  end\n\nIf your temp directory is not on the same filesystem as the file you're\ntrying to write, you can provide a different temporary directory.\n\n  File.atomic_write('/data/something.important', '/data/tmp') do |file|\n    file.write('hello')\n  end",
+  "probe_stat_in": "Private utility method."
+}

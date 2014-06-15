@@ -1,0 +1,8 @@
+{
+  "render": "",
+  "determine_template": "Determine the template to be rendered using the given options.",
+  "render_template": "Renders the given template. A string representing the layout can be\nsupplied as well.",
+  "render_with_layout": ":nodoc:",
+  "find_layout": "This is the method which actually finds the layout using details in the lookup\ncontext object. If no layout is found, it checks if at least a layout with\nthe given name exists across all details before raising the error.",
+  "resolve_layout": ""
+}

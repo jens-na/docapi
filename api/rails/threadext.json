@@ -1,0 +1,9 @@
+{
+  "test_main_thread_variable_in_enumerator": "",
+  "test_thread_variable_in_enumerator": "",
+  "test_thread_variables": "",
+  "test_thread_variable?": "",
+  "test_thread_variable_strings_and_symbols_are_the_same_key": "",
+  "test_thread_variable_frozen": "",
+  "test_thread_variable_frozen_after_set": ""
+}

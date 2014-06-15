@@ -1,0 +1,16 @@
+{
+  "code": "Returns the value of attribute code",
+  "code=": "Sets the attribute code",
+  "combining_class": "Returns the value of attribute combining_class",
+  "combining_class=": "Sets the attribute combining_class",
+  "decomp_type": "Returns the value of attribute decomp_type",
+  "decomp_type=": "Sets the attribute decomp_type",
+  "decomp_mapping": "Returns the value of attribute decomp_mapping",
+  "decomp_mapping=": "Sets the attribute decomp_mapping",
+  "uppercase_mapping": "Returns the value of attribute uppercase_mapping",
+  "uppercase_mapping=": "Sets the attribute uppercase_mapping",
+  "lowercase_mapping": "Returns the value of attribute lowercase_mapping",
+  "lowercase_mapping=": "Sets the attribute lowercase_mapping",
+  "initialize": "Initializing Codepoint object with default values",
+  "swapcase_mapping": ""
+}

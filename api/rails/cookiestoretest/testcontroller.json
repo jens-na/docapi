@@ -1,0 +1,13 @@
+{
+  "no_session_access": "",
+  "persistent_session_id": "",
+  "set_session_value": "",
+  "get_session_value": "",
+  "get_session_id": "",
+  "get_class_after_reset_session": "",
+  "call_session_clear": "",
+  "call_reset_session": "",
+  "raise_data_overflow": "",
+  "change_session_id": "",
+  "renew_session_id": ""
+}

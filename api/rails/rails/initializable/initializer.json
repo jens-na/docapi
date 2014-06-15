@@ -1,0 +1,10 @@
+{
+  "name": "Returns the value of attribute name",
+  "block": "Returns the value of attribute block",
+  "initialize": "",
+  "before": "",
+  "after": "",
+  "belongs_to?": "",
+  "run": "",
+  "bind": ""
+}

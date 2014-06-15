@@ -1,0 +1,6 @@
+{
+  "initialize": "",
+  "handle_unverified_request": "This is the method that defines the application behavior when a request is found to be unverified.",
+  "NullSessionHash": ":nodoc:",
+  "NullCookieJar": ":nodoc:"
+}

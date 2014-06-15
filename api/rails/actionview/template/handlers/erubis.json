@@ -1,0 +1,11 @@
+{
+  "add_preamble": "",
+  "add_text": "",
+  "add_expr": "Erubis toggles <%= and <%== behavior when escaping is enabled.\nWe override to always treat <%== as escaped.",
+  "BLOCK_EXPR": "",
+  "add_expr_literal": "",
+  "add_expr_escaped": "",
+  "add_stmt": "",
+  "add_postamble": "",
+  "flush_newline_if_pending": ""
+}

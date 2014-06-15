@@ -1,0 +1,20 @@
+{
+  "table=": "Sets the attribute table",
+  "table": "Returns the value of attribute table",
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "unique=": "Sets the attribute unique",
+  "unique": "Returns the value of attribute unique",
+  "columns=": "Sets the attribute columns",
+  "columns": "Returns the value of attribute columns",
+  "lengths=": "Sets the attribute lengths",
+  "lengths": "Returns the value of attribute lengths",
+  "orders=": "Sets the attribute orders",
+  "orders": "Returns the value of attribute orders",
+  "where=": "Sets the attribute where",
+  "where": "Returns the value of attribute where",
+  "type=": "Sets the attribute type",
+  "type": "Returns the value of attribute type",
+  "using=": "Sets the attribute using",
+  "using": "Returns the value of attribute using"
+}

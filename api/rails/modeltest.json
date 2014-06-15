@@ -1,0 +1,14 @@
+{
+  "DefaultValue": "",
+  "BasicModel": "",
+  "BasicModelWithReversedMixins": "",
+  "SimpleModel": "",
+  "setup": "",
+  "test_initialize_with_params": "",
+  "test_initialize_with_params_and_mixins_reversed": "",
+  "test_initialize_with_nil_or_empty_hash_params_does_not_explode": "",
+  "test_persisted_is_always_false": "",
+  "test_mixin_inclusion_chain": "",
+  "test_mixin_initializer_when_args_exist": "",
+  "test_mixin_initializer_when_args_dont_exist": ""
+}

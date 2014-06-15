@@ -1,0 +1,15 @@
+{
+  "id=": "Sets the attribute id",
+  "id": "Returns the value of attribute id",
+  "to_param=": "Sets the attribute to_param",
+  "to_param": "Returns the value of attribute to_param",
+  "title=": "Sets the attribute title",
+  "title": "Returns the value of attribute title",
+  "body=": "Sets the attribute body",
+  "body": "Returns the value of attribute body",
+  "updated_at=": "Sets the attribute updated_at",
+  "updated_at": "Returns the value of attribute updated_at",
+  "created_at=": "Sets the attribute created_at",
+  "created_at": "Returns the value of attribute created_at",
+  "persisted?": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "version=": "Sets the attribute version",
+  "version": "Returns the value of attribute version",
+  "filename=": "Sets the attribute filename",
+  "filename": "Returns the value of attribute filename",
+  "scope=": "Sets the attribute scope",
+  "scope": "Returns the value of attribute scope",
+  "initialize": "",
+  "basename": "",
+  "mtime": "",
+  "migration": "",
+  "load_migration": ""
+}

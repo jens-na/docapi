@@ -1,0 +1,4 @@
+{
+  "test_transaction_per_thread": "",
+  "test_transaction_isolation__read_committed": "Test for dirty reads among simultaneous transactions."
+}

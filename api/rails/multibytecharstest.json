@@ -1,0 +1,16 @@
+{
+  "setup": "",
+  "test_wraps_the_original_string": "",
+  "test_should_allow_method_calls_to_string": "",
+  "test_forwarded_method_calls_should_return_new_chars_instance": "",
+  "test_forwarded_bang_method_calls_should_return_the_original_chars_instance_when_result_is_not_nil": "",
+  "test_forwarded_bang_method_calls_should_return_nil_when_result_is_nil": "",
+  "test_methods_are_forwarded_to_wrapped_string_for_byte_strings": "",
+  "test_forwarded_method_with_non_string_result_should_be_returned_vertabim": "",
+  "test_should_concatenate": "",
+  "test_consumes_utf8_strings": "",
+  "test_concatenation_should_return_a_proxy_class_instance": "",
+  "test_ascii_strings_are_treated_at_utf8_strings": "",
+  "test_concatenate_should_return_proxy_instance": "",
+  "test_should_return_string_as_json": ""
+}

@@ -1,0 +1,19 @@
+{
+  "build": "",
+  "kind": "Returns the value of attribute kind",
+  "kind=": "Sets the attribute kind",
+  "name": "Returns the value of attribute name",
+  "name=": "Sets the attribute name",
+  "chain_config": "Returns the value of attribute chain_config",
+  "initialize": "",
+  "filter": "",
+  "raw_filter": "",
+  "merge": "",
+  "matches?": "",
+  "duplicates?": "",
+  "apply": "Wraps code with filter",
+  "invert_lambda": "",
+  "make_lambda": "Filters support:\n\n  Symbols:: A method to call.\n  Strings:: Some content to evaluate.\n  Procs::   A proc to call with the object.\n  Objects:: An object with a <tt>before_foo</tt> method on it to call.\n\nAll of these objects are compiled into methods and handled\nthe same after this point:\n\n  Symbols:: Already methods.\n  Strings:: class_eval'd into methods.\n  Procs::   using define_method compiled into methods.\n  Objects::\n    a method is created that calls the before_foo method\n    on the object.",
+  "compute_identifier": "",
+  "conditions_lambdas": ""
+}

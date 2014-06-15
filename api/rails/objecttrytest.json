@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "test_nonexisting_method": "",
+  "test_nonexisting_method_with_arguments": "",
+  "test_nonexisting_method_bang": "",
+  "test_nonexisting_method_with_arguments_bang": "",
+  "test_try_only_block_bang": "",
+  "test_valid_method": "",
+  "test_argument_forwarding": "",
+  "test_block_forwarding": "",
+  "test_nil_to_type": "",
+  "test_false_try": "",
+  "test_try_only_block": "",
+  "test_try_only_block_nil": "",
+  "test_try_with_private_method_bang": "",
+  "test_try_with_private_method": ""
+}

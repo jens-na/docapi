@@ -1,0 +1,17 @@
+{
+  "path": "Returns the value of attribute path",
+  "path=": "Sets the attribute path",
+  "initialize": "",
+  "[]=": "",
+  "add": "",
+  "[]": "",
+  "values": "",
+  "keys": "",
+  "values_at": "",
+  "all_paths": "",
+  "autoload_once": "",
+  "eager_load": "",
+  "autoload_paths": "",
+  "load_paths": "",
+  "filter_by": ""
+}

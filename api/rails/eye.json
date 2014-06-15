@@ -1,0 +1,11 @@
+{
+  "after_create_callbacks_stack": "Returns the value of attribute after_create_callbacks_stack",
+  "after_update_callbacks_stack": "Returns the value of attribute after_update_callbacks_stack",
+  "after_save_callbacks_stack": "Returns the value of attribute after_save_callbacks_stack",
+  "trace_after_create": "",
+  "trace_after_create2": "",
+  "trace_after_update": "",
+  "trace_after_update2": "",
+  "trace_after_save": "",
+  "trace_after_save2": ""
+}

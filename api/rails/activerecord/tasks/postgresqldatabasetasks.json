@@ -1,0 +1,15 @@
+{
+  "DEFAULT_ENCODING": "",
+  "initialize": "",
+  "create": "",
+  "drop": "",
+  "charset": "",
+  "collation": "",
+  "purge": "",
+  "structure_dump": "",
+  "structure_load": "",
+  "configuration": "",
+  "encoding": "",
+  "establish_master_connection": "",
+  "set_psql_env": ""
+}

@@ -1,0 +1,9 @@
+{
+  "regexp": "Returns the value of attribute regexp",
+  "regexp=": "Sets the attribute regexp",
+  "symbol": "Returns the value of attribute regexp",
+  "DEFAULT_EXP": "",
+  "initialize": "",
+  "default_regexp?": "",
+  "symbol?": ""
+}

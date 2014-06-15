@@ -1,0 +1,15 @@
+{
+  "routes": "Returns the value of attribute routes",
+  "named_routes": "Returns the value of attribute named_routes",
+  "initialize": "",
+  "length": "",
+  "size": "",
+  "last": "",
+  "each": "",
+  "clear": "",
+  "partitioned_routes": "",
+  "ast": "",
+  "simulator": "",
+  "add_route": "Add a route to the routing table.",
+  "clear_cache!": ""
+}

@@ -1,0 +1,12 @@
+{
+  "initialize": "It accepts two parameters on initialization. The first is an array\nof files and the second is an optional hash of directories. The hash must\nhave directories as keys and the value is an array of extensions to be\nwatched under that directory.\n\nThis method must also receive a block that will be called once a path\nchanges. The array of files and list of directories cannot be changed\nafter FileUpdateChecker has been initialized.",
+  "updated?": "Check if any of the entries were updated. If so, the watched and/or\nupdated_at values are cached until the block is executed via +execute+\nor +execute_if_updated+.",
+  "execute": "Executes the given block and updates the latest watched files and\ntimestamp.",
+  "execute_if_updated": "Execute the block given if updated.",
+  "watched": "",
+  "updated_at": "",
+  "max_mtime": "This method returns the maximum mtime of the files in +paths+, or +nil+\nif the array is empty.\n\nFiles with a mtime in the future are ignored. Such abnormal situation\ncan happen for example if the user changes the clock by hand. It is\nhealthy to consider this edge case because with mtimes in the future\nreloading is not triggered.",
+  "compile_glob": "",
+  "escape": "",
+  "compile_ext": ""
+}

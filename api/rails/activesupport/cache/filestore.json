@@ -1,0 +1,23 @@
+{
+  "cache_path": "Returns the value of attribute cache_path",
+  "DIR_FORMATTER": "",
+  "FILENAME_MAX_SIZE": "",
+  "FILEPATH_MAX_SIZE": "max filename size on file system is 255, minus room for timestamp and random characters appended by Tempfile (used by atomic write)\nmax is 1024, plus some room",
+  "EXCLUDED_DIRS": "",
+  "initialize": "",
+  "clear": "Deletes all items from the cache. In this case it deletes all the entries in the specified\nfile store directory except for .gitkeep. Be careful which directory is specified in your\nconfig file when using +FileStore+ because everything in that directory will be deleted.",
+  "cleanup": "Preemptively iterates through all stored keys and removes the ones which have expired.",
+  "increment": "Increments an already existing integer value that is stored in the cache.\nIf the key is not found nothing is done.",
+  "decrement": "Decrements an already existing integer value that is stored in the cache.\nIf the key is not found nothing is done.",
+  "delete_matched": "",
+  "read_entry": "",
+  "write_entry": "",
+  "delete_entry": "",
+  "lock_file": "Lock a file for a block so only one process can modify it at a time.",
+  "key_file_path": "Translate a key into a file path.",
+  "file_path_key": "Translate a file path into a key.",
+  "delete_empty_directories": "Delete empty directories in the cache.",
+  "ensure_cache_path": "Make sure a file path's directories exist.",
+  "search_dir": "",
+  "modify_value": "Modifies the amount of an already existing integer value that is stored in the cache.\nIf the key is not found nothing is done."
+}

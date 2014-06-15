@@ -1,0 +1,9 @@
+{
+  "teardown": "",
+  "test_validates_exclusion_of": "",
+  "test_validates_exclusion_of_with_formatted_message": "",
+  "test_validates_exclusion_of_with_within_option": "",
+  "test_validates_exclusion_of_for_ruby_class": "",
+  "test_validates_exclusion_of_with_lambda": "",
+  "test_validates_inclusion_of_with_symbol": ""
+}

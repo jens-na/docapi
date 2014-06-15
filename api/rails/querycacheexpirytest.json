@@ -1,0 +1,9 @@
+{
+  "test_cache_gets_cleared_after_migration": "",
+  "test_find": "",
+  "test_update": "",
+  "test_destroy": "",
+  "test_insert": "",
+  "test_cache_is_expired_by_habtm_update": "",
+  "test_cache_is_expired_by_habtm_delete": ""
+}

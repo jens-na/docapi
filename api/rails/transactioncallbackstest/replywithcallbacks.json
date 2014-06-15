@@ -1,0 +1,6 @@
+{
+  "save_on_after_create": "Returns the value of attribute save_on_after_create",
+  "save_on_after_create=": "Sets the attribute save_on_after_create",
+  "history": "",
+  "do_after_commit": ""
+}

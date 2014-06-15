@@ -1,0 +1,9 @@
+{
+  "DEFAULT_OPTIONS": ":nodoc:",
+  "initialize": "",
+  "exists?": "",
+  "keys": "",
+  "values": "",
+  "destroy": "",
+  "load!": ""
+}

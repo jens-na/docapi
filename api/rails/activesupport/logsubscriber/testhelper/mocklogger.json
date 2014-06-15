@@ -1,0 +1,9 @@
+{
+  "flush_count": "Returns the value of attribute flush_count",
+  "level": "Returns the value of attribute level",
+  "level=": "Sets the attribute level",
+  "initialize": "",
+  "method_missing": "",
+  "logged": "",
+  "flush": ""
+}

@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_should_use_mattr_default": "",
+  "test_should_set_mattr_value": "",
+  "test_cattr_accessor_default_value": "",
+  "test_should_not_create_instance_writer": "",
+  "test_should_not_create_instance_reader": "",
+  "test_should_not_create_instance_accessors": "",
+  "test_should_raise_name_error_if_attribute_name_is_invalid": "",
+  "test_should_use_default_value_if_block_passed": ""
+}

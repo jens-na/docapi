@@ -1,0 +1,13 @@
+{
+  "test_silence_warnings": "",
+  "test_silence_warnings_verbose_invariant": "",
+  "test_enable_warnings": "",
+  "test_enable_warnings_verbose_invariant": "",
+  "test_silence_stderr": "",
+  "test_silence_stream": "",
+  "test_silence_stream_closes_file_descriptors": "",
+  "test_quietly": "",
+  "test_silence_stderr_with_return_value": "",
+  "test_class_eval": "",
+  "test_capture": ""
+}

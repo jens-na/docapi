@@ -1,0 +1,12 @@
+{
+  "initialize": "",
+  "clean": "Returns the backtrace after all filters and silencers have been run\nagainst it. Filters run first, then silencers.",
+  "filter": "Returns the backtrace after all filters and silencers have been run\nagainst it. Filters run first, then silencers.",
+  "add_filter": "Adds a filter from the block provided. Each line in the backtrace will be\nmapped against this filter.\n\n  # Will turn \"/my/rails/root/app/models/person.rb\" into \"/app/models/person.rb\"\n  backtrace_cleaner.add_filter { |line| line.gsub(Rails.root, '') }",
+  "add_silencer": "Adds a silencer from the block provided. If the silencer returns +true+\nfor a given line, it will be excluded from the clean backtrace.\n\n  # Will reject all lines that include the word \"mongrel\", like \"/gems/mongrel/server.rb\" or \"/app/my_mongrel_server/rb\"\n  backtrace_cleaner.add_silencer { |line| line =~ /mongrel/ }",
+  "remove_silencers!": "Removes all silencers, but leaves in the filters. Useful if your\ncontext of debugging suddenly expands as you suspect a bug in one of\nthe libraries you use.",
+  "remove_filters!": "Removes all filters, but leaves in the silencers. Useful if you suddenly\nneed to see entire filepaths in the backtrace that you had already\nfiltered out.",
+  "filter_backtrace": "",
+  "silence": "",
+  "noise": ""
+}

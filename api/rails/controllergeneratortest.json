@@ -1,0 +1,17 @@
+{
+  "test_help_does_not_show_invoked_generators_options_if_they_already_exist": "",
+  "test_controller_skeleton_is_created": "",
+  "test_check_class_collision": "",
+  "test_invokes_helper": "",
+  "test_does_not_invoke_helper_if_required": "",
+  "test_invokes_assets": "",
+  "test_does_not_invoke_assets_if_required": "",
+  "test_invokes_default_test_framework": "",
+  "test_does_not_invoke_test_framework_if_required": "",
+  "test_invokes_default_template_engine": "",
+  "test_add_routes": "",
+  "test_invokes_default_template_engine_even_with_no_action": "",
+  "test_template_engine_with_class_path": "",
+  "test_actions_are_turned_into_methods": "",
+  "test_namespaced_routes_are_created_in_routes": ""
+}

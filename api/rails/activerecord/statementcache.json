@@ -1,0 +1,15 @@
+{
+  "Substitute": "",
+  "Query": "",
+  "PartialQuery": "",
+  "query": "",
+  "partial_query": "",
+  "Params": "",
+  "BindMap": "",
+  "bind_map": "Returns the value of attribute bind_map",
+  "query_builder": "Returns the value of attribute query_builder",
+  "create": "",
+  "initialize": "",
+  "execute": "",
+  "call": ""
+}

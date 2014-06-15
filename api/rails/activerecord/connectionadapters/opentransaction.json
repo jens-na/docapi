@@ -1,0 +1,17 @@
+{
+  "parent": "Returns the value of attribute parent",
+  "records": "Returns the value of attribute records",
+  "joinable=": "Sets the attribute joinable",
+  "initialize": "",
+  "finishing?": "This state is necessary so that we correctly handle stuff that might\nhappen in a commit/rollback. But it's kinda distasteful. Maybe we can\nfind a better way to structure it in the future.",
+  "joinable?": "",
+  "number": "",
+  "begin": "",
+  "rollback": "",
+  "commit": "",
+  "add_record": "",
+  "rollback_records": "",
+  "commit_records": "",
+  "closed?": "",
+  "open?": ""
+}

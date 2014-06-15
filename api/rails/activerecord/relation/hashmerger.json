@@ -1,0 +1,7 @@
+{
+  "relation": "Returns the value of attribute relation",
+  "hash": "Returns the value of attribute hash",
+  "initialize": "",
+  "merge": "",
+  "other": "Applying values to a relation has some side effects. E.g.\ninterpolation might take place for where values. So we should\nbuild a relation to merge in rather than directly merging\nthe values."
+}

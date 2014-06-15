@@ -1,0 +1,6 @@
+{
+  "SECRET_MIN_LENGTH": ":nodoc:\nCharacters",
+  "initialize": "",
+  "generate_key": "",
+  "ensure_secret_secure": "To prevent users from using something insecure like \"Password\" we make sure that the\nsecret they've provided is at least 30 characters in length."
+}

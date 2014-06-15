@@ -1,0 +1,11 @@
+{
+  "tables": "Returns the value of attribute tables",
+  "tables=": "Sets the attribute tables",
+  "primary_keys": "Returns the value of attribute primary_keys",
+  "primary_keys=": "Sets the attribute primary_keys",
+  "columns": "",
+  "initialize": "",
+  "primary_key": "",
+  "merge_column": "",
+  "active?": ""
+}

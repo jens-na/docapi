@@ -1,0 +1,6 @@
+{
+  "test_determine_controller_class": "",
+  "test_determine_controller_class_with_nonsense_name": "",
+  "test_determine_controller_class_with_sensible_name_where_no_controller_exists": "",
+  "determine_class": ""
+}

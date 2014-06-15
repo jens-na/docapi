@@ -1,0 +1,6 @@
+{
+  "attribute1=": "Sets the attribute attribute1",
+  "attribute1": "Returns the value of attribute attribute1",
+  "attribute2=": "Sets the attribute attribute2",
+  "attribute2": "Returns the value of attribute attribute2"
+}

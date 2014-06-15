@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_translated_model_attributes": "",
+  "test_translated_model_attributes_with_symbols": "",
+  "test_translated_model_attributes_with_sti": "",
+  "test_translated_model_attributes_with_sti_fallback": "",
+  "test_translated_model_names": "",
+  "test_translated_model_names_with_sti": "",
+  "test_translated_model_names_with_sti_fallback": ""
+}

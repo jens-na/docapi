@@ -1,0 +1,4 @@
+{
+  "response_code=": "Sets the attribute response_code",
+  "response_code": "Returns the value of attribute response_code"
+}

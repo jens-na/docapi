@@ -1,0 +1,4 @@
+{
+  "password_digest": "Returns the value of attribute password_digest",
+  "password_digest=": "Sets the attribute password_digest"
+}

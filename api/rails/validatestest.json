@@ -1,0 +1,22 @@
+{
+  "reset_callbacks": "",
+  "test_validates_with_messages_empty": "",
+  "test_validates_with_built_in_validation": "",
+  "test_validates_with_attribute_specified_as_string": "",
+  "test_validates_with_built_in_validation_and_options": "",
+  "test_validates_with_validator_class": "",
+  "test_validates_with_namespaced_validator_class": "",
+  "test_validates_with_if_as_local_conditions": "",
+  "test_validates_with_if_as_shared_conditions": "",
+  "test_validates_with_unless_shared_conditions": "",
+  "test_validates_with_allow_nil_shared_conditions": "",
+  "test_validates_with_regexp": "",
+  "test_validates_with_array": "",
+  "test_validates_with_range": "",
+  "test_validates_with_validator_class_and_options": "",
+  "test_validates_with_unknown_validator": "",
+  "test_validates_with_included_validator": "",
+  "test_validates_with_included_validator_and_options": "",
+  "test_validates_with_included_validator_and_wildcard_shortcut": "",
+  "test_defining_extra_default_keys_for_validates": ""
+}

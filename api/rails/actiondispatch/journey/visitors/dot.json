@@ -1,0 +1,12 @@
+{
+  "initialize": "",
+  "accept": "",
+  "binary": "",
+  "nary": "",
+  "unary": "",
+  "visit_GROUP": "",
+  "visit_CAT": "",
+  "visit_STAR": "",
+  "visit_OR": "",
+  "terminal": ""
+}

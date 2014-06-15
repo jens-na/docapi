@@ -1,0 +1,4 @@
+{
+  "test_number1": "if foreign keys are implemented and fixtures\nare not deleted in reverse order then this test\ncase will raise StatementInvalid",
+  "test_number2": ""
+}

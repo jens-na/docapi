@@ -1,0 +1,8 @@
+{
+  "test_helper_skeleton_is_created": "",
+  "test_invokes_default_test_framework": "",
+  "test_logs_if_the_test_framework_cannot_be_found": "",
+  "test_check_class_collision": "",
+  "test_check_class_collision_on_tests": "",
+  "test_namespaced_and_not_namespaced_helpers": ""
+}

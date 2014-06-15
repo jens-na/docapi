@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "test_forwarding_of_static_methods": "",
+  "test_forwarding_to_scoped": "",
+  "test_nested_scope_finder": "",
+  "test_should_maintain_default_scope_on_associations": "",
+  "test_should_default_scope_on_associations_is_overridden_by_association_conditions": "",
+  "test_should_maintain_default_scope_on_eager_loaded_associations": ""
+}

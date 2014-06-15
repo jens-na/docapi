@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "teardown": "",
+  "precompile!": "",
+  "clean_assets!": "",
+  "assert_file_exists": "",
+  "assert_no_file_exists": "",
+  "test_precompile_does_not_hit_the_database": "",
+  "app_with_assets_in_view": ""
+}

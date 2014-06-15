@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_resets_to_min_pk_with_specified_pk_and_sequence": "",
+  "test_resets_to_min_pk_with_default_pk_and_sequence": "",
+  "test_create_fixtures_resets_sequences_when_not_cached": ""
+}

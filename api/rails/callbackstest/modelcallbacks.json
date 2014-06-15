@@ -1,0 +1,6 @@
+{
+  "callbacks": "Returns the value of attribute callbacks",
+  "initialize": "",
+  "before_create": "",
+  "create": ""
+}

@@ -1,0 +1,12 @@
+{
+  "TestController": "",
+  "setup": "",
+  "test_check_parameters": "",
+  "test_post_json": "",
+  "test_put_json": "",
+  "test_register_and_use_json_simple": "",
+  "test_use_json_with_empty_request": "",
+  "test_dasherized_keys_as_json": "",
+  "with_params_parsers": "",
+  "with_test_route_set": ""
+}

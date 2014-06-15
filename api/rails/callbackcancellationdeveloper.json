@@ -1,0 +1,14 @@
+{
+  "after_save_called": "Returns the value of attribute after_save_called",
+  "after_create_called": "Returns the value of attribute after_create_called",
+  "after_update_called": "Returns the value of attribute after_update_called",
+  "after_destroy_called": "Returns the value of attribute after_destroy_called",
+  "cancel_before_save": "Returns the value of attribute cancel_before_save",
+  "cancel_before_save=": "Sets the attribute cancel_before_save",
+  "cancel_before_create": "Returns the value of attribute cancel_before_create",
+  "cancel_before_create=": "Sets the attribute cancel_before_create",
+  "cancel_before_update": "Returns the value of attribute cancel_before_update",
+  "cancel_before_update=": "Sets the attribute cancel_before_update",
+  "cancel_before_destroy": "Returns the value of attribute cancel_before_destroy",
+  "cancel_before_destroy=": "Sets the attribute cancel_before_destroy"
+}

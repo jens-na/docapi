@@ -1,0 +1,7 @@
+{
+  "VALID_SCOPE_TYPES": "",
+  "initialize": "",
+  "value_for": "Obtains the value for a given +scope_name+ and +variable_name+.",
+  "set_value_for": "Sets the +value+ for a given +scope_type+ and +variable_name+.",
+  "raise_invalid_scope_type!": ""
+}

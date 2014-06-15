@@ -1,0 +1,11 @@
+{
+  "street": "Returns the value of attribute street",
+  "street=": "Sets the attribute street",
+  "city": "Returns the value of attribute city",
+  "city=": "Sets the attribute city",
+  "state": "Returns the value of attribute state",
+  "state=": "Sets the attribute state",
+  "zip": "Returns the value of attribute zip",
+  "zip=": "Sets the attribute zip",
+  "attributes": ""
+}

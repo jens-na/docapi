@@ -1,0 +1,11 @@
+{
+  "render_with_has_many_and_belongs_to_association": "",
+  "render_with_has_many_association": "",
+  "render_with_scope": "",
+  "render_with_has_many_through_association": "",
+  "render_with_has_one_association": "",
+  "render_with_belongs_to_association": "",
+  "render_with_record": "",
+  "render_with_record_collection": "",
+  "render_with_record_collection_and_spacer_template": ""
+}

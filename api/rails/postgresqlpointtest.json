@@ -1,0 +1,8 @@
+{
+  "PostgresqlPoint": "",
+  "setup": "",
+  "test_column": "",
+  "test_default": "",
+  "test_schema_dumping": "",
+  "test_roundtrip": ""
+}

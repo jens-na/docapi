@@ -1,0 +1,21 @@
+{
+  "PREFIXED_PARTIAL_NAMES": "",
+  "initialize": "",
+  "render": "",
+  "render_collection": "",
+  "render_partial": "",
+  "setup": "Sets up instance variables needed for rendering a partial. This method\nfinds the options and details and extracts them. The method also contains\nlogic that handles the type of object passed in as the partial.\n\nIf +options[:partial]+ is a string, then the +@path+ instance variable is\nset to that string. Otherwise, the +options[:partial]+ object must\nrespond to +to_partial_path+ in order to setup the path.",
+  "collection": "",
+  "collection_from_object": "",
+  "find_partial": "",
+  "find_template": "",
+  "collection_with_template": "",
+  "collection_without_template": "",
+  "partial_path": "Obtains the path to where the object's partial is located. If the object\nresponds to +to_partial_path+, then +to_partial_path+ will be called and\nwill provide the path. If the object does not respond to +to_partial_path+,\nthen an +ArgumentError+ is raised.\n\nIf +prefix_partial_path_with_controller_namespace+ is true, then this\nmethod will prefix the partial paths with a namespace.",
+  "prefixed_partial_names": "",
+  "merge_prefix_into_object_path": "",
+  "retrieve_template_keys": "",
+  "retrieve_variable": "",
+  "IDENTIFIER_ERROR_MESSAGE": "",
+  "raise_invalid_identifier": ""
+}

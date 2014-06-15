@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_attaches_subscribers": "",
+  "test_attaches_only_one_subscriber": "",
+  "test_does_not_attach_private_methods": ""
+}

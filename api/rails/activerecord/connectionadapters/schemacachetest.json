@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "test_primary_key": "",
+  "test_primary_key_for_non_existent_table": "",
+  "test_caches_columns": "",
+  "test_caches_columns_hash": "",
+  "test_clearing": "",
+  "test_dump_and_load": ""
+}

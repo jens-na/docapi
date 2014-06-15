@@ -1,0 +1,10 @@
+{
+  "prefix": "Returns the value of attribute prefix",
+  "suffix": "Returns the value of attribute suffix",
+  "method_missing_target": "Returns the value of attribute method_missing_target",
+  "AttributeMethodMatch": "",
+  "initialize": "",
+  "match": "",
+  "method_name": "",
+  "plain?": ""
+}

@@ -1,0 +1,18 @@
+{
+  "memos": "Returns the value of attribute memos",
+  "initialize": "",
+  "add_accepting": "",
+  "accepting_states": "",
+  "accepting?": "",
+  "add_memo": "",
+  "memo": "",
+  "eclosure": "",
+  "move": "",
+  "as_json": "",
+  "to_svg": "",
+  "visualizer": "",
+  "[]=": "",
+  "states": "",
+  "transitions": "",
+  "states_hash_for": ""
+}

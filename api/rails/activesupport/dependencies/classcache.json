@@ -1,0 +1,10 @@
+{
+  "initialize": "",
+  "empty?": "",
+  "key?": "",
+  "get": "",
+  "[]": "",
+  "safe_get": "",
+  "store": "",
+  "clear!": ""
+}

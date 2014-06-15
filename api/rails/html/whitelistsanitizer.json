@@ -1,0 +1,7 @@
+{
+  "sanitize_css": "Sanitizes a block of css code. Used by #sanitize when it comes across a style attribute",
+  "tokenize": "",
+  "process_node": "",
+  "process_attributes_for": "",
+  "contains_bad_protocols?": ""
+}

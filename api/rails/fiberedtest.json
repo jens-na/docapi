@@ -1,0 +1,20 @@
+{
+  "setup": "",
+  "render_body": "",
+  "buffered_render": "",
+  "test_streaming_works": "",
+  "test_render_file": "",
+  "test_render_file_with_locals": "",
+  "test_render_partial": "",
+  "test_render_inline": "",
+  "test_render_without_layout": "",
+  "test_render_with_layout": "",
+  "test_render_with_layout_which_has_render_inline": "",
+  "test_render_with_layout_which_renders_another_partial": "",
+  "test_render_with_nested_layout": "",
+  "test_render_with_file_in_layout": "",
+  "test_render_with_handler_without_streaming_support": "",
+  "test_render_with_streaming_multiple_yields_provide_and_content_for": "",
+  "test_render_with_streaming_with_fake_yields_and_streaming_buster": "",
+  "test_render_with_nested_streaming_multiple_yields_provide_and_content_for": ""
+}

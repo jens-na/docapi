@@ -1,0 +1,16 @@
+{
+  "make_tracker": "",
+  "test_dependency_of_erb_template_with_number_in_filename": "",
+  "test_finds_dependency_in_correct_directory": "",
+  "test_finds_dependency_in_correct_directory_with_underscore": "",
+  "test_dependency_of_erb_template_with_no_spaces_after_render": "",
+  "test_finds_no_dependency_when_render_begins_the_name_of_an_identifier": "",
+  "test_finds_no_dependency_when_render_ends_the_name_of_another_method": "",
+  "test_finds_dependency_on_multiline_render_calls": "",
+  "test_finds_multiple_unrelated_odd_dependencies": "",
+  "test_finds_dependencies_for_all_kinds_of_identifiers": "",
+  "test_finds_dependencies_on_method_chains": "",
+  "test_finds_dependencies_with_special_characters": "",
+  "test_finds_dependencies_with_quotes_within": "",
+  "test_finds_dependencies_with_extra_spaces": ""
+}

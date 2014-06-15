@@ -1,0 +1,15 @@
+{
+  "object": "Returns the value of attribute object",
+  "name": "Returns the value of attribute name",
+  "values": "Returns the value of attribute values",
+  "column": "Returns the value of attribute column",
+  "initialize": "",
+  "read_value": "",
+  "instantiate_time_object": "",
+  "read_time": "",
+  "read_date": "",
+  "read_other": "",
+  "blank_date_parameter?": "Checks whether some blank date parameter exists. Note that this is different\nthan the validate_required_parameters! method, since it just checks for blank\npositions instead of missing ones, and does not raise in case one blank position\nexists. The caller is responsible to handle the case of this returning true.",
+  "validate_required_parameters!": "If some position is not provided, it errors out a missing parameter exception.",
+  "extract_max_param": ""
+}

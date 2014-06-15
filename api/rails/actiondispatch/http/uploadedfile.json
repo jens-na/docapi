@@ -1,0 +1,20 @@
+{
+  "original_filename": "The basename of the file in the client.",
+  "original_filename=": "The basename of the file in the client.",
+  "content_type": "A string with the MIME type of the file.",
+  "content_type=": "A string with the MIME type of the file.",
+  "tempfile": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
+  "tempfile=": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
+  "to_io": "A +Tempfile+ object with the actual uploaded file. Note that some of\nits interface is available directly.",
+  "headers": "A string with the headers of the multipart request.",
+  "headers=": "A string with the headers of the multipart request.",
+  "initialize": ":nodoc:",
+  "read": "Shortcut for +tempfile.read+.",
+  "open": "Shortcut for +tempfile.open+.",
+  "close": "Shortcut for +tempfile.close+.",
+  "path": "Shortcut for +tempfile.path+.",
+  "rewind": "Shortcut for +tempfile.rewind+.",
+  "size": "Shortcut for +tempfile.size+.",
+  "eof?": "Shortcut for +tempfile.eof?+.",
+  "encode_filename": ""
+}

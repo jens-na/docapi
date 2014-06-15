@@ -1,0 +1,17 @@
+{
+  "resolve": "",
+  "spec": "",
+  "test_url_invalid_adapter": "",
+  "test_url_from_environment": "The abstract adapter is used simply to bypass the bit of code that\nchecks that the adapter file can be required in.",
+  "test_url_sub_key": "",
+  "test_url_sub_key_merges_correctly": "",
+  "test_url_host_no_db": "",
+  "test_url_host_db": "",
+  "test_url_port": "",
+  "test_encoded_password": "",
+  "test_url_with_authority_for_sqlite3": "",
+  "test_url_absolute_path_for_sqlite3": "",
+  "test_url_relative_path_for_sqlite3": "",
+  "test_url_memory_db_for_sqlite3": "",
+  "test_url_sub_key_for_sqlite3": ""
+}

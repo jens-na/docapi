@@ -1,0 +1,17 @@
+{
+  "Reviewable": "",
+  "Routes": "",
+  "app": "",
+  "test_accessing_concern_from_resources": "",
+  "test_accessing_concern_from_resource": "",
+  "test_accessing_concern_from_nested_resource": "",
+  "test_accessing_concern_from_nested_resources": "",
+  "test_accessing_concern_from_resources_with_more_than_one_concern": "",
+  "test_accessing_concern_from_resources_using_only_option": "",
+  "test_accessing_callable_concern_": "",
+  "test_callable_concerns_accept_options": "",
+  "test_accessing_concern_from_a_scope": "",
+  "test_concerns_accept_options": "",
+  "test_with_an_invalid_concern_name": "",
+  "test_concerns_executes_block_in_context_of_current_mapper": ""
+}

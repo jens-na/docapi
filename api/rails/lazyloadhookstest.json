@@ -1,0 +1,13 @@
+{
+  "test_basic_hook": "",
+  "test_basic_hook_with_two_registrations": "",
+  "test_hook_registered_after_run": "",
+  "test_hook_registered_after_run_with_two_registrations": "",
+  "test_hook_registered_interleaved_run_with_two_registrations": "",
+  "test_hook_receives_a_context": "",
+  "test_hook_receives_a_context_afterward": "",
+  "test_hook_with_yield_true": "",
+  "test_hook_with_yield_true_afterward": "",
+  "incr_amt": "",
+  "FakeContext": ""
+}

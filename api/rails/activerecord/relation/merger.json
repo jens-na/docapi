@@ -1,0 +1,14 @@
+{
+  "relation": "Returns the value of attribute relation",
+  "values": "Returns the value of attribute values",
+  "other": "Returns the value of attribute other",
+  "initialize": "",
+  "NORMAL_VALUES": "",
+  "normal_values": "",
+  "merge": "",
+  "merge_joins": "",
+  "merge_multi_values": "",
+  "merge_single_values": "",
+  "filter_binds": "",
+  "partition_overwrites": "Remove equalities from the existing relation with a LHS which is\npresent in the relation being merged in.\nreturns [things_to_remove, things_to_keep]"
+}

@@ -1,0 +1,15 @@
+{
+  "initialize": "",
+  "any_waiting?": "Test if any threads are currently waiting on the queue.",
+  "num_waiting": "Returns the number of threads currently waiting on this\nqueue.",
+  "add": "Add +element+ to the queue.  Never blocks.",
+  "delete": "If +element+ is in the queue, remove and return it, or nil.",
+  "clear": "Remove all elements from the queue.",
+  "poll": "Remove the head of the queue.\n\nIf +timeout+ is not given, remove and return the head the\nqueue if the number of available elements is strictly\ngreater than the number of threads currently waiting (that\nis, don't jump ahead in line).  Otherwise, return nil.\n\nIf +timeout+ is given, block if it there is no element\navailable, waiting up to +timeout+ seconds for an element to\nbecome available.\n\nRaises:\n- ConnectionTimeoutError if +timeout+ is given and no element\nbecomes available after +timeout+ seconds,",
+  "synchronize": "",
+  "any?": "Test if the queue currently contains any elements.",
+  "can_remove_no_wait?": "A thread can remove an element from the queue without\nwaiting if an only if the number of currently available\nconnections is strictly greater than the number of waiting\nthreads.",
+  "remove": "Removes and returns the head of the queue if possible, or nil.",
+  "no_wait_poll": "Remove and return the head the queue if the number of\navailable elements is strictly greater than the number of\nthreads currently waiting.  Otherwise, return nil.",
+  "wait_poll": "Waits on the queue up to +timeout+ seconds, then removes and\nreturns the head of the queue."
+}

@@ -1,0 +1,11 @@
+{
+  "GenericEnumerable": "",
+  "test_sums": "",
+  "test_nil_sums": "",
+  "test_empty_sums": "",
+  "test_range_sums": "",
+  "test_index_by": "",
+  "test_many": "",
+  "test_many_iterates_only_on_what_is_needed": "",
+  "test_exclude?": ""
+}

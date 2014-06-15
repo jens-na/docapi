@@ -1,0 +1,9 @@
+{
+  "id": "Returns the value of attribute id",
+  "id=": "Sets the attribute id",
+  "workshop_id": "Returns the value of attribute workshop_id",
+  "workshop_id=": "Sets the attribute workshop_id",
+  "initialize": "",
+  "persisted?": "",
+  "to_s": ""
+}

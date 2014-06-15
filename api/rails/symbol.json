@@ -1,0 +1,4 @@
+{
+  "as_json": ":nodoc:",
+  "duplicable?": "Symbols are not duplicable:\n\n  :my_symbol.duplicable? # => false\n  :my_symbol.dup         # => TypeError: can't dup Symbol"
+}

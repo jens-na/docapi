@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "teardown": "",
+  "load_environment": "",
+  "irb_context": "",
+  "test_app_method_should_return_integration_session": "",
+  "test_new_session_should_return_integration_session": "",
+  "test_reload_should_fire_preparation_and_cleanup_callbacks": "",
+  "test_reload_should_reload_constants": "",
+  "test_access_to_helpers": ""
+}

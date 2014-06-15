@@ -1,0 +1,10 @@
+{
+  "without_modules": "Shortcut helper that returns all the modules included in\nActionController::Base except the ones passed as arguments:\n\n  class MetalController\n    ActionController::Base.without_modules(:ParamsWrapper, :Streaming).each do |left|\n      include left\n    end\n  end\n\nThis gives better control over what you want to exclude and makes it\neasier to create a bare controller class, instead of listing the modules\nrequired manually.",
+  "MODULES": "",
+  "PROTECTED_IVARS": "Define some internal variables that should not be propagated to the view.",
+  "_protected_ivars": ":nodoc:",
+  "protected_instance_variables": "",
+  "before_actions": "",
+  "assigns": "",
+  "test_routes": ""
+}

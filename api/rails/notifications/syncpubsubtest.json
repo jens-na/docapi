@@ -1,0 +1,10 @@
+{
+  "test_events_are_published_to_a_listener": "",
+  "test_publishing_multiple_times_works": "",
+  "test_publishing_after_a_new_subscribe_works": "",
+  "test_log_subscriber_with_string": "",
+  "test_log_subscriber_with_pattern": "",
+  "test_multiple_log_subscribers": "",
+  "test_publish_with_subscriber": "",
+  "event": ""
+}

@@ -1,0 +1,12 @@
+{
+  "initialize": "",
+  "subscribe": "",
+  "unsubscribe": "",
+  "start": "",
+  "finish": "",
+  "publish": "",
+  "listeners_for": "",
+  "listening?": "",
+  "wait": "This is a sync queue, so there is no waiting.",
+  "Subscribers": ":nodoc:"
+}

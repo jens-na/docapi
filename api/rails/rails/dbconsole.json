@@ -1,0 +1,11 @@
+{
+  "arguments": "Returns the value of attribute arguments",
+  "start": "",
+  "initialize": "",
+  "config": "",
+  "environment": "",
+  "configurations": "",
+  "parse_arguments": "",
+  "available_environments": "",
+  "find_cmd_and_exec": ""
+}

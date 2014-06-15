@@ -1,0 +1,22 @@
+{
+  "CACHE": "",
+  "get": "",
+  "url": "",
+  "path": "",
+  "build": "",
+  "singular": "",
+  "plural": "",
+  "polymorphic_method": "",
+  "suffix": "Returns the value of attribute suffix",
+  "prefix": "Returns the value of attribute prefix",
+  "initialize": "",
+  "handle_string": "",
+  "handle_string_call": "",
+  "handle_class": "",
+  "handle_class_call": "",
+  "handle_model": "",
+  "handle_model_call": "",
+  "handle_list": "",
+  "get_method_for_class": "",
+  "get_method_for_string": ""
+}

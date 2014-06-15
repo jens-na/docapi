@@ -1,0 +1,11 @@
+{
+  "JoinTableResolver": "",
+  "lhs_model": "Returns the value of attribute lhs_model",
+  "association_name": "Returns the value of attribute association_name",
+  "options": "Returns the value of attribute options",
+  "initialize": "",
+  "through_model": "",
+  "middle_reflection": "",
+  "middle_options": "",
+  "belongs_to_options": ""
+}

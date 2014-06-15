@@ -1,0 +1,8 @@
+{
+  "setup": "",
+  "test_application_layout_is_default_when_no_controller_match": "",
+  "test_controller_name_layout_name_match": "",
+  "test_third_party_template_library_auto_discovers_layout": "",
+  "test_namespaced_controllers_auto_detect_layouts1": "",
+  "test_namespaced_controllers_auto_detect_layouts2": ""
+}

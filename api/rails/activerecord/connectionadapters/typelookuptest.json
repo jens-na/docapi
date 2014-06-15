@@ -1,0 +1,14 @@
+{
+  "test_boolean_types": "",
+  "test_string_types": "",
+  "test_binary_types": "",
+  "test_text_types": "",
+  "test_date_types": "",
+  "test_time_types": "",
+  "test_datetime_types": "",
+  "test_decimal_types": "",
+  "test_float_types": "",
+  "test_integer_types": "",
+  "test_decimal_without_scale": "",
+  "assert_lookup_type": ""
+}

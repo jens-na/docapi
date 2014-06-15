@@ -1,0 +1,3 @@
+{
+  "test_foo": "This seemingly useless assertion catches a bug that caused the fixtures\nsetup code call nil[]"
+}

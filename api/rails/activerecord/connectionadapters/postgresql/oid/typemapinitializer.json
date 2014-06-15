@@ -1,0 +1,13 @@
+{
+  "initialize": ":nodoc:",
+  "run": "",
+  "register_mapped_type": "",
+  "register_enum_type": "",
+  "register_array_type": "",
+  "register_range_type": "",
+  "register_domain_type": "",
+  "register_composite_type": "",
+  "register": "",
+  "alias_type": "",
+  "assert_valid_registration": ""
+}

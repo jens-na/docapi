@@ -1,0 +1,3 @@
+{
+  "pp": "Pretty prints the result of a EXPLAIN in a way that resembles the output of the\nPostgreSQL shell:\n\n                                    QUERY PLAN\n  ------------------------------------------------------------------------------\n   Nested Loop Left Join  (cost=0.00..37.24 rows=8 width=0)\n     Join Filter: (posts.user_id = users.id)\n     ->  Index Scan using users_pkey on users  (cost=0.00..8.27 rows=1 width=4)\n           Index Cond: (id = 1)\n     ->  Seq Scan on posts  (cost=0.00..28.88 rows=8 width=4)\n           Filter: (posts.user_id = 1)\n  (6 rows)"
+}

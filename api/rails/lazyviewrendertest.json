@@ -1,0 +1,9 @@
+{
+  "setup": "Test the same thing as above, but make sure the view path\nis not eager loaded",
+  "teardown": "",
+  "test_render_utf8_template_with_magic_comment": "",
+  "test_render_utf8_template_with_default_external_encoding": "",
+  "test_render_utf8_template_with_incompatible_external_encoding": "",
+  "test_render_utf8_template_with_partial_with_incompatible_encoding": "",
+  "with_external_encoding": ""
+}

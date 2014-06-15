@@ -1,0 +1,6 @@
+{
+  "test_persisted": "",
+  "test_stays_frozen": "",
+  "test_shallow": "",
+  "test_freezing_a_cloned_model_does_not_freeze_clone": ""
+}

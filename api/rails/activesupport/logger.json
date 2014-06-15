@@ -1,0 +1,5 @@
+{
+  "broadcast": "Broadcasts logs to multiple loggers.",
+  "initialize": "",
+  "SimpleFormatter": "Simple formatter which only displays the message."
+}

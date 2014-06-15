@@ -1,0 +1,5 @@
+{
+  "exception": "Returns the value of attribute exception",
+  "attribute": "Returns the value of attribute attribute",
+  "initialize": ""
+}

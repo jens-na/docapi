@@ -1,0 +1,6 @@
+{
+  "pool": "Returns the value of attribute pool",
+  "frequency": "Returns the value of attribute frequency",
+  "initialize": "",
+  "run": ""
+}

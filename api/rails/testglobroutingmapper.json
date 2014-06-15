@@ -1,0 +1,7 @@
+{
+  "Routes": "",
+  "app": "include Routes.url_helpers",
+  "test_glob_constraint": "",
+  "test_glob_constraint_skip_route": "",
+  "test_glob_constraint_skip_all": ""
+}

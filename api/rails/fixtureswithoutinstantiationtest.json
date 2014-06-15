@@ -1,0 +1,8 @@
+{
+  "test_without_complete_instantiation": "",
+  "test_fixtures_from_root_yml_without_instantiation": "",
+  "test_visibility_of_accessor_method": "",
+  "test_accessor_methods": "",
+  "test_accessor_methods_with_multiple_args": "",
+  "test_reloading_fixtures_through_accessor_methods": ""
+}

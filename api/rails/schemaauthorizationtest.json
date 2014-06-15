@@ -1,0 +1,14 @@
+{
+  "TABLE_NAME": "",
+  "COLUMNS": "",
+  "USERS": "",
+  "setup": "",
+  "test_schema_invisible": "",
+  "test_session_auth=": "",
+  "test_setting_auth_clears_stmt_cache": "",
+  "test_auth_with_bind": "",
+  "test_schema_uniqueness": "",
+  "test_sequence_schema_caching": "",
+  "test_tables_in_current_schemas": "",
+  "set_session_auth": ""
+}

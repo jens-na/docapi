@@ -1,0 +1,13 @@
+{
+  "test_default_type": "",
+  "test_registering_types": "",
+  "test_overriding_registered_types": "",
+  "test_fuzzy_lookup": "",
+  "test_aliasing_types": "",
+  "test_changing_type_changes_aliases": "",
+  "test_aliases_keep_metadata": "",
+  "test_register_proc": "",
+  "test_additional_lookup_args": "",
+  "test_requires_value_or_block": "",
+  "test_lookup_non_strings": ""
+}

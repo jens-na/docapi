@@ -1,0 +1,11 @@
+{
+  "initialize": ":nodoc",
+  "prepare!": "",
+  "default_rc_file": "",
+  "handle_version_request!": "",
+  "handle_invalid_command!": "",
+  "handle_rails_rc!": "",
+  "railsrc": "",
+  "read_rc_file": "",
+  "insert_railsrc_into_argv!": ""
+}

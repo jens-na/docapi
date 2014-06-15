@@ -1,0 +1,22 @@
+{
+  "test_find_single_value_object": "",
+  "test_find_multiple_value_object": "",
+  "test_change_single_value_object": "",
+  "test_immutable_value_objects": "",
+  "test_inferred_mapping": "",
+  "test_reloaded_instance_refreshes_aggregations": "",
+  "test_gps_equality": "",
+  "test_gps_inequality": "",
+  "test_allow_nil_gps_is_nil": "",
+  "test_allow_nil_gps_set_to_nil": "",
+  "test_allow_nil_set_address_attributes_to_nil": "",
+  "test_allow_nil_address_set_to_nil": "",
+  "test_nil_raises_error_when_allow_nil_is_false": "",
+  "test_allow_nil_address_loaded_when_only_some_attributes_are_nil": "",
+  "test_nil_assignment_results_in_nil": "",
+  "test_nil_return_from_converter_is_respected_when_allow_nil_is_true": "",
+  "test_nil_return_from_converter_results_in_failure_when_allow_nil_is_false": "",
+  "test_do_not_run_the_converter_when_nil_was_set": "",
+  "test_custom_constructor": "",
+  "test_custom_converter": ""
+}

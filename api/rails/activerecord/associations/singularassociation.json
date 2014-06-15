@@ -1,0 +1,13 @@
+{
+  "reader": "Implements the reader method, e.g. foo.bar for Foo.has_one :bar",
+  "writer": "Implements the writer method, e.g. foo.bar= for Foo.belongs_to :bar",
+  "create": "",
+  "create!": "",
+  "build": "",
+  "create_scope": "",
+  "get_records": "",
+  "find_target": "",
+  "replace": "",
+  "set_new_record": "",
+  "_create_record": ""
+}

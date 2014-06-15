@@ -1,0 +1,19 @@
+{
+  "test_construct_finder_sql_applies_aliases_tables_on_association_conditions": "",
+  "test_construct_finder_sql_does_not_table_name_collide_on_duplicate_associations": "",
+  "test_construct_finder_sql_ignores_empty_joins_hash": "",
+  "test_construct_finder_sql_ignores_empty_joins_array": "",
+  "test_join_conditions_added_to_join_clause": "",
+  "test_join_association_conditions_support_string_and_arel_expressions": "",
+  "test_join_conditions_allow_nil_associations": "",
+  "test_find_with_implicit_inner_joins_without_select_does_not_imply_readonly": "",
+  "test_find_with_implicit_inner_joins_honors_readonly_with_select": "",
+  "test_find_with_implicit_inner_joins_honors_readonly_false": "",
+  "test_find_with_implicit_inner_joins_does_not_set_associations": "",
+  "test_count_honors_implicit_inner_joins": "",
+  "test_calculate_honors_implicit_inner_joins": "",
+  "test_calculate_honors_implicit_inner_joins_and_distinct_and_conditions": "",
+  "test_find_with_sti_join": "",
+  "test_find_with_conditions_on_reflection": "",
+  "test_find_with_conditions_on_through_reflection": ""
+}

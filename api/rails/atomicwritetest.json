@@ -1,0 +1,8 @@
+{
+  "test_atomic_write_without_errors": "",
+  "test_atomic_write_doesnt_write_when_block_raises": "",
+  "test_atomic_write_preserves_file_permissions": "",
+  "test_atomic_write_preserves_default_file_permissions": "",
+  "file_name": "",
+  "file_mode": ""
+}

@@ -1,0 +1,4 @@
+{
+  "color=": "Sets the attribute color",
+  "color": "Returns the value of attribute color"
+}

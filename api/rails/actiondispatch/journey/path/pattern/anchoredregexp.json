@@ -1,0 +1,11 @@
+{
+  "initialize": "",
+  "accept": "",
+  "visit_CAT": "",
+  "visit_SYMBOL": "",
+  "visit_GROUP": "",
+  "visit_LITERAL": "",
+  "visit_DOT": "",
+  "visit_SLASH": "",
+  "visit_STAR": ""
+}

@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_simple_capture": "",
+  "test_content_for": "",
+  "test_should_concatentate_content_for": "",
+  "test_should_set_content_for_with_parameter": "",
+  "test_non_erb_block_content_for": "",
+  "test_proper_block_detection": "",
+  "expected_content_for_output": ""
+}

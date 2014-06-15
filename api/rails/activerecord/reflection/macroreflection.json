@@ -1,0 +1,16 @@
+{
+  "name": "Returns the name of the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns <tt>:balance</tt>\n<tt>has_many :clients</tt> returns <tt>:clients</tt>",
+  "macro": "Returns the macro type.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns <tt>:composed_of</tt>\n<tt>has_many :clients</tt> returns <tt>:has_many</tt>",
+  "scope": "Returns the value of attribute scope",
+  "options": "Returns the hash of options used for the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns <tt>{ class_name: \"Money\" }</tt>\n<tt>has_many :clients</tt> returns <tt>{}</tt>",
+  "active_record": "Returns the value of attribute active_record",
+  "plural_name": ":nodoc:",
+  "initialize": "",
+  "autosave=": "",
+  "klass": "Returns the class for the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns the Money class\n<tt>has_many :clients</tt> returns the Client class",
+  "class_name": "Returns the class name for the macro.\n\n<tt>composed_of :balance, class_name: 'Money'</tt> returns <tt>'Money'</tt>\n<tt>has_many :clients</tt> returns <tt>'Client'</tt>",
+  "==": "Returns +true+ if +self+ and +other_aggregation+ have the same +name+ attribute, +active_record+ attribute,\nand +other_aggregation+ has an options hash assigned to it.",
+  "JoinKeys": ":nodoc:",
+  "join_keys": "",
+  "derive_class_name": ""
+}

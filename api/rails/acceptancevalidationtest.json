@@ -1,0 +1,8 @@
+{
+  "teardown": "",
+  "test_terms_of_service_agreement_no_acceptance": "",
+  "test_terms_of_service_agreement": "",
+  "test_eula": "",
+  "test_terms_of_service_agreement_with_accept_value": "",
+  "test_validates_acceptance_of_for_ruby_class": ""
+}

@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "test_should_serialize_string": "",
+  "test_should_serialize_integer": "",
+  "test_should_serialize_binary": "",
+  "test_should_serialize_datetime": "",
+  "test_should_serialize_boolean": "",
+  "test_should_serialize_yaml": ""
+}

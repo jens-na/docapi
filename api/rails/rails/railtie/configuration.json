@@ -1,0 +1,16 @@
+{
+  "initialize": "",
+  "eager_load_namespaces": "All namespaces that are eager loaded",
+  "watchable_files": "Add files that should be watched for change.",
+  "watchable_dirs": "Add directories that should be watched for change.\nThe key of the hashes should be directories and the values should\nbe an array of extensions to match in each directory.",
+  "app_middleware": "This allows you to modify the application's middlewares from Engines.\n\nAll operations you run on the app_middleware will be replayed on the\napplication once it is defined and the default_middlewares are\ncreated",
+  "app_generators": "This allows you to modify application's generators from Railties.\n\nValues set on app_generators will become defaults for application, unless\napplication overwrites them.",
+  "before_configuration": "First configurable block to run. Called before any initializers are run.",
+  "before_eager_load": "Third configurable block to run. Does not run if +config.cache_classes+\nset to false.",
+  "before_initialize": "Second configurable block to run. Called before frameworks initialize.",
+  "after_initialize": "Last configurable block to run. Called after frameworks initialize.",
+  "to_prepare_blocks": "Array of callbacks defined by #to_prepare.",
+  "to_prepare": "Defines generic callbacks to run before #after_initialize. Useful for\nRails::Railtie subclasses.",
+  "respond_to?": "",
+  "method_missing": ""
+}

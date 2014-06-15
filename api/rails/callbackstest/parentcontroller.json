@@ -1,0 +1,8 @@
+{
+  "action_name": "Returns the value of attribute action_name",
+  "logger": "Returns the value of attribute logger",
+  "initialize": "",
+  "log": "",
+  "log2": "",
+  "dispatch": ""
+}

@@ -1,0 +1,11 @@
+{
+  "build_class": "",
+  "test_add_class": "",
+  "test_add_lambda": "",
+  "test_add_symbol": "",
+  "test_add_eval": "",
+  "test_skip_class": "removes one at a time",
+  "test_skip_lambda": "removes nothing",
+  "test_skip_symbol": "removes all",
+  "test_skip_eval": "removes nothing"
+}

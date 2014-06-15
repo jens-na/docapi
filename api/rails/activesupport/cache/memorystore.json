@@ -1,0 +1,17 @@
+{
+  "initialize": "",
+  "clear": "",
+  "cleanup": "Preemptively iterates through all stored keys and removes the ones which have expired.",
+  "prune": "To ensure entries fit within the specified memory prune the cache by removing the least\nrecently accessed entries.",
+  "pruning?": "Returns true if the cache is currently being pruned.",
+  "increment": "Increment an integer value in the cache.",
+  "decrement": "Decrement an integer value in the cache.",
+  "delete_matched": "",
+  "inspect": ":nodoc:",
+  "synchronize": "Synchronize calls to the cache. This should be called wherever the underlying cache implementation\nis not thread safe.",
+  "PER_ENTRY_OVERHEAD": "",
+  "cached_size": "",
+  "read_entry": ":nodoc:",
+  "write_entry": ":nodoc:",
+  "delete_entry": ":nodoc:"
+}

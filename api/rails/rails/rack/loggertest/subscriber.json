@@ -1,0 +1,9 @@
+{
+  "starts=": "Sets the attribute starts",
+  "starts": "Returns the value of attribute starts",
+  "finishes=": "Sets the attribute finishes",
+  "finishes": "Returns the value of attribute finishes",
+  "initialize": "",
+  "start": "",
+  "finish": ""
+}

@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_route_generation_escapes_unsafe_path_characters": "",
+  "test_route_recognition_unescapes_path_components": "",
+  "test_route_generation_allows_passing_non_string_values_to_generated_helper": ""
+}

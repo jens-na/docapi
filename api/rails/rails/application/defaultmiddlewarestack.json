@@ -1,0 +1,11 @@
+{
+  "config": "Returns the value of attribute config",
+  "paths": "Returns the value of attribute paths",
+  "app": "Returns the value of attribute app",
+  "initialize": "",
+  "build_stack": "",
+  "reload_dependencies?": "",
+  "allow_concurrency?": "",
+  "load_rack_cache": "",
+  "show_exceptions_app": ""
+}

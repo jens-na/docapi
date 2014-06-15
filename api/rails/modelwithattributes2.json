@@ -1,0 +1,8 @@
+{
+  "attributes": "Returns the value of attribute attributes",
+  "attributes=": "Sets the attribute attributes",
+  "attribute": "",
+  "attribute_test": "",
+  "private_method": "",
+  "protected_method": ""
+}

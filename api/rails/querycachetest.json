@@ -1,0 +1,22 @@
+{
+  "test_exceptional_middleware_clears_and_disables_cache_on_error": "",
+  "test_exceptional_middleware_leaves_enabled_cache_alone": "",
+  "test_exceptional_middleware_assigns_original_connection_id_on_error": "",
+  "test_middleware_delegates": "",
+  "test_middleware_caches": "",
+  "test_cache_enabled_during_call": "",
+  "test_cache_on_during_body_write": "",
+  "test_cache_off_after_close": "",
+  "test_cache_clear_after_close": "",
+  "test_cache_passing_a_relation": "",
+  "test_find_queries": "",
+  "test_find_queries_with_cache": "",
+  "test_find_queries_with_cache_multi_record": "",
+  "test_find_queries_with_multi_cache_blocks": "",
+  "test_count_queries_with_cache": "",
+  "test_query_cache_dups_results_correctly": "",
+  "test_cache_is_flat": "",
+  "test_cache_does_not_wrap_string_results_in_arrays": "",
+  "test_cache_is_ignored_for_locked_relations": "",
+  "test_cache_is_available_when_connection_is_connected": ""
+}

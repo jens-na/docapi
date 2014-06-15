@@ -1,0 +1,7 @@
+{
+  "from_response": "",
+  "success?": "Was the response successful?",
+  "missing?": "Was the URL not found?",
+  "redirect?": "Were we redirected?",
+  "error?": "Was there a server-side error?"
+}

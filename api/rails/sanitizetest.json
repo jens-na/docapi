@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_sanitize_sql_hash_handles_associations": "",
+  "test_sanitize_sql_array_handles_string_interpolation": "",
+  "test_sanitize_sql_array_handles_bind_variables": "",
+  "test_sanitize_sql_array_handles_relations": "",
+  "test_sanitize_sql_array_handles_empty_statement": "",
+  "test_sanitize_sql_like": "",
+  "test_sanitize_sql_like_with_custom_escape_character": "",
+  "test_sanitize_sql_like_example_use_case": ""
+}

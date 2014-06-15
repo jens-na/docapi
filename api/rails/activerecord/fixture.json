@@ -1,0 +1,12 @@
+{
+  "FixtureError": ":nodoc:",
+  "FormatError": ":nodoc:",
+  "model_class": "Returns the value of attribute model_class",
+  "fixture": "Returns the value of attribute fixture",
+  "initialize": "",
+  "class_name": "",
+  "each": "",
+  "[]": "",
+  "to_hash": "Returns the value of attribute fixture",
+  "find": ""
+}

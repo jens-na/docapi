@@ -1,0 +1,3 @@
+{
+  "blank?": "declared here to make sure that dynamic finder with a bang can find a model that responds to `blank?`"
+}

@@ -1,0 +1,6 @@
+{
+  "test_localized_template_is_used": "",
+  "test_default_locale_template_is_used_when_locale_is_missing": "",
+  "test_use_fallback_locales": "",
+  "test_localized_template_has_correct_header_with_no_format_in_template_name": ""
+}

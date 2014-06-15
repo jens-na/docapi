@@ -1,0 +1,8 @@
+{
+  "setup": "",
+  "teardown": "",
+  "root": "",
+  "assert_path": "",
+  "assert_in_load_path": "",
+  "assert_not_in_load_path": ""
+}

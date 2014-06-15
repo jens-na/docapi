@@ -1,0 +1,18 @@
+{
+  "prefixes": ":nodoc:",
+  "prefixes=": ":nodoc:",
+  "rendered_format": ":nodoc:",
+  "rendered_format=": ":nodoc:",
+  "@@fallbacks": "",
+  "register_detail": "",
+  "Accessors": "Holds accessors for the registered details.",
+  "DetailsKey": ":nodoc:",
+  "DetailsCache": "Add caching behavior on top of Details.",
+  "ViewPaths": "Helpers related to template lookup using the lookup context information.",
+  "initialize": "",
+  "formats=": "Override formats= to expand [\"*/*\"] values and automatically\nadd :html as fallback to :js.",
+  "skip_default_locale!": "Do not use the default locale on template lookup.",
+  "locale": "Override locale to return a symbol instead of array.",
+  "locale=": "Overload locale= to also set the I18n.locale. If the current I18n.config object responds\nto original_config, it means that it has a copy of the original I18n configuration and it's\nacting as proxy, which we need to skip.",
+  "with_layout_format": "Uses the first format in the formats array for layout lookup."
+}

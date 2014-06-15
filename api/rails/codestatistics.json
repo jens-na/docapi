@@ -1,0 +1,14 @@
+{
+  "TEST_TYPES": "",
+  "initialize": "",
+  "to_s": "",
+  "calculate_statistics": "",
+  "calculate_directory_statistics": "",
+  "calculate_total": "",
+  "calculate_code": "",
+  "calculate_tests": "",
+  "print_header": "",
+  "print_splitter": "",
+  "print_line": "",
+  "print_code_test_stats": ""
+}

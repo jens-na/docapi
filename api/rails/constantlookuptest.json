@@ -1,0 +1,9 @@
+{
+  "find_foo": "",
+  "find_module": "",
+  "test_find_bar_from_foo": "",
+  "test_find_module": "",
+  "test_returns_nil_when_cant_find_foo": "",
+  "test_returns_nil_when_cant_find_module": "",
+  "test_does_not_swallow_exception_on_no_method_error": ""
+}

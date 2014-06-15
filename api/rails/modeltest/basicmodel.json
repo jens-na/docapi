@@ -1,0 +1,4 @@
+{
+  "attr": "Returns the value of attribute attr",
+  "attr=": "Sets the attribute attr"
+}

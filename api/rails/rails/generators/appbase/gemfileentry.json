@@ -1,0 +1,16 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "version=": "Sets the attribute version",
+  "version": "",
+  "comment=": "Sets the attribute comment",
+  "comment": "Returns the value of attribute comment",
+  "options=": "Sets the attribute options",
+  "options": "Returns the value of attribute options",
+  "commented_out=": "Sets the attribute commented_out",
+  "commented_out": "Returns the value of attribute commented_out",
+  "initialize": "",
+  "github": "",
+  "path": "",
+  "padding": ""
+}

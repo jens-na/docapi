@@ -1,0 +1,19 @@
+{
+  "routes": "Returns the value of attribute routes",
+  "helpers": "Returns the value of attribute helpers",
+  "module": "Returns the value of attribute module",
+  "initialize": "",
+  "helper_names": "",
+  "clear!": "",
+  "add": "",
+  "get": "",
+  "[]=": "",
+  "[]": "",
+  "clear": "",
+  "each": "",
+  "names": "",
+  "length": "",
+  "UrlHelper": ":nodoc:",
+  "define_url_helper": "Create a url helper allowing ordered parameters to be associated\nwith corresponding dynamic segments, so you can do:\n\n  foo_url(bar, baz, bang)\n\nInstead of:\n\n  foo_url(bar: bar, baz: baz, bang: bang)\n\nAlso allow options hash, so you can do:\n\n  foo_url(bar, baz, bang, sort_by: 'baz')",
+  "define_named_route_methods": ""
+}

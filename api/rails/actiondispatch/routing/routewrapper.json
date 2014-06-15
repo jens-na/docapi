@@ -1,0 +1,15 @@
+{
+  "endpoint": "",
+  "constraints": "",
+  "rack_app": "",
+  "verb": "",
+  "path": "",
+  "name": "",
+  "regexp": "",
+  "json_regexp": "",
+  "reqs": "",
+  "controller": "",
+  "action": "",
+  "internal?": "",
+  "engine?": ""
+}

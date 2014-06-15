@@ -1,0 +1,8 @@
+{
+  "id": "Returns the value of attribute id",
+  "initialize": "",
+  "instrument": "Instrument the given block by measuring the time taken to execute it\nand publish it. Notice that events get sent even if an error occurs\nin the passed-in block.",
+  "start": "Send a start notification with +name+ and +payload+.",
+  "finish": "Send a finish notification with +name+ and +payload+.",
+  "unique_id": ""
+}

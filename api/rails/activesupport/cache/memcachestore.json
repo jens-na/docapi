@@ -1,0 +1,16 @@
+{
+  "ESCAPE_KEY_CHARS": "",
+  "build_mem_cache": "",
+  "initialize": "Creates a new MemCacheStore object, with the given memcached server\naddresses. Each address is either a host name, or a host-with-port string\nin the form of \"host_name:port\". For example:\n\n  ActiveSupport::Cache::MemCacheStore.new(\"localhost\", \"server-downstairs.localnetwork:8229\")\n\nIf no addresses are specified, then MemCacheStore will connect to\nlocalhost port 11211 (the default memcached port).",
+  "read_multi": "Reads multiple values from the cache using a single call to the\nservers for all keys. Options can be passed in the last argument.",
+  "increment": "Increment a cached value. This method uses the memcached incr atomic\noperator and can only be used on values written with the :raw option.\nCalling it on a value not stored with :raw will initialize that value\nto zero.",
+  "decrement": "Decrement a cached value. This method uses the memcached decr atomic\noperator and can only be used on values written with the :raw option.\nCalling it on a value not stored with :raw will initialize that value\nto zero.",
+  "clear": "Clear the entire cache on all memcached servers. This method should\nbe used with care when shared cache is being used.",
+  "stats": "Get the statistics from the memcached servers.",
+  "read_entry": "Read an entry from the cache.",
+  "write_entry": "Write an entry to the cache.",
+  "delete_entry": "Delete an entry from the cache.",
+  "escape_key": "Memcache keys are binaries. So we need to force their encoding to binary\nbefore applying the regular expression to ensure we are escaping all\ncharacters properly.",
+  "deserialize_entry": "",
+  "LocalCacheWithRaw": "Provide support for raw values in the local cache strategy."
+}

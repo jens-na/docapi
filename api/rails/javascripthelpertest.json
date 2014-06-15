@@ -1,0 +1,15 @@
+{
+  "_evaluate_assigns_and_ivars": "",
+  "formats": "Returns the value of attribute formats",
+  "formats=": "Sets the attribute formats",
+  "output_buffer": "Returns the value of attribute output_buffer",
+  "output_buffer=": "Sets the attribute output_buffer",
+  "update_details": "",
+  "teardown": "",
+  "test_escape_javascript": "",
+  "test_escape_javascript_with_safebuffer": "",
+  "test_javascript_tag": "",
+  "test_javascript_include_tag": "Setting the :extname option will control what extension (if any) is appended to the url for assets",
+  "test_javascript_tag_with_options": "",
+  "test_javascript_cdata_section": ""
+}

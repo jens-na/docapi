@@ -1,0 +1,4 @@
+{
+  "initialize": "",
+  "generate_key": "Returns a derived key suitable for use.  The default key_size is chosen\nto be compatible with the default settings of ActiveSupport::MessageVerifier.\ni.e. OpenSSL::Digest::SHA1#block_length"
+}

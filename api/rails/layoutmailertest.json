@@ -1,0 +1,9 @@
+{
+  "test_should_pickup_default_layout": "",
+  "test_should_pickup_multipart_layout": "",
+  "test_should_pickup_multipartmixed_layout": "",
+  "test_should_pickup_layout_given_to_render": "",
+  "test_should_respect_layout_false": "",
+  "test_explicit_class_layout": "",
+  "test_explicit_layout_exceptions": ""
+}

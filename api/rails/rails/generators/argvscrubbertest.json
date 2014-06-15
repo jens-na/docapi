@@ -1,0 +1,12 @@
+{
+  "test_version": "Future people who read this... These tests are just to surround the\ncurrent behavior of the ARGVScrubber, they do not mean that the class\n*must* act this way, I just want to prevent regressions.",
+  "test_default_help": "",
+  "test_prepare_returns_args": "",
+  "test_no_mutations": "",
+  "test_new_command_no_rc": "",
+  "test_new_homedir_rc": "",
+  "test_rc_whitespace_separated": "",
+  "test_new_rc_option": "",
+  "test_new_rc_option_and_custom_options": "",
+  "test_no_rc": ""
+}

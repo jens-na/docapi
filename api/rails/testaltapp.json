@@ -1,0 +1,10 @@
+{
+  "AltRequest": "",
+  "XHeader": "",
+  "AltApp": "",
+  "AltRoutes": "",
+  "app": "",
+  "test_alt_request_without_header": "",
+  "test_alt_request_with_matched_header": "",
+  "test_alt_request_with_unmatched_header": ""
+}

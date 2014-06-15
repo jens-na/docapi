@@ -1,0 +1,10 @@
+{
+  "test_has_one_and_belongs_to_should_find_inverse_automatically_on_multiple_word_name": "",
+  "test_has_one_and_belongs_to_should_find_inverse_automatically": "",
+  "test_has_many_and_belongs_to_should_find_inverse_automatically": "",
+  "test_has_one_and_belongs_to_automatic_inverse_shares_objects": "",
+  "test_has_many_and_belongs_to_automatic_inverse_shares_objects_on_rating": "",
+  "test_has_many_and_belongs_to_automatic_inverse_shares_objects_on_comment": "",
+  "test_polymorphic_and_has_many_through_relationships_should_not_have_inverses": "",
+  "test_polymorphic_relationships_should_still_not_have_inverses_when_non_polymorphic_relationship_has_the_same_name": ""
+}

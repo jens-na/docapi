@@ -1,0 +1,19 @@
+{
+  "name": "Returns the value of attribute name",
+  "config": "Returns the value of attribute config",
+  "initialize": "",
+  "each": "",
+  "index": "",
+  "empty?": "",
+  "insert": "",
+  "delete": "",
+  "clear": "",
+  "initialize_copy": "",
+  "compile": "",
+  "append": "",
+  "prepend": "",
+  "chain": "",
+  "append_one": "",
+  "prepend_one": "",
+  "remove_duplicates": ""
+}

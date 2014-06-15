@@ -1,0 +1,5 @@
+{
+  "cancel_save_from_callback": "Returns the value of attribute cancel_save_from_callback",
+  "cancel_save_from_callback=": "Sets the attribute cancel_save_from_callback",
+  "cancel_save_callback_method": ""
+}

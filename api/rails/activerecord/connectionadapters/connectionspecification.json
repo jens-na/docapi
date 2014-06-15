@@ -1,0 +1,9 @@
+{
+  "ResolverTest": "",
+  "config": "Returns the value of attribute config",
+  "adapter_method": "Returns the value of attribute adapter_method",
+  "initialize": "",
+  "initialize_dup": "",
+  "ConnectionUrlResolver": "Expands a connection string into a hash.",
+  "Resolver": "Builds a ConnectionSpecification from user input."
+}

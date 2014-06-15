@@ -1,0 +1,5 @@
+{
+  "PostgresqlTimestampWithZone": "",
+  "test_timestamp_with_zone_values_with_rails_time_zone_support": "",
+  "test_timestamp_with_zone_values_without_rails_time_zone_support": ""
+}

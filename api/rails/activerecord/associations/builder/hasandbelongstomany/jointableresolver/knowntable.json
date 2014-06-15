@@ -1,0 +1,4 @@
+{
+  "join_table=": "Sets the attribute join_table",
+  "join_table": "Returns the value of attribute join_table"
+}

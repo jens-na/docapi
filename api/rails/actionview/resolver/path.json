@@ -1,0 +1,11 @@
+{
+  "name": "Returns the value of attribute name",
+  "prefix": "Returns the value of attribute prefix",
+  "partial": "Returns the value of attribute partial",
+  "virtual": "Returns the value of attribute virtual",
+  "partial?": "Returns the value of attribute partial",
+  "build": "",
+  "initialize": "",
+  "to_str": "",
+  "to_s": ""
+}

@@ -1,0 +1,5 @@
+{
+  "test_banana_redirects_to_https_if_not_https": "",
+  "test_cheeseburgers_redirects_to_https_with_new_host_if_not_https": "",
+  "test_banana_does_not_redirect_if_already_https": ""
+}

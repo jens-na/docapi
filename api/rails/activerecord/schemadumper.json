@@ -1,0 +1,14 @@
+{
+  "ignore_tables": ":singleton-method:\nA list of tables which should not be dumped to the schema.\nAcceptable values are strings as well as regexp.\nThis setting is only used if ActiveRecord::Base.schema_format == :ruby",
+  "@@ignore_tables": "",
+  "dump": "",
+  "generate_options": "",
+  "initialize": "",
+  "header": "",
+  "trailer": "",
+  "extensions": "",
+  "tables": "",
+  "table": "",
+  "indexes": "",
+  "remove_prefix_and_suffix": ""
+}

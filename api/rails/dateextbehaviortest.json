@@ -1,0 +1,5 @@
+{
+  "test_date_acts_like_date": "",
+  "test_freeze_doesnt_clobber_memoized_instance_methods": "",
+  "test_can_freeze_twice": ""
+}

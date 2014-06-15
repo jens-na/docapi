@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_action_controller_base_responds_to_translate": "",
+  "test_action_controller_base_responds_to_t": "",
+  "test_action_controller_base_responds_to_localize": "",
+  "test_action_controller_base_responds_to_l": "",
+  "test_lazy_lookup": "",
+  "test_default_translation": "",
+  "test_localize": ""
+}

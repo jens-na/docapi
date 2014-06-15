@@ -1,0 +1,4 @@
+{
+  "amount=": "Sets the attribute amount",
+  "amount": "Returns the value of attribute amount"
+}

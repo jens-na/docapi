@@ -1,0 +1,12 @@
+{
+  "UNIDATA_URL": "",
+  "UNIDATA_FILE": "",
+  "CACHE_DIR": "",
+  "setup": "",
+  "test_normalizations_C": "",
+  "test_normalizations_D": "",
+  "test_normalizations_KC": "",
+  "test_normalizations_KD": "",
+  "each_line_of_norm_tests": "",
+  "inspect_codepoints": ""
+}

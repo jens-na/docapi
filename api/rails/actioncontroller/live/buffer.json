@@ -1,0 +1,13 @@
+{
+  "ignore_disconnect": "Ignore that the client has disconnected.\n\nIf this value is `true`, calling `write` after the client\ndisconnects will result in the written content being silently\ndiscarded. If this value is `false` (the default), a\nClientDisconnected exception will be raised.",
+  "ignore_disconnect=": "Ignore that the client has disconnected.\n\nIf this value is `true`, calling `write` after the client\ndisconnects will result in the written content being silently\ndiscarded. If this value is `false` (the default), a\nClientDisconnected exception will be raised.",
+  "initialize": "",
+  "write": "",
+  "each": "",
+  "close": "Write a 'close' event to the buffer; the producer/writing thread\nuses this to notify us that it's finished supplying content.\n\nSee also #abort.",
+  "abort": "Inform the producer/writing thread that the client has\ndisconnected; the reading thread is no longer interested in\nanything that's being written.\n\nSee also #close.",
+  "connected?": "Is the client still connected and waiting for content?\n\nThe result of calling `write` when this is `false` is determined\nby `ignore_disconnect`.",
+  "await_close": "",
+  "on_error": "",
+  "call_on_error": ""
+}

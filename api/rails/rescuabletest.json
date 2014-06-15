@@ -1,0 +1,8 @@
+{
+  "setup": "",
+  "test_rescue_from_with_method": "",
+  "test_rescue_from_with_block": "",
+  "test_rescue_from_with_block_with_args": "",
+  "test_rescues_defined_later_are_added_at_end_of_the_rescue_handlers_array": "",
+  "test_children_should_inherit_rescue_definitions_from_parents_and_child_rescue_should_be_appended": ""
+}

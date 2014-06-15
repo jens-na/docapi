@@ -1,0 +1,13 @@
+{
+  "test_should_serialize_default_root": "",
+  "test_should_serialize_default_root_with_namespace": "",
+  "test_should_serialize_custom_root": "",
+  "test_should_allow_undasherized_tags": "",
+  "test_should_allow_camelized_tags": "",
+  "test_should_allow_skipped_types": "",
+  "test_should_include_yielded_additions": "",
+  "test_to_xml_with_block": "",
+  "test_should_skip_instruct_for_included_records": "",
+  "setup": "",
+  "FriendList": ""
+}

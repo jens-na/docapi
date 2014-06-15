@@ -1,0 +1,8 @@
+{
+  "create_migration_file": "creates the migration file for the model.",
+  "create_model_file": "",
+  "create_module_file": "",
+  "attributes_with_index": "",
+  "accessible_attributes": "",
+  "parent_class_name": "Used by the migration template to determine the parent name of the model"
+}

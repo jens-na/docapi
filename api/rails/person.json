@@ -1,0 +1,17 @@
+{
+  "title": "Returns the value of attribute title",
+  "title=": "Sets the attribute title",
+  "karma": "Returns the value of attribute karma",
+  "karma=": "Sets the attribute karma",
+  "salary": "Returns the value of attribute salary",
+  "salary=": "Sets the attribute salary",
+  "gender": "Returns the value of attribute gender",
+  "gender=": "Sets the attribute gender",
+  "condition_is_true": "",
+  "Gender": "",
+  "name": "Returns the value of attribute name",
+  "name=": "Sets the attribute name",
+  "initialize": "",
+  "persist": "",
+  "persisted?": ""
+}

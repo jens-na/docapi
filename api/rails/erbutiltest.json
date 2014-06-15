@@ -1,0 +1,16 @@
+{
+  "HTML_ESCAPE_TEST_CASES": "",
+  "JSON_ESCAPE_TEST_CASES": "",
+  "test_html_escape": "",
+  "test_json_escape": "",
+  "test_json_escape_does_not_alter_json_string_meaning": "",
+  "test_json_escape_is_idempotent": "",
+  "test_json_escape_returns_unsafe_strings_when_passed_unsafe_strings": "",
+  "test_json_escape_returns_safe_strings_when_passed_safe_strings": "",
+  "test_html_escape_is_html_safe": "",
+  "test_html_escape_passes_html_escape_unmodified": "",
+  "test_rest_in_ascii": "",
+  "test_html_escape_once": "",
+  "test_html_escape_once_returns_unsafe_strings_when_passed_unsafe_strings": "",
+  "test_html_escape_once_returns_safe_strings_when_passed_safe_strings": ""
+}

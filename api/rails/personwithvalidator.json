@@ -1,0 +1,8 @@
+{
+  "PresenceValidator": "",
+  "LikeValidator": "",
+  "title": "Returns the value of attribute title",
+  "title=": "Sets the attribute title",
+  "karma": "Returns the value of attribute karma",
+  "karma=": "Sets the attribute karma"
+}

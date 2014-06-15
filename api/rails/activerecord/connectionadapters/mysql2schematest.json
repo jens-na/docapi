@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_schema": "",
+  "test_primary_key": "",
+  "test_table_exists?": "",
+  "test_table_exists_wrong_schema": "",
+  "test_tables_quoting": "",
+  "test_dump_indexes": "",
+  "test_drop_temporary_table": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Returns the value of attribute name",
+  "time": "Returns the value of attribute time",
+  "transaction_id": "Returns the value of attribute transaction_id",
+  "payload": "Returns the value of attribute payload",
+  "children": "Returns the value of attribute children",
+  "end": "Returns the value of attribute end",
+  "end=": "Sets the attribute end",
+  "initialize": "",
+  "duration": "",
+  "<<": "",
+  "parent_of?": ""
+}

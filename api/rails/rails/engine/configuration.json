@@ -1,0 +1,15 @@
+{
+  "root": "Returns the value of attribute root",
+  "middleware=": "Sets the attribute middleware",
+  "eager_load_paths=": "Sets the attribute eager_load_paths",
+  "autoload_once_paths=": "Sets the attribute autoload_once_paths",
+  "autoload_paths=": "Sets the attribute autoload_paths",
+  "initialize": "",
+  "middleware": "Returns the middleware stack for the engine.",
+  "generators": "Holds generators configuration:\n\n  config.generators do |g|\n    g.orm             :data_mapper, migration: true\n    g.template_engine :haml\n    g.test_framework  :rspec\n  end\n\nIf you want to disable color in console, do:\n\n  config.generators.colorize_logging = false",
+  "paths": "",
+  "root=": "",
+  "eager_load_paths": "",
+  "autoload_once_paths": "",
+  "autoload_paths": ""
+}

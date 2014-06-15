@@ -1,0 +1,13 @@
+{
+  "sum": "Optimize range sum to use arithmetic progression if a block is not given and\nwe have a range of numeric values.",
+  "each_with_time_with_zone": "",
+  "step_with_time_with_zone": "",
+  "ensure_iteration_allowed": "",
+  "as_json": ":nodoc:",
+  "overlaps?": "Compare two ranges and see if they overlap each other\n (1..5).overlaps?(4..6) # => true\n (1..5).overlaps?(7..9) # => false",
+  "RANGE_FORMATS": "",
+  "to_formatted_s": "Gives a human readable format of the range.\n\n  (1..100).to_formatted_s # => \"1..100\"",
+  "to_default_s": "",
+  "to_s": "Gives a human readable format of the range.\n\n  (1..100).to_formatted_s # => \"1..100\"",
+  "include_with_range?": "Extends the default Range#include? to support range comparisons.\n (1..5).include?(1..5) # => true\n (1..5).include?(2..3) # => true\n (1..5).include?(2..6) # => false\n\nThe native Range#include? behavior is untouched.\n ('a'..'f').include?('c') # => true\n (5..9).include?(11) # => false"
+}

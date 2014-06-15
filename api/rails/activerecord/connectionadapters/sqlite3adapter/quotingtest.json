@@ -1,0 +1,15 @@
+{
+  "setup": "",
+  "test_type_cast_binary_encoding_without_logger": "",
+  "test_type_cast_symbol": "",
+  "test_type_cast_date": "",
+  "test_type_cast_time": "",
+  "test_type_cast_numeric": "",
+  "test_type_cast_nil": "",
+  "test_type_cast_true": "",
+  "test_type_cast_false": "",
+  "test_type_cast_string": "",
+  "test_type_cast_bigdecimal": "",
+  "test_type_cast_unknown_should_raise_error": "",
+  "test_type_cast_object_which_responds_to_quoted_id": ""
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Returns the value of attribute content",
+  "initialize": "",
+  "get": "Called by _layout_for to read stored values.",
+  "set": "Called by each renderer object to set the layout contents.",
+  "append": "Called by content_for",
+  "append!": "Called by content_for"
+}

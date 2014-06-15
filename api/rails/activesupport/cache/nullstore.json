@@ -1,0 +1,11 @@
+{
+  "initialize": "",
+  "clear": "",
+  "cleanup": "",
+  "increment": "",
+  "decrement": "",
+  "delete_matched": "",
+  "read_entry": ":nodoc:",
+  "write_entry": ":nodoc:",
+  "delete_entry": ":nodoc:"
+}

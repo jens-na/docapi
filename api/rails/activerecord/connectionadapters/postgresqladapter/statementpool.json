@@ -1,0 +1,14 @@
+{
+  "initialize": "",
+  "each": "",
+  "key?": "",
+  "[]": "",
+  "length": "",
+  "next_key": "",
+  "[]=": "",
+  "clear": "",
+  "delete": "",
+  "cache": "",
+  "dealloc": "",
+  "connection_active?": ""
+}

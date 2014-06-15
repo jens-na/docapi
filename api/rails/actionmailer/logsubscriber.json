@@ -1,0 +1,6 @@
+{
+  "deliver": "An email was delivered.",
+  "receive": "An email was received.",
+  "process": "An email was generated.",
+  "logger": "Use the logger configured for ActionMailer::Base"
+}

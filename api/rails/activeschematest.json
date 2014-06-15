@@ -1,0 +1,18 @@
+{
+  "setup": "",
+  "test_add_index": "",
+  "table_exists?": "add_index calls table_exists? and index_name_exists? which can't work since execute is stubbed",
+  "index_name_exists?": "",
+  "test_drop_table": "",
+  "test_create_mysql_database_with_encoding": "",
+  "test_recreate_mysql_database_with_encoding": "",
+  "test_add_column": "",
+  "test_add_column_with_limit": "",
+  "test_drop_table_with_specific_database": "",
+  "test_add_timestamps": "",
+  "test_remove_timestamps": "",
+  "test_indexes_in_create": "",
+  "with_real_execute": "",
+  "method_missing": "",
+  "column_present?": ""
+}

@@ -1,0 +1,13 @@
+{
+  "test_extension_on_has_many": "",
+  "test_extension_on_habtm": "",
+  "test_named_extension_on_habtm": "",
+  "test_named_two_extensions_on_habtm": "",
+  "test_named_extension_and_block_on_habtm": "",
+  "test_extension_with_scopes": "",
+  "test_marshalling_extensions": "",
+  "test_marshalling_named_extensions": "",
+  "test_extension_name": "",
+  "test_proxy_association_after_scoped": "",
+  "extend!": ""
+}

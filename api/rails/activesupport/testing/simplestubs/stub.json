@@ -1,0 +1,8 @@
+{
+  "object=": "Sets the attribute object",
+  "object": "Returns the value of attribute object",
+  "method_name=": "Sets the attribute method_name",
+  "method_name": "Returns the value of attribute method_name",
+  "original_method=": "Sets the attribute original_method",
+  "original_method": "Returns the value of attribute original_method"
+}

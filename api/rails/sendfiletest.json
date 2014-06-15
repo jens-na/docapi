@@ -1,0 +1,16 @@
+{
+  "setup": "",
+  "test_file_nostream": "",
+  "test_file_stream": "",
+  "test_file_url_based_filename": "",
+  "test_data": "",
+  "test_headers_after_send_shouldnt_include_charset": "",
+  "test_send_file_headers_bang": "Test that send_file_headers! is setting the correct HTTP headers.",
+  "test_send_file_headers_with_disposition_as_a_symbol": "",
+  "test_send_file_headers_with_mime_lookup_with_symbol": "",
+  "test_send_file_headers_with_bad_symbol": "",
+  "test_send_file_headers_guess_type_from_extension": "",
+  "test_send_file_with_default_content_disposition_header": "",
+  "test_send_file_without_content_disposition_header": "",
+  "test_send_file_with_action_controller_live": ""
+}

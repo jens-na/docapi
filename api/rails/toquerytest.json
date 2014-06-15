@@ -1,0 +1,13 @@
+{
+  "test_simple_conversion": "",
+  "test_cgi_escaping": "",
+  "test_html_safe_parameter_key": "",
+  "test_html_safe_parameter_value": "",
+  "test_nil_parameter_value": "",
+  "test_nested_conversion": "",
+  "test_multiple_nested": "",
+  "test_array_values": "",
+  "test_array_values_are_not_sorted": "",
+  "test_nested_empty_hash": "",
+  "assert_query_equal": ""
+}

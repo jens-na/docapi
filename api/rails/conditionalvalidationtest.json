@@ -1,0 +1,16 @@
+{
+  "teardown": "",
+  "test_if_validation_using_method_true": "",
+  "test_unless_validation_using_method_true": "",
+  "test_if_validation_using_method_false": "",
+  "test_unless_validation_using_method_false": "",
+  "test_if_validation_using_string_true": "",
+  "test_unless_validation_using_string_true": "",
+  "test_if_validation_using_string_false": "",
+  "test_unless_validation_using_string_false": "",
+  "test_if_validation_using_block_true": "",
+  "test_unless_validation_using_block_true": "",
+  "test_if_validation_using_block_false": "",
+  "test_unless_validation_using_block_false": "",
+  "test_validation_with_if_as_string": "previous implementation of validates_presence_of eval'd the\nstring with the wrong binding, this regression test is to\nensure that it works correctly"
+}

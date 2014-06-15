@@ -1,0 +1,7 @@
+{
+  "foo": "Returns the value of attribute foo",
+  "foo=": "Sets the attribute foo",
+  "bar": "Returns the value of attribute bar",
+  "bar=": "Sets the attribute bar",
+  "as_json": ""
+}

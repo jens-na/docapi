@@ -1,0 +1,8 @@
+{
+  "connection_handler": "Returns the value of attribute connection_handler",
+  "connection_handler=": "Sets the attribute connection_handler",
+  "sql_runtime": "Returns the value of attribute sql_runtime",
+  "sql_runtime=": "Sets the attribute sql_runtime",
+  "connection_id": "Returns the value of attribute connection_id",
+  "connection_id=": "Sets the attribute connection_id"
+}

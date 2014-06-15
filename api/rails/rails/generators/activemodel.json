@@ -1,0 +1,11 @@
+{
+  "name": "Returns the value of attribute name",
+  "initialize": "",
+  "all": "GET index",
+  "find": "GET show\nGET edit\nPATCH/PUT update\nDELETE destroy",
+  "build": "GET new\nPOST create",
+  "save": "POST create",
+  "update": "PATCH/PUT update",
+  "errors": "POST create\nPATCH/PUT update",
+  "destroy": "DELETE destroy"
+}

@@ -1,0 +1,8 @@
+{
+  "PostgresqlNetworkAddress": "",
+  "test_cidr_column": "",
+  "test_inet_column": "",
+  "test_macaddr_column": "",
+  "test_network_types": "",
+  "test_invalid_network_address": ""
+}

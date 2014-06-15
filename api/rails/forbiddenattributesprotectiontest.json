@@ -1,0 +1,8 @@
+{
+  "test_forbidden_attributes_cannot_be_used_for_mass_assignment": "",
+  "test_permitted_attributes_can_be_used_for_mass_assignment": "",
+  "test_forbidden_attributes_cannot_be_used_for_sti_inheritance_column": "",
+  "test_permitted_attributes_can_be_used_for_sti_inheritance_column": "",
+  "test_regular_hash_should_still_be_used_for_mass_assignment": "",
+  "test_blank_attributes_should_not_raise": ""
+}

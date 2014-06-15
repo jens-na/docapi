@@ -1,0 +1,5 @@
+{
+  "delegate_attr": "Returns the value of attribute delegate_attr",
+  "delegate_attr=": "Sets the attribute delegate_attr",
+  "delegate_method": ""
+}

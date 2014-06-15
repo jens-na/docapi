@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_sane_find_with_lock": "Test typical find.",
+  "test_eager_find_with_lock": "Test locked eager find.",
+  "test_sane_lock_method": "Locking a record reloads it.",
+  "test_with_lock_commits_transaction": "",
+  "test_with_lock_rolls_back_transaction": "",
+  "test_lock_sending_custom_lock_statement": "",
+  "test_no_locks_no_wait": "",
+  "duel": ""
+}

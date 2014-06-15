@@ -1,0 +1,6 @@
+{
+  "initialize": "",
+  "get": "Try to get stored content. If the content\nis not available and we are inside the layout\nfiber, we set that we are waiting for the given\nkey and yield.",
+  "append!": "Appends the contents for the given key. This is called\nby provides and resumes back to the fiber if it is\nthe key it is waiting for.",
+  "inside_fiber?": ""
+}

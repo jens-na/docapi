@@ -1,0 +1,19 @@
+{
+  "setup": "",
+  "test_bad_connection_mysql": "",
+  "test_valid_column": "",
+  "test_invalid_column": "",
+  "test_client_encoding": "",
+  "test_exec_insert_number": "",
+  "test_exec_insert_string": "",
+  "test_tables_quoting": "",
+  "test_pk_and_sequence_for": "",
+  "test_pk_and_sequence_for_with_non_standard_primary_key": "",
+  "test_pk_and_sequence_for_with_custom_index_type_pk": "",
+  "test_tinyint_integer_typecasting": "",
+  "test_supports_extensions": "",
+  "test_respond_to_enable_extension": "",
+  "test_respond_to_disable_extension": "",
+  "insert": "",
+  "with_example_table": ""
+}

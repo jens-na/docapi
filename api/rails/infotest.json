@@ -1,0 +1,13 @@
+{
+  "setup": "",
+  "test_property_with_block_swallows_exceptions_and_ignores_property": "",
+  "test_property_with_string": "",
+  "test_property_with_block": "",
+  "test_rails_version": "",
+  "test_framework_version": "",
+  "test_frameworks_exist": "",
+  "test_html_includes_middleware": "",
+  "properties": "",
+  "property_defined?": "",
+  "assert_property": ""
+}

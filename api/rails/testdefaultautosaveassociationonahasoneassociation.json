@@ -1,0 +1,13 @@
+{
+  "test_should_save_parent_but_not_invalid_child": "",
+  "test_save_fails_for_invalid_has_one": "",
+  "test_save_succeeds_for_invalid_has_one_with_validate_false": "",
+  "test_build_before_child_saved": "",
+  "test_build_before_either_saved": "",
+  "test_assignment_before_parent_saved": "",
+  "test_assignment_before_either_saved": "",
+  "test_not_resaved_when_unchanged": "",
+  "test_callbacks_firing_order_on_create": "",
+  "test_callbacks_firing_order_on_update": "",
+  "test_callbacks_firing_order_on_save": ""
+}

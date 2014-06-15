@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_template_gets_recompiled_when_using_different_keys_in_local_assigns": "",
+  "test_template_changes_are_not_reflected_with_cached_templates": "",
+  "test_template_changes_are_reflected_with_uncached_templates": "",
+  "render": "",
+  "render_with_cache": "",
+  "render_without_cache": "",
+  "modify_template": ""
+}

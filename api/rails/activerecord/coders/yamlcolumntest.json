@@ -1,0 +1,11 @@
+{
+  "test_initialize_takes_class": "",
+  "test_type_mismatch_on_different_classes_on_dump": "",
+  "test_type_mismatch_on_different_classes": "",
+  "test_nil_is_ok": "",
+  "test_returns_new_with_different_class": "",
+  "test_returns_string_unless_starts_with_dash": "",
+  "test_load_handles_other_classes": "",
+  "test_load_doesnt_swallow_yaml_exceptions": "",
+  "test_load_doesnt_handle_undefined_class_or_module": ""
+}

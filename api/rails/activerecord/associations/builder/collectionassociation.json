@@ -1,0 +1,12 @@
+{
+  "CALLBACKS": "",
+  "valid_options": "",
+  "block_extension": "Returns the value of attribute block_extension",
+  "initialize": "",
+  "define_callbacks": "",
+  "define_extensions": "",
+  "define_callback": "",
+  "define_readers": "Defines the setter and getter methods for the collection_singular_ids.",
+  "define_writers": "",
+  "wrap_scope": ""
+}

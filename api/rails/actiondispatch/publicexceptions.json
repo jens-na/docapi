@@ -1,0 +1,9 @@
+{
+  "public_path": "Returns the value of attribute public_path",
+  "public_path=": "Sets the attribute public_path",
+  "initialize": "",
+  "call": "",
+  "render": "",
+  "render_format": "",
+  "render_html": ""
+}

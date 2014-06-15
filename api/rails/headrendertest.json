@@ -1,0 +1,14 @@
+{
+  "setup": "",
+  "test_head_created": "",
+  "test_head_created_with_application_json_content_type": "",
+  "test_head_ok_with_image_png_content_type": "",
+  "test_head_with_location_header": "",
+  "test_head_with_location_object": "",
+  "test_head_with_custom_header": "",
+  "test_head_with_www_authenticate_header": "",
+  "test_head_with_symbolic_status": "",
+  "test_head_with_integer_status": "",
+  "test_head_with_string_status": "",
+  "test_head_with_status_code_first": ""
+}

@@ -1,0 +1,12 @@
+{
+  "RaisedOnSave": "",
+  "raise_on_save": "Returns the value of attribute raise_on_save",
+  "raise_on_save=": "Sets the attribute raise_on_save",
+  "RaisedOnDestroy": "",
+  "raise_on_destroy": "Returns the value of attribute raise_on_destroy",
+  "raise_on_destroy=": "Sets the attribute raise_on_destroy",
+  "destroyed_client_ids": "Record destruction so we can test whether firm.clients.clear has\nis calling client.destroy, deleting from the database, or setting\nforeign keys to NULL.",
+  "rating?": "Used to test that read and question methods are not generated for these attributes",
+  "overwrite_to_raise": "",
+  "private_method": ""
+}

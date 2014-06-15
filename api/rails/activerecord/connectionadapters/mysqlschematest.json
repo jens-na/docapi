@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "MysqlDouble": "",
+  "test_float_limits": "",
+  "test_schema": "",
+  "test_primary_key": "",
+  "test_table_exists?": "",
+  "test_table_exists_wrong_schema": "",
+  "test_dump_indexes": ""
+}

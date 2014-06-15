@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_establishes_connection_to_test_database": "",
+  "test_recreates_database_with_the_default_options": "",
+  "test_recreates_database_with_the_given_options": ""
+}

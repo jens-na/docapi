@@ -1,0 +1,8 @@
+{
+  "node=": "Sets the attribute node",
+  "node": "Returns the value of attribute node",
+  "columns=": "Sets the attribute columns",
+  "columns": "Returns the value of attribute columns",
+  "table": "",
+  "column_aliases": ""
+}

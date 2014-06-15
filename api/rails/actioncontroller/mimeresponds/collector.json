@@ -1,0 +1,11 @@
+{
+  "format": "Returns the value of attribute format",
+  "format=": "Sets the attribute format",
+  "initialize": "",
+  "any": "",
+  "all": "",
+  "custom": "",
+  "response": "",
+  "negotiate_format": "",
+  "VariantCollector": ":nodoc:"
+}

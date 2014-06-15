@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_retrieve_connection": "",
+  "test_active_connections?": "",
+  "test_retrieve_connection_pool_with_ar_base": "",
+  "test_retrieve_connection_pool": "",
+  "test_retrieve_connection_pool_uses_superclass_when_no_subclass_connection": "",
+  "test_retrieve_connection_pool_uses_superclass_pool_after_subclass_establish_and_remove": "",
+  "test_connection_pools": ""
+}

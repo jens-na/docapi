@@ -1,0 +1,9 @@
+{
+  "test_file_fragment_cache_store": "",
+  "test_mem_cache_fragment_cache_store": "",
+  "test_mem_cache_fragment_cache_store_with_given_mem_cache": "",
+  "test_mem_cache_fragment_cache_store_with_not_dalli_client": "",
+  "test_mem_cache_fragment_cache_store_with_multiple_servers": "",
+  "test_mem_cache_fragment_cache_store_with_options": "",
+  "test_object_assigned_fragment_cache_store": ""
+}

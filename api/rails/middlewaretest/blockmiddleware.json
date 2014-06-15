@@ -1,0 +1,6 @@
+{
+  "configurable_message": "Returns the value of attribute configurable_message",
+  "configurable_message=": "Sets the attribute configurable_message",
+  "initialize": "",
+  "call": ""
+}

@@ -1,0 +1,7 @@
+{
+  "setup": "",
+  "test_create_database_with_encoding": "",
+  "test_create_database_with_collation_and_ctype": "",
+  "test_add_index": "",
+  "method_missing": ""
+}

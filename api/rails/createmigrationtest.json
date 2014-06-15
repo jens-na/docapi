@@ -1,0 +1,19 @@
+{
+  "Migrator": "",
+  "default_destination_path": "",
+  "create_migration": "",
+  "migration_exists!": "",
+  "invoke!": "",
+  "revoke!": "",
+  "test_invoke": "",
+  "test_invoke_pretended": "",
+  "test_invoke_when_exists": "",
+  "test_invoke_when_exists_identical": "",
+  "test_invoke_when_exists_not_identical": "",
+  "test_invoke_forced_when_exists_not_identical": "",
+  "test_invoke_forced_pretended_when_exists_not_identical": "",
+  "test_invoke_skipped_when_exists_not_identical": "",
+  "test_revoke": "",
+  "test_revoke_pretended": "",
+  "test_revoke_when_no_exists": ""
+}

@@ -1,0 +1,11 @@
+{
+  "test_child_instance_should_be_shared_with_parent_on_find": "",
+  "test_eager_loaded_child_instance_should_be_shared_with_parent_on_find": "",
+  "test_child_instance_should_be_shared_with_replaced_via_accessor_parent": "",
+  "test_child_instance_should_be_shared_with_replaced_via_method_parent": "",
+  "test_inversed_instance_should_not_be_reloaded_after_stale_state_changed": "",
+  "test_should_not_try_to_set_inverse_instances_when_the_inverse_is_a_has_many": "",
+  "test_trying_to_access_inverses_that_dont_exist_shouldnt_raise_an_error": "",
+  "test_trying_to_set_polymorphic_inverses_that_dont_exist_at_all_should_raise_an_error": "",
+  "test_trying_to_set_polymorphic_inverses_that_dont_exist_on_the_instance_being_set_should_raise_an_error": ""
+}

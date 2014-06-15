@@ -1,0 +1,10 @@
+{
+  "test_module_file_is_not_created": "",
+  "test_adds_namespace_to_model": "",
+  "test_model_with_namespace": "",
+  "test_migration": "",
+  "test_migration_with_namespace": "",
+  "test_migration_with_nested_namespace": "",
+  "test_migration_with_nested_namespace_without_pluralization": "",
+  "test_invokes_default_test_framework": ""
+}

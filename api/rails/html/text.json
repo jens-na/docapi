@@ -1,0 +1,8 @@
+{
+  "content": ":nodoc:",
+  "initialize": "Creates a new text node as a child of the given parent, with the given\ncontent.",
+  "to_s": "Returns the content of this node.",
+  "find": "Returns +self+ if this node meets the given conditions. Text nodes support\nconditions of the following kinds:\n\n* if +conditions+ is a string, it must be a substring of the node's\n  content\n* if +conditions+ is a regular expression, it must match the node's\n  content\n* if +conditions+ is a hash, it must contain a <tt>:content</tt> key that\n  is either a string or a regexp, and which is interpreted as described\n  above.",
+  "match": "Returns non-+nil+ if this node meets the given conditions, or +nil+\notherwise. See the discussion of #find for the valid conditions.",
+  "==": ""
+}

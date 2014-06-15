@@ -1,0 +1,10 @@
+{
+  "PostgresqlEnum": "",
+  "setup": "",
+  "test_column": "",
+  "test_enum_defaults": "",
+  "test_enum_mapping": "",
+  "test_invalid_enum_update": "",
+  "test_no_oid_warning": "",
+  "test_enum_type_cast": ""
+}

@@ -1,0 +1,8 @@
+{
+  "test_instrument_returns_block_result": "",
+  "test_instrument_yields_the_payload_for_further_modification": "",
+  "test_instrumenter_exposes_its_id": "",
+  "test_nested_events_can_be_instrumented": "",
+  "test_instrument_publishes_when_exception_is_raised": "",
+  "test_event_is_pushed_even_without_block": ""
+}

@@ -1,0 +1,6 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "version=": "Sets the attribute version",
+  "version": "Returns the value of attribute version"
+}

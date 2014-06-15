@@ -1,0 +1,4 @@
+{
+  "price=": "Sets the attribute price",
+  "price": "Returns the value of attribute price"
+}

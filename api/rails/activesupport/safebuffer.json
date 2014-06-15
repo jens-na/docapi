@@ -1,0 +1,21 @@
+{
+  "UNSAFE_STRING_METHODS": "",
+  "original_concat": "",
+  "SafeConcatError": "",
+  "[]": "",
+  "safe_concat": "",
+  "initialize": "",
+  "initialize_copy": "",
+  "clone_empty": "",
+  "concat": "",
+  "<<": "",
+  "prepend": "",
+  "prepend!": "",
+  "+": "",
+  "%": "",
+  "html_safe?": "",
+  "to_s": "",
+  "to_param": "",
+  "encode_with": "",
+  "html_escape_interpolated_argument": ""
+}

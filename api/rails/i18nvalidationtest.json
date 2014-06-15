@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_full_message_encoding": "",
+  "test_errors_full_messages_translates_human_attribute_name_for_model_attributes": "",
+  "test_errors_full_messages_uses_format": "",
+  "COMMON_CASES": "A set of common cases for ActiveModel::Validations message generation that\nare used to generate tests to keep things DRY",
+  "set_expectations_for_validation": "To make things DRY this macro is defined to define 3 tests for every validation case.",
+  "test_validations_with_message_symbol_must_translate": "test with validates_with",
+  "test_validates_with_message_symbol_must_translate_per_attribute": "",
+  "test_validates_with_message_symbol_must_translate_per_model": "",
+  "test_validates_with_message_string": "",
+  "unique_topic": "",
+  "replied_topic": "",
+  "test_validates_associated_finds_custom_model_key_translation": "validates_associated w/o mocha",
+  "test_validates_associated_finds_global_default_translation": ""
+}

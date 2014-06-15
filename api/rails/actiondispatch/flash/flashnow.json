@@ -1,0 +1,9 @@
+{
+  "flash": "Returns the value of attribute flash",
+  "flash=": "Sets the attribute flash",
+  "initialize": "",
+  "[]=": "",
+  "[]": "",
+  "alert=": "Convenience accessor for <tt>flash.now[:alert]=</tt>.",
+  "notice=": "Convenience accessor for <tt>flash.now[:notice]=</tt>."
+}

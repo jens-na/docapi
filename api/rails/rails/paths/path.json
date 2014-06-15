@@ -1,0 +1,18 @@
+{
+  "glob": "Returns the value of attribute glob",
+  "glob=": "Sets the attribute glob",
+  "initialize": "",
+  "children": "",
+  "first": "",
+  "last": "",
+  "each": "",
+  "<<": "",
+  "push": "",
+  "concat": "",
+  "unshift": "",
+  "to_ary": "",
+  "expanded": "Expands all paths against the root and return all unique values.",
+  "existent": "Returns all expanded paths but only if they exist in the filesystem.",
+  "existent_directories": "",
+  "to_a": "Expands all paths against the root and return all unique values."
+}

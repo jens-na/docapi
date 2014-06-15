@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "test_to_s": "",
+  "test_find_string": "",
+  "test_find_regexp": "",
+  "test_find_hash": "",
+  "test_find_other": "",
+  "test_match_string": "",
+  "test_match_regexp": "",
+  "test_match_hash": "",
+  "test_match_other": ""
+}

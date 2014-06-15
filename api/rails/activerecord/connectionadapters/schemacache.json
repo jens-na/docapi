@@ -1,0 +1,17 @@
+{
+  "version": "Returns the value of attribute version",
+  "connection": "Returns the value of attribute connection",
+  "connection=": "Sets the attribute connection",
+  "initialize": "",
+  "primary_keys": "",
+  "table_exists?": "A cached lookup for table existence.",
+  "add": "Add internal cache for table with +table_name+.",
+  "tables": "",
+  "columns": "Get the columns for a table",
+  "columns_hash": "Get the columns for a table as a hash, key is the column name\nvalue is the column object.",
+  "clear!": "Clears out internal caches",
+  "size": "",
+  "clear_table_cache!": "Clear out internal caches for table with +table_name+.",
+  "marshal_dump": "",
+  "marshal_load": ""
+}

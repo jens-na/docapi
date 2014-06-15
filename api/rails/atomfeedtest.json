@@ -1,0 +1,20 @@
+{
+  "setup": "",
+  "test_feed_should_use_default_language_if_none_is_given": "",
+  "test_feed_should_include_two_entries": "",
+  "test_entry_should_only_use_published_if_created_at_is_present": "",
+  "test_providing_builder_to_atom_feed": "",
+  "test_entry_with_prefilled_options_should_use_those_instead_of_querying_the_record": "",
+  "test_self_url_should_default_to_current_request_url": "",
+  "test_feed_id_should_be_a_valid_tag": "",
+  "test_entry_id_should_be_a_valid_tag": "",
+  "test_feed_should_allow_nested_xml_blocks": "",
+  "test_feed_should_include_atomPub_namespace": "",
+  "test_feed_should_allow_overriding_ids": "",
+  "test_feed_xml_processing_instructions": "",
+  "test_feed_xml_processing_instructions_duplicate_targets": "",
+  "test_feed_xhtml": "",
+  "test_feed_entry_type_option_default_to_text_html": "",
+  "test_feed_entry_type_option_specified": "",
+  "with_restful_routing": ""
+}

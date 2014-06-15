@@ -1,0 +1,4 @@
+{
+  "initialize": "",
+  "not": "Returns a new relation expressing WHERE + NOT condition according to\nthe conditions in the arguments.\n\n+not+ accepts conditions as a string, array, or hash. See #where for\nmore details on each format.\n\n   User.where.not(\"name = 'Jon'\")\n   # SELECT * FROM users WHERE NOT (name = 'Jon')\n\n   User.where.not([\"name = ?\", \"Jon\"])\n   # SELECT * FROM users WHERE NOT (name = 'Jon')\n\n   User.where.not(name: \"Jon\")\n   # SELECT * FROM users WHERE name != 'Jon'\n\n   User.where.not(name: nil)\n   # SELECT * FROM users WHERE name IS NOT NULL\n\n   User.where.not(name: %w(Ko1 Nobu))\n   # SELECT * FROM users WHERE name NOT IN ('Ko1', 'Nobu')\n\n   User.where.not(name: \"Jon\", role: \"admin\")\n   # SELECT * FROM users WHERE name != 'Jon' AND role != 'admin'"
+}

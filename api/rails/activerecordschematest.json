@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "test_has_no_primary_key": "",
+  "test_schema_define": "",
+  "test_schema_define_w_table_name_prefix": "",
+  "test_schema_raises_an_error_for_invalid_column_type": "",
+  "test_schema_subclass": "",
+  "test_normalize_version": ""
+}

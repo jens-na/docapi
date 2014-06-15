@@ -1,0 +1,11 @@
+{
+  "env=": "Sets the attribute env",
+  "env": "Returns the value of attribute env",
+  "called=": "Sets the attribute called",
+  "called": "Returns the value of attribute called",
+  "new": "",
+  "hello": "",
+  "path_info": "",
+  "request_method": "",
+  "ip": ""
+}

@@ -1,0 +1,15 @@
+{
+  "setup": "",
+  "test_includes_uses_association_name": "",
+  "test_includes_uses_association_name_and_applies_attribute_filters": "",
+  "test_includes_fetches_second_level_associations": "",
+  "test_includes_fetches_nth_level_associations": "",
+  "test_includes_doesnt_merge_opts_from_base": "",
+  "test_should_not_call_methods_on_associations_that_dont_respond": "",
+  "favorite_quote": "",
+  "test_should_allow_only_option_for_list_of_authors": "",
+  "test_should_allow_except_option_for_list_of_authors": "",
+  "test_should_allow_includes_for_list_of_authors": "",
+  "test_should_allow_options_for_hash_of_authors": "",
+  "test_should_be_able_to_encode_relation": ""
+}

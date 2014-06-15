@@ -1,0 +1,9 @@
+{
+  "Omg": "",
+  "test_string_class": "",
+  "test_double_equal_works_with_classes": "",
+  "test_double_equal_works_with_strings": "",
+  "test_double_equal_normalizes_strings": "",
+  "test_middleware_loads_classnames_from_cache": "",
+  "test_middleware_always_returns_class": ""
+}

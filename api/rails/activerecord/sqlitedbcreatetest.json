@@ -1,0 +1,8 @@
+{
+  "setup": "",
+  "test_db_checks_database_exists": "",
+  "test_db_create_when_file_exists": "",
+  "test_db_create_with_file_does_nothing": "",
+  "test_db_create_establishes_a_connection": "",
+  "test_db_create_with_error_prints_message": ""
+}

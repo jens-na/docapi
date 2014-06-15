@@ -1,0 +1,23 @@
+{
+  "test_base_should_have_an_empty_nested_attributes_options": "",
+  "test_should_add_a_proc_to_nested_attributes_options": "",
+  "test_should_not_build_a_new_record_using_reject_all_even_if_destroy_is_given": "",
+  "test_should_not_build_a_new_record_if_reject_all_blank_returns_false": "",
+  "test_should_build_a_new_record_if_reject_all_blank_does_not_return_false": "",
+  "test_should_raise_an_ArgumentError_for_non_existing_associations": "",
+  "test_should_disable_allow_destroy_by_default": "",
+  "test_a_model_should_respond_to_underscore_destroy_and_return_if_it_is_marked_for_destruction": "",
+  "test_reject_if_method_without_arguments": "",
+  "test_reject_if_method_with_arguments": "",
+  "test_reject_if_with_indifferent_keys": "",
+  "test_reject_if_with_a_proc_which_returns_true_always_for_has_one": "",
+  "test_reuse_already_built_new_record": "",
+  "test_do_not_allow_assigning_foreign_key_when_reusing_existing_new_record": "",
+  "test_reject_if_with_a_proc_which_returns_true_always_for_has_many": "",
+  "test_destroy_works_independent_of_reject_if": "",
+  "test_has_many_association_updating_a_single_record": "",
+  "test_reject_if_with_blank_nested_attributes_id": "",
+  "test_first_and_array_index_zero_methods_return_the_same_value_when_nested_attributes_are_set_to_update_existing_record": "",
+  "test_allows_class_to_override_setter_and_call_super": "",
+  "test_accepts_nested_attributes_for_can_be_overridden_in_subclasses": ""
+}

@@ -1,0 +1,11 @@
+{
+  "scope": "Returns the value of attribute scope",
+  "scope=": "Sets the attribute scope",
+  "routes": "Returns the value of attribute routes",
+  "routes=": "Sets the attribute routes",
+  "_routes": "Returns the value of attribute routes",
+  "initialize": "",
+  "url_options": "",
+  "respond_to?": "",
+  "method_missing": ""
+}

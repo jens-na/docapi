@@ -1,0 +1,10 @@
+{
+  "values": "Returns the value of attribute values",
+  "initialize": "",
+  "reset": "",
+  "current_value": "",
+  "to_s": "",
+  "next_index": "",
+  "previous_index": "",
+  "step_index": ""
+}

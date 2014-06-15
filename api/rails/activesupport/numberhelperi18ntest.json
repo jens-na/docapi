@@ -1,0 +1,18 @@
+{
+  "setup": "",
+  "test_number_to_i18n_currency": "",
+  "test_number_to_currency_with_empty_i18n_store": "",
+  "test_locale_default_format_has_precedence_over_helper_defaults": "",
+  "test_number_to_currency_without_currency_negative_format": "",
+  "test_number_with_i18n_precision": "",
+  "test_number_with_i18n_precision_and_empty_i18n_store": "",
+  "test_number_with_i18n_delimiter": "",
+  "test_number_with_i18n_delimiter_and_empty_i18n_store": "",
+  "test_number_to_i18n_percentage": "",
+  "test_number_to_i18n_percentage_and_empty_i18n_store": "",
+  "test_number_to_i18n_human_size": "",
+  "test_number_to_i18n_human_size_with_empty_i18n_store": "",
+  "test_number_to_human_with_default_translation_scope": "",
+  "test_number_to_human_with_empty_i18n_store": "",
+  "test_number_to_human_with_custom_translation_scope": ""
+}

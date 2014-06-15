@@ -1,0 +1,5 @@
+{
+  "setup": "",
+  "test_tokens": "/page/:id(/:action)(.:format)",
+  "assert_tokens": ""
+}

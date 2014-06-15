@@ -1,0 +1,8 @@
+{
+  "column=": "Sets the attribute column",
+  "column": "Returns the value of attribute column",
+  "type=": "Sets the attribute type",
+  "type": "Returns the value of attribute type",
+  "options=": "Sets the attribute options",
+  "options": "Returns the value of attribute options"
+}

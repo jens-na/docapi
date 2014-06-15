@@ -1,0 +1,10 @@
+{
+  "TestLogger": "",
+  "Subscriber": "",
+  "subscriber": "Returns the value of attribute subscriber",
+  "notifier": "Returns the value of attribute notifier",
+  "setup": "",
+  "teardown": "",
+  "test_notification": "",
+  "test_notification_on_raise": ""
+}

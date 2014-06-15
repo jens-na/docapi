@@ -1,0 +1,7 @@
+{
+  "name": "Returns the value of attribute name",
+  "name=": "Sets the attribute name",
+  "history": "Returns the value of attribute history",
+  "history=": "Sets the attribute history",
+  "initialize": ""
+}

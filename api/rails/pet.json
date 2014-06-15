@@ -1,0 +1,6 @@
+{
+  "current_user": "Returns the value of attribute current_user",
+  "current_user=": "Sets the attribute current_user",
+  "after_destroy_output": "Returns the value of attribute after_destroy_output",
+  "after_destroy_output=": "Sets the attribute after_destroy_output"
+}

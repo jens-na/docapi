@@ -1,0 +1,21 @@
+{
+  "PARAMETERIZE": "",
+  "options": "Returns the value of attribute options",
+  "recall": "Returns the value of attribute recall",
+  "set": "Returns the value of attribute set",
+  "named_route": "Returns the value of attribute named_route",
+  "initialize": "",
+  "controller": "",
+  "current_controller": "",
+  "use_recall_for": "",
+  "normalize_recall!": "Set 'index' as default action for recall",
+  "normalize_options!": "",
+  "normalize_controller_action_id!": "This pulls :controller, :action, and :id out of the recall.\nThe recall key is only used if there is no key in the options\nor if the key in the options is identical. If any of\n:controller, :action or :id is not found, don't pull any\nmore keys from the recall.",
+  "use_relative_controller!": "if the current controller is \"foo/bar/baz\" and controller: \"baz/bat\"\nis specified, the controller becomes \"foo/baz/bat\"",
+  "normalize_controller!": "Remove leading slashes from controllers",
+  "normalize_action!": "Move 'index' action from options to recall",
+  "generate": "Generates a path from routes, returns [path, params].\nIf no route is generated the formatter will raise ActionController::UrlGenerationError",
+  "different_controller?": "",
+  "named_route_exists?": "",
+  "segment_keys": ""
+}

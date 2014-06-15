@@ -1,0 +1,4 @@
+{
+  "after_save_called": "Returns the value of attribute after_save_called",
+  "after_save_called=": "Sets the attribute after_save_called"
+}

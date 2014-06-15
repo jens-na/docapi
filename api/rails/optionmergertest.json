@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "test_method_with_options_merges_options_when_options_are_present": "",
+  "test_method_with_options_appends_options_when_options_are_missing": "",
+  "test_method_with_options_allows_to_overwrite_options": "",
+  "test_nested_method_with_options_containing_hashes_merge": "",
+  "test_nested_method_with_options_containing_hashes_overwrite": "",
+  "test_nested_method_with_options_containing_hashes_going_deep": "",
+  "test_nested_method_with_options_using_lambda": "",
+  "test_option_merger_class_method": "Needed when counting objects with the ObjectSpace",
+  "method_with_options": ""
+}

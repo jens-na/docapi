@@ -1,0 +1,14 @@
+{
+  "test_should_save_parent_but_not_invalid_child": "",
+  "test_save_fails_for_invalid_belongs_to": "",
+  "test_save_succeeds_for_invalid_belongs_to_with_validate_false": "",
+  "test_assignment_before_parent_saved": "",
+  "test_assignment_before_either_saved": "",
+  "test_store_two_association_with_one_save": "",
+  "test_store_association_in_two_relations_with_one_save": "",
+  "test_store_association_in_two_relations_with_one_save_in_existing_object": "",
+  "test_store_association_in_two_relations_with_one_save_in_existing_object_with_values": "",
+  "test_store_association_with_a_polymorphic_relationship": "",
+  "test_build_and_then_save_parent_should_not_reload_target": "",
+  "test_validation_does_not_validate_stale_association_target": ""
+}

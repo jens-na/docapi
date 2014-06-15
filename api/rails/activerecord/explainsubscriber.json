@@ -1,0 +1,7 @@
+{
+  "start": "",
+  "finish": "",
+  "IGNORED_PAYLOADS": "SCHEMA queries cannot be EXPLAINed, also we do not want to run EXPLAIN on\nour own EXPLAINs now matter how loopingly beautiful that would be.\n\nOn the other hand, we want to monitor the performance of our real database\nqueries, not the performance of the access to the query cache.",
+  "EXPLAINED_SQLS": "",
+  "ignore_payload?": ""
+}

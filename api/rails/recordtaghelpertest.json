@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "test_content_tag_for": "",
+  "test_content_tag_for_prefix": "",
+  "test_content_tag_for_with_extra_html_options": "",
+  "test_content_tag_for_with_array_css_class": "",
+  "test_content_tag_for_with_prefix_and_extra_html_options": "",
+  "test_block_not_in_erb_multiple_calls": "",
+  "test_block_works_with_content_tag_for_in_erb": "",
+  "test_div_for_in_erb": "",
+  "test_content_tag_for_collection": "",
+  "test_content_tag_for_collection_without_given_block": "",
+  "test_div_for_collection": "",
+  "test_content_tag_for_single_record_is_html_safe": "",
+  "test_content_tag_for_collection_is_html_safe": "",
+  "test_content_tag_for_does_not_change_options_hash": ""
+}

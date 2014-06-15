@@ -1,0 +1,21 @@
+{
+  "connection": "Returns the value of attribute connection",
+  "table_name": "Returns the value of attribute table_name",
+  "setup": "",
+  "test_rename_index": "",
+  "test_double_add_index": "",
+  "test_remove_nonexistent_index": "",
+  "test_add_index_works_with_long_index_names": "",
+  "test_add_index_does_not_accept_too_long_index_names": "",
+  "test_internal_index_with_name_matching_database_limit": "",
+  "test_index_symbol_names": "",
+  "test_index_exists": "",
+  "test_index_exists_on_multiple_columns": "",
+  "test_valid_index_options": "",
+  "test_unique_index_exists": "",
+  "test_named_index_exists": "",
+  "test_add_index_attribute_length_limit": "",
+  "test_add_index": "",
+  "test_add_partial_index": "",
+  "good_index_name": ""
+}

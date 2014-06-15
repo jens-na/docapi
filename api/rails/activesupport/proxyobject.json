@@ -1,0 +1,3 @@
+{
+  "raise": "Let ActiveSupport::ProxyObject at least raise exceptions."
+}

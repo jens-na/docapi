@@ -1,0 +1,3 @@
+{
+  "copy_stylesheet": "In order to allow the Sass generators to pick up the default Rails CSS and\ntransform it, we leave it in a standard location for the CSS stylesheet\ngenerators to handle. For the simple, default case, just copy it over."
+}

@@ -1,0 +1,8 @@
+{
+  "target=": "Sets the attribute target",
+  "target": "Returns the value of attribute target",
+  "attr_name=": "Sets the attribute attr_name",
+  "attr_name": "Returns the value of attribute attr_name",
+  "method_name=": "Sets the attribute method_name",
+  "method_name": "Returns the value of attribute method_name"
+}

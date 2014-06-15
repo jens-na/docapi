@@ -1,0 +1,10 @@
+{
+  "id": "Returns the value of attribute id",
+  "comment_id": "Returns the value of attribute comment_id",
+  "initialize": "",
+  "to_key": "",
+  "save": "",
+  "persisted?": "",
+  "to_param": "",
+  "value": ""
+}

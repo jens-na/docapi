@@ -1,0 +1,20 @@
+{
+  "TestController": "",
+  "Test": "",
+  "setup": "",
+  "teardown": "",
+  "expand": "",
+  "assert_paths": "",
+  "test_template_load_path_was_set_correctly": "",
+  "test_controller_appends_view_path_correctly": "",
+  "test_controller_prepends_view_path_correctly": "",
+  "test_template_appends_view_path_correctly": "",
+  "test_template_prepends_view_path_correctly": "",
+  "test_view_paths": "",
+  "test_view_paths_override": "",
+  "test_view_paths_override_for_layouts_in_controllers_with_a_module": "",
+  "test_view_paths_override_at_request_time": "",
+  "test_decorate_view_paths_with_custom_resolver": "",
+  "test_inheritance": "",
+  "test_lookup_context_accessor": ""
+}

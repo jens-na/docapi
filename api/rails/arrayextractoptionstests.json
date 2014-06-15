@@ -1,0 +1,8 @@
+{
+  "HashSubclass": "",
+  "ExtractableHashSubclass": "",
+  "test_extract_options": "",
+  "test_extract_options_doesnt_extract_hash_subclasses": "",
+  "test_extract_options_extracts_extractable_subclass": "",
+  "test_extract_options_extracts_hwia": ""
+}

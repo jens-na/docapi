@@ -1,0 +1,22 @@
+{
+  "spec": "Returns the value of attribute spec",
+  "requirements": "Returns the value of attribute requirements",
+  "anchored": "Returns the value of attribute anchored",
+  "from_string": "",
+  "initialize": "",
+  "build_formatter": "",
+  "ast": "",
+  "names": "",
+  "required_names": "",
+  "optional_names": "",
+  "RegexpOffsets": ":nodoc:",
+  "AnchoredRegexp": ":nodoc:",
+  "UnanchoredRegexp": ":nodoc:",
+  "MatchData": ":nodoc:",
+  "match": "",
+  "=~": "",
+  "source": "",
+  "to_regexp": "",
+  "regexp_visitor": "",
+  "offsets": ""
+}

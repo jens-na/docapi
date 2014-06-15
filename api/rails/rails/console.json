@@ -1,0 +1,15 @@
+{
+  "start": "",
+  "parse_arguments": "",
+  "available_environments": "",
+  "options": "Returns the value of attribute options",
+  "app": "Returns the value of attribute app",
+  "console": "Returns the value of attribute console",
+  "initialize": "",
+  "sandbox?": "",
+  "environment": "",
+  "environment?": "",
+  "set_environment!": "",
+  "debugger?": "",
+  "require_debugger": ""
+}

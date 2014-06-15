@@ -1,0 +1,12 @@
+{
+  "initialize": "",
+  "name": "Returns the value of attribute name",
+  "name=": "Sets the attribute name",
+  "age": "Returns the value of attribute age",
+  "age=": "Sets the attribute age",
+  "errors": "Returns the value of attribute errors",
+  "validate!": "",
+  "read_attribute_for_validation": "",
+  "human_attribute_name": "",
+  "lookup_ancestors": ""
+}

@@ -1,0 +1,14 @@
+{
+  "test_number_to_phone": "",
+  "test_number_to_currency": "",
+  "test_number_to_percentage": "",
+  "test_number_with_delimiter": "",
+  "test_number_with_precision": "",
+  "test_number_to_human_size": "",
+  "test_number_to_human": "",
+  "test_number_to_human_escape_units": "",
+  "test_number_helpers_escape_delimiter_and_separator": "",
+  "test_number_to_human_with_custom_translation_scope": "",
+  "test_number_helpers_outputs_are_html_safe": "",
+  "test_number_helpers_should_raise_error_if_invalid_when_specified": ""
+}

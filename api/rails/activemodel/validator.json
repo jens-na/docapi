@@ -1,0 +1,6 @@
+{
+  "options": "Returns the value of attribute options",
+  "kind": "Returns the kind for this validator.\n\n  PresenceValidator.new.kind   # => :presence\n  UniquenessValidator.new.kind # => :uniqueness",
+  "initialize": "Accepts options that will be made available through the +options+ reader.",
+  "validate": "Override this method in subclasses with validation logic, adding errors\nto the records +errors+ array where necessary."
+}

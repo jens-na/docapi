@@ -1,0 +1,5 @@
+{
+  "create_controller_files": "",
+  "add_routes": "",
+  "generate_routing_code": "This method creates nested route entry for namespaced resources.\nFor eg. rails g controller foo/bar/baz index\nWill generate -\nnamespace :foo do\n  namespace :bar do\n    get 'baz/index'\n  end\nend"
+}

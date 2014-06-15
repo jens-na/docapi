@@ -1,0 +1,7 @@
+{
+  "setup": "",
+  "test_creates_path_from_database": "",
+  "test_removes_file_with_absolute_path": "",
+  "test_generates_absolute_path_with_given_root": "",
+  "test_removes_file_with_relative_path": ""
+}

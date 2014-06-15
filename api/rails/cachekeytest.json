@@ -1,0 +1,13 @@
+{
+  "test_entry_legacy_optional_ivars": "",
+  "test_expand_cache_key": "",
+  "test_expand_cache_key_with_rails_cache_id": "",
+  "test_expand_cache_key_with_rails_app_version": "",
+  "test_expand_cache_key_rails_cache_id_should_win_over_rails_app_version": "",
+  "test_expand_cache_key_respond_to_cache_key": "",
+  "test_expand_cache_key_array_with_something_that_responds_to_cache_key": "",
+  "test_expand_cache_key_of_nil": "",
+  "test_expand_cache_key_of_false": "",
+  "test_expand_cache_key_of_true": "",
+  "test_expand_cache_key_of_array_like_object": ""
+}

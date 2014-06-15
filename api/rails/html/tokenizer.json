@@ -1,0 +1,10 @@
+{
+  "position": "The current (byte) position in the text",
+  "line": "The current line number",
+  "initialize": "Create a new Tokenizer for the given text.",
+  "next": "Returns the next token in the sequence, or +nil+ if there are no more tokens in\nthe stream.",
+  "scan_tag": "Treat the text at the current position as a tag, and scan it. Supports\ncomments, doctype tags, and regular tags, and ignores less-than and\ngreater-than characters within quoted strings.",
+  "scan_text": "Scan all text up to the next < character and return it.",
+  "update_current_line": "Counts the number of newlines in the text and updates the current line\naccordingly.",
+  "consume_quoted_regions": "Skips over quoted strings, so that less-than and greater-than characters\nwithin the strings are ignored."
+}

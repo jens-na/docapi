@@ -1,0 +1,15 @@
+{
+  "setup": "",
+  "test_to_model_called_on_record": "",
+  "test_singular": "",
+  "test_singular_for_class": "",
+  "test_plural": "",
+  "test_plural_for_class": "",
+  "test_route_key": "",
+  "test_route_key_for_class": "",
+  "test_param_key": "",
+  "test_param_key_for_class": "",
+  "test_uncountable": "",
+  "test_uncountable_route_key": "",
+  "method_missing": ""
+}

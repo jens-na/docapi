@@ -1,0 +1,15 @@
+{
+  "test_layout_set_when_using_default_layout": "",
+  "test_layout_set_when_using_streaming_layout": "",
+  "test_layout_set_when_set_in_controller": "",
+  "test_layout_symbol_set_in_controller_returning_nil_falls_back_to_default": "",
+  "test_layout_proc_set_in_controller_returning_nil_falls_back_to_default": "",
+  "test_layout_only_exception_when_included": "",
+  "test_layout_only_exception_when_excepted": "",
+  "test_layout_except_exception_when_included": "",
+  "test_layout_except_exception_when_excepted": "",
+  "test_layout_set_when_using_render": "",
+  "test_layout_is_not_set_when_none_rendered": "",
+  "test_layout_is_picked_from_the_controller_instances_view_path": "",
+  "test_absolute_pathed_layout": ""
+}

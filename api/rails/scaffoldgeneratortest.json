@@ -1,0 +1,16 @@
+{
+  "test_scaffold_on_invoke": "",
+  "test_functional_tests_without_attributes": "",
+  "test_scaffold_on_revoke": "",
+  "test_scaffold_with_namespace_on_invoke": "",
+  "test_scaffold_with_namespace_on_revoke": "",
+  "test_scaffold_generator_on_revoke_does_not_mutilate_legacy_map_parameter": "",
+  "test_scaffold_generator_no_assets_with_switch_no_assets": "",
+  "test_scaffold_generator_no_assets_with_switch_assets_false": "",
+  "test_scaffold_generator_no_assets_with_switch_resource_route_false": "",
+  "test_scaffold_generator_no_stylesheets": "",
+  "test_scaffold_generator_no_javascripts": "",
+  "test_scaffold_generator_outputs_error_message_on_missing_attribute_type": "",
+  "test_scaffold_generator_belongs_to": "",
+  "test_scaffold_generator_password_digest": ""
+}

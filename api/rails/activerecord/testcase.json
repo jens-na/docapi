@@ -1,0 +1,11 @@
+{
+  "teardown": ":nodoc:",
+  "assert_date_from_db": "",
+  "capture_sql": "",
+  "assert_sql": "",
+  "assert_queries": "",
+  "assert_no_queries": "",
+  "assert_column": "",
+  "assert_no_column": "",
+  "has_column?": ""
+}

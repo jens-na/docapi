@@ -1,0 +1,11 @@
+{
+  "aliases": ":nodoc:",
+  "connection": ":nodoc:",
+  "empty": "",
+  "create": "",
+  "initial_count_for": "",
+  "initialize": "table_joins is an array of arel joins which might conflict with the aliases we assign here",
+  "aliased_table_for": "",
+  "aliased_name_for": "",
+  "truncate": ""
+}

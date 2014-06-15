@@ -1,0 +1,12 @@
+{
+  "FIXTURES_DIR": "",
+  "details": "Returns the value of attribute details",
+  "formats": "Returns the value of attribute formats",
+  "formats=": "Sets the attribute formats",
+  "variants": "Returns the value of attribute variants",
+  "variants=": "Sets the attribute variants",
+  "initialize": "",
+  "details_key": "",
+  "find": "",
+  "disable_cache": ""
+}

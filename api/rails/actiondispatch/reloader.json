@@ -1,0 +1,9 @@
+{
+  "to_prepare": "Add a prepare callback. Prepare callbacks are run before each request, prior\nto ActionDispatch::Callback's before callbacks.",
+  "to_cleanup": "Add a cleanup callback. Cleanup callbacks are run after each request is\ncomplete (after #close is called on the response body).",
+  "prepare!": ":nodoc:",
+  "cleanup!": ":nodoc:",
+  "initialize": "",
+  "call": "",
+  "validated?": ":nodoc:"
+}

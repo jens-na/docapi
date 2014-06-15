@@ -1,0 +1,8 @@
+{
+  "initialize": "",
+  "columns": "",
+  "column_aliases": "An array of [column_name, alias] pairs for the table",
+  "column_alias": "",
+  "Table": "",
+  "Column": ""
+}

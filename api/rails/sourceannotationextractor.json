@@ -1,0 +1,10 @@
+{
+  "Annotation": "",
+  "enumerate": "Prints all annotations with tag +tag+ under the root directories +app+,\n+config+, +db+, +lib+, and +test+ (recursively).\n\nAdditional directories may be added using a comma-delimited list set using\n<tt>ENV['SOURCE_ANNOTATION_DIRECTORIES']</tt>.\n\nDirectories may also be explicitly set using the <tt>:dirs</tt> key in +options+.\n\n  SourceAnnotationExtractor.enumerate 'TODO|FIXME', dirs: %w(app lib), tag: true\n\nIf +options+ has a <tt>:tag</tt> flag, it will be passed to each annotation's +to_s+.\n\nSee <tt>#find_in</tt> for a list of file extensions that will be taken into account.\n\nThis class method is the single entry point for the rake tasks.",
+  "tag": "Returns the value of attribute tag",
+  "initialize": "",
+  "find": "Returns a hash that maps filenames under +dirs+ (recursively) to arrays\nwith their annotations.",
+  "find_in": "Returns a hash that maps filenames under +dir+ (recursively) to arrays\nwith their annotations. Only files with annotations are included. Files\nwith extension +.builder+, +.rb+, +.erb+, +.haml+, +.slim+, +.css+,\n+.scss+, +.js+, +.coffee+, +.rake+, +.sass+ and +.less+\nare taken into account.",
+  "extract_annotations_from": "If +file+ is the filename of a file that contains annotations this method returns\na hash with a single entry that maps +file+ to an array of its annotations.\nOtherwise it returns an empty hash.",
+  "display": "Prints the mapping from filenames to annotations in +results+ ordered by filename.\nThe +options+ hash is passed to each annotation's +to_s+."
+}

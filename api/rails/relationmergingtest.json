@@ -1,0 +1,14 @@
+{
+  "test_relation_merging": "",
+  "test_relation_to_sql": "",
+  "test_relation_merging_with_arel_equalities_keeps_last_equality": "",
+  "test_relation_merging_with_arel_equalities_keeps_last_equality_with_non_attribute_left_hand": "",
+  "test_relation_merging_with_eager_load": "",
+  "test_relation_merging_with_locks": "",
+  "test_relation_merging_with_preload": "",
+  "test_relation_merging_with_joins": "",
+  "test_relation_merging_with_association": "",
+  "test_merging_keeps_lhs_bind_parameters": "",
+  "test_merging_reorders_bind_params": "",
+  "test_merging_compares_symbols_and_strings_as_equal": ""
+}

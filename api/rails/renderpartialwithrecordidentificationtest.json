@@ -1,0 +1,9 @@
+{
+  "test_rendering_partial_with_has_many_and_belongs_to_association": "",
+  "test_rendering_partial_with_has_many_association": "",
+  "test_rendering_partial_with_scope": "",
+  "test_render_with_record": "",
+  "test_render_with_record_collection": "",
+  "test_render_with_record_collection_and_spacer_template": "",
+  "test_rendering_partial_with_has_one_association": ""
+}

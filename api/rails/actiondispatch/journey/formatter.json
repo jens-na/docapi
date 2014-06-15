@@ -1,0 +1,14 @@
+{
+  "routes": ":nodoc:",
+  "initialize": "",
+  "generate": "",
+  "clear": "",
+  "extract_parameterized_parts": "",
+  "named_routes": "",
+  "match_route": "",
+  "non_recursive": "",
+  "missing_keys": "Returns an array populated with missing keys if any are present.",
+  "possibles": "",
+  "build_cache": "",
+  "cache": ""
+}

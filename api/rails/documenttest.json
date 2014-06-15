@@ -1,0 +1,16 @@
+{
+  "test_handle_doctype": "",
+  "test_find_img": "",
+  "test_find_all": "",
+  "test_find_with_text": "",
+  "test_parse_xml": "",
+  "test_parse_document": "",
+  "test_tag_nesting_nothing_to_s": "",
+  "test_tag_nesting_space_to_s": "",
+  "test_tag_nesting_text_to_s": "",
+  "test_tag_nesting_tag_to_s": "",
+  "test_parse_cdata": "",
+  "test_find_empty_tag": "",
+  "test_parse_invalid_document": "",
+  "test_invalid_document_raises_exception_when_strict": ""
+}

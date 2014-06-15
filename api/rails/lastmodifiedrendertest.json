@@ -1,0 +1,14 @@
+{
+  "setup": "",
+  "test_responds_with_last_modified": "",
+  "test_request_not_modified": "",
+  "test_request_not_modified_but_etag_differs": "",
+  "test_request_modified": "",
+  "test_responds_with_last_modified_with_record": "",
+  "test_request_not_modified_with_record": "",
+  "test_request_not_modified_but_etag_differs_with_record": "",
+  "test_request_modified_with_record": "",
+  "test_request_with_bang_gets_last_modified": "",
+  "test_request_with_bang_obeys_last_modified": "",
+  "test_last_modified_works_with_less_than_too": ""
+}

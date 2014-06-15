@@ -1,0 +1,4 @@
+{
+  "missing_name": "Extract the name of the missing constant from the exception message.",
+  "missing_name?": "Was this exception raised because the given name was missing?"
+}

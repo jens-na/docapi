@@ -1,0 +1,10 @@
+{
+  "make_builder_class": "",
+  "test_construction": "",
+  "test_add_gem": "",
+  "test_add_gem_with_version": "",
+  "test_add_github_gem": "",
+  "test_add_path_gem": "",
+  "test_filter": "",
+  "test_two_filters": ""
+}

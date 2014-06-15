@@ -1,0 +1,19 @@
+{
+  "ship_log": "",
+  "reject_empty_ships_on_create": "",
+  "cancel_save_from_callback": "Returns the value of attribute cancel_save_from_callback",
+  "cancel_save_from_callback=": "Sets the attribute cancel_save_from_callback",
+  "parrots_limit": "Returns the value of attribute parrots_limit",
+  "parrots_limit=": "Sets the attribute parrots_limit",
+  "cancel_save_callback_method": "",
+  "log_before_add": "",
+  "log_after_add": "",
+  "log_before_remove": "",
+  "log_after_remove": "",
+  "log": "",
+  "detected_changes_in_after_update": "Returns the value of attribute detected_changes_in_after_update",
+  "detected_changes_in_after_update=": "Sets the attribute detected_changes_in_after_update",
+  "changes_detected_in_after_update": "Boolean for if changes are detected\nActual changes",
+  "changes_detected_in_after_update=": "Boolean for if changes are detected\nActual changes",
+  "check_changes": "after_save/update and the model itself\ncan end up checking dirty status and acting on the results"
+}

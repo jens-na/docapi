@@ -1,0 +1,8 @@
+{
+  "scope_after_initialize": "Returns the value of attribute scope_after_initialize",
+  "attributes_after_initialize": "Returns the value of attribute attributes_after_initialize",
+  "record_scope_after_initialize": "",
+  "record_attributes_after_initialize": "",
+  "color=": "",
+  "new": ""
+}

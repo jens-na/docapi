@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "test_not_eq": "",
+  "test_not_null": "",
+  "test_not_with_nil": "",
+  "test_not_in": "",
+  "test_association_not_eq": "",
+  "test_not_eq_with_preceding_where": "",
+  "test_not_eq_with_succeeding_where": "",
+  "test_not_eq_with_string_parameter": "",
+  "test_not_eq_with_array_parameter": "",
+  "test_chaining_multiple": "",
+  "test_rewhere_with_one_condition": "",
+  "test_rewhere_with_multiple_overwriting_conditions": "",
+  "assert_bound_ast": "",
+  "test_rewhere_with_one_overwriting_condition_and_one_unrelated": ""
+}

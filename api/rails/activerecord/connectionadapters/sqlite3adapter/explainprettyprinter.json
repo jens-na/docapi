@@ -1,0 +1,3 @@
+{
+  "pp": "Pretty prints the result of a EXPLAIN QUERY PLAN in a way that resembles\nthe output of the SQLite shell:\n\n  0|0|0|SEARCH TABLE users USING INTEGER PRIMARY KEY (rowid=?) (~1 rows)\n  0|1|1|SCAN TABLE posts (~100000 rows)"
+}

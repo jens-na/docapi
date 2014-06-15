@@ -1,0 +1,6 @@
+{
+  "test_transliterate_should_not_change_ascii_chars": "",
+  "test_transliterate_should_approximate_ascii": "",
+  "test_transliterate_should_work_with_custom_i18n_rules_and_uncomposed_utf8": "",
+  "test_transliterate_should_allow_a_custom_replacement_char": ""
+}

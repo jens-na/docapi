@@ -1,0 +1,19 @@
+{
+  "@@cache": "",
+  "@@digest_monitor": "",
+  "digest": "",
+  "compute_and_store_digest": "called under @@digest_monitor lock",
+  "name": "Returns the value of attribute name",
+  "finder": "Returns the value of attribute finder",
+  "options": "Returns the value of attribute options",
+  "initialize": "",
+  "dependencies": "",
+  "nested_dependencies": "",
+  "logger": "",
+  "logical_name": "",
+  "partial?": "",
+  "template": "",
+  "source": "",
+  "dependency_digest": "",
+  "injected_dependencies": ""
+}

@@ -1,0 +1,8 @@
+{
+  "InvalidSignature": "",
+  "initialize": "",
+  "verify": "",
+  "generate": "",
+  "secure_compare": "constant-time comparison algorithm to prevent timing attacks",
+  "generate_digest": ""
+}

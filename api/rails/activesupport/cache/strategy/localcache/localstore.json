@@ -1,0 +1,8 @@
+{
+  "initialize": "",
+  "synchronize": "Don't allow synchronizing since it isn't thread safe,",
+  "clear": "",
+  "read_entry": "",
+  "write_entry": "",
+  "delete_entry": ""
+}

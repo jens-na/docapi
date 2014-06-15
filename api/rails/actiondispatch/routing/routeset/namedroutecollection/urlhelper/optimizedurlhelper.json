@@ -1,0 +1,10 @@
+{
+  "arg_size": "Returns the value of attribute arg_size",
+  "initialize": "",
+  "call": "",
+  "optimized_helper": "",
+  "optimize_routes_generation?": "",
+  "parameterize_args": "",
+  "missing_keys": "",
+  "raise_generation_error": ""
+}

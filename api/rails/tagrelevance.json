@@ -1,0 +1,10 @@
+{
+  "id": "Returns the value of attribute id",
+  "tag_id": "Returns the value of attribute tag_id",
+  "initialize": "",
+  "to_key": "",
+  "save": "",
+  "persisted?": "",
+  "to_param": "",
+  "value": ""
+}

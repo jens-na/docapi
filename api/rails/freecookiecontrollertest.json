@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_should_not_render_form_with_token_tag": "",
+  "test_should_not_render_button_to_with_token_tag": "",
+  "test_should_allow_all_methods_without_token": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "Returns the value of attribute type",
+  "type=": "Sets the attribute type",
+  "initialize": "",
+  "identifier": "",
+  "inspect": "",
+  "to_str": "",
+  "render": "",
+  "formats": ""
+}

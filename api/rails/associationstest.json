@@ -1,0 +1,14 @@
+{
+  "test_eager_loading_should_not_change_count_of_children": "",
+  "test_clear_association_cache_stored": "",
+  "test_clear_association_cache_new_record": "",
+  "test_loading_the_association_target_should_keep_child_records_marked_for_destruction": "",
+  "test_loading_the_association_target_should_load_most_recent_attributes_for_child_records_marked_for_destruction": "",
+  "test_include_with_order_works": "",
+  "test_bad_collection_keys": "",
+  "test_should_construct_new_finder_sql_after_create": "",
+  "test_force_reload": "",
+  "test_using_limitable_reflections_helper": "",
+  "test_force_reload_is_uncached": "",
+  "test_association_with_references": ""
+}

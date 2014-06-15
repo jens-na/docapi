@@ -1,0 +1,12 @@
+{
+  "test_help_with_inherited_options": "",
+  "test_files_from_inherited_invocation": "",
+  "test_inherited_invocations_with_attributes": "",
+  "test_resource_controller_with_pluralized_class_name": "",
+  "test_resource_controller_with_actions": "",
+  "test_resource_routes_are_added": "",
+  "test_plural_names_are_singularized": "",
+  "test_plural_names_can_be_forced": "",
+  "test_mass_nouns_do_not_throw_warnings": "",
+  "test_route_is_removed_on_revoke": ""
+}

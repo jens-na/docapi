@@ -1,0 +1,19 @@
+{
+  "what_are_you": "",
+  "search_by_type": "",
+  "all_as_method": "",
+  "to_s": "",
+  "id": "Returns the value of attribute id",
+  "post_id": "Returns the value of attribute post_id",
+  "initialize": "",
+  "to_key": "",
+  "save": "",
+  "persisted?": "",
+  "to_param": "",
+  "name": "",
+  "relevances": "Returns the value of attribute relevances",
+  "relevances=": "Sets the attribute relevances",
+  "relevances_attributes=": "",
+  "body": "Returns the value of attribute body",
+  "body=": "Sets the attribute body"
+}

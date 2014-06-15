@@ -1,0 +1,23 @@
+{
+  "pool": "Returns the value of attribute pool",
+  "setup": "",
+  "active_connections": "",
+  "test_checkout_after_close": "",
+  "test_released_connection_moves_between_threads": "",
+  "test_with_connection": "",
+  "test_active_connection_in_use": "",
+  "test_full_pool_exception": "",
+  "test_full_pool_blocks": "",
+  "test_removing_releases_latch": "",
+  "test_reap_and_active": "",
+  "test_reap_inactive": "",
+  "test_remove_connection": "",
+  "test_remove_connection_for_thread": "",
+  "test_active_connection?": "",
+  "test_checkout_behaviour": "",
+  "test_checkout_fairness": "The connection pool is \"fair\" if threads waiting for\nconnections receive them the order in which they began\nwaiting.  This ensures that we don't timeout one HTTP request\neven while well under capacity in a multi-threaded environment\nsuch as a Java servlet container.\n\nWe don't need strict fairness: if two connections become\navailable at the same time, it's fine of two threads that were\nwaiting acquire the connections out of order.\n\nThus this test prepares waiting threads and then trickles in\navailable connections slowly, ensuring the wakeup order is\ncorrect in this case.",
+  "test_checkout_fairness_by_group": "As mentioned in #test_checkout_fairness, we don't care about\nstrict fairness.  This test creates two groups of threads:\ngroup1 whose members all start waiting before any thread in\ngroup2.  Enough connections are checked in to wakeup all\ngroup1 threads, and the fact that only group1 and no group2\nthreads acquired a connection is enforced.",
+  "test_automatic_reconnect=": "",
+  "test_pool_sets_connection_visitor": "",
+  "test_anonymous_class_exception": "make sure exceptions are thrown when establish_connection\nis called with an anonymous class"
+}

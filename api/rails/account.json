@@ -1,0 +1,7 @@
+{
+  "sanitize_for_mass_assignment": "",
+  "destroyed_account_ids": "",
+  "open": "Test private kernel method through collection proxy using has_many.",
+  "check_empty_credit_limit": "",
+  "private_method": ""
+}

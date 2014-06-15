@@ -1,0 +1,19 @@
+{
+  "scope": "",
+  "BindSubstitution": "",
+  "create": "",
+  "initialize": "",
+  "INSTANCE": "",
+  "join_type": "",
+  "get_bind_values": "",
+  "construct_tables": "",
+  "table_alias_for": "",
+  "join": "",
+  "column_for": "",
+  "bind_value": "",
+  "bind": "",
+  "add_constraints": "",
+  "alias_suffix": "",
+  "table_name_for": "",
+  "eval_scope": ""
+}

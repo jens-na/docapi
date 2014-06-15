@@ -1,0 +1,10 @@
+{
+  "routes": "Returns the value of attribute routes",
+  "set": "Returns the value of attribute routes",
+  "initialize": "",
+  "resources_path_names": "",
+  "request_class": "",
+  "add_route": "",
+  "conditions": "",
+  "requirements": ""
+}

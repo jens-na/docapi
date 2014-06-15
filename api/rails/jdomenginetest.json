@@ -1,0 +1,22 @@
+{
+  "FILES_DIR": "",
+  "setup": "",
+  "teardown": "",
+  "test_file_from_xml": "",
+  "test_not_allowed_to_expand_entities_to_files": "",
+  "test_not_allowed_to_expand_parameter_entities_to_files": "",
+  "test_not_allowed_to_load_external_doctypes": "",
+  "test_exception_thrown_on_expansion_attack": "",
+  "test_setting_JDOM_as_backend": "",
+  "test_blank_returns_empty_hash": "",
+  "test_array_type_makes_an_array": "",
+  "test_one_node_document_as_hash": "",
+  "test_one_node_with_attributes_document_as_hash": "",
+  "test_products_node_with_book_node_as_hash": "",
+  "test_products_node_with_two_book_nodes_as_hash": "",
+  "test_single_node_with_content_as_hash": "",
+  "test_children_with_children": "",
+  "test_children_with_text": "",
+  "test_children_with_non_adjacent_text": "",
+  "assert_equal_rexml": ""
+}

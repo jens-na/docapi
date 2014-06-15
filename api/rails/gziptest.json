@@ -1,0 +1,5 @@
+{
+  "test_compress_should_decompress_to_the_same_value": "",
+  "test_compress_should_return_a_binary_string": "",
+  "test_compress_should_return_gzipped_string_by_compression_level": ""
+}

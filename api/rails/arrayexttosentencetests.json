@@ -1,0 +1,11 @@
+{
+  "test_plain_array_to_sentence": "",
+  "test_to_sentence_with_words_connector": "",
+  "test_to_sentence_with_last_word_connector": "",
+  "test_two_elements": "",
+  "test_one_element": "",
+  "test_one_element_not_same_object": "",
+  "test_one_non_string_element": "",
+  "test_does_not_modify_given_hash": "",
+  "test_with_blank_elements": ""
+}

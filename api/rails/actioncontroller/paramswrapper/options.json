@@ -1,0 +1,17 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "format=": "Sets the attribute format",
+  "format": "Returns the value of attribute format",
+  "include=": "Sets the attribute include",
+  "include": "Returns the value of attribute include",
+  "exclude=": "Sets the attribute exclude",
+  "exclude": "Returns the value of attribute exclude",
+  "klass=": "Sets the attribute klass",
+  "klass": "Returns the value of attribute klass",
+  "model=": "Sets the attribute model",
+  "model": "Returns the value of attribute model",
+  "from_hash": "",
+  "initialize": "nodoc",
+  "_default_wrap_model": "Determine the wrapper model from the controller's name. By convention,\nthis could be done by trying to find the defined model that has the\nsame singularize name as the controller. For example, +UsersController+\nwill try to find if the +User+ model exists.\n\nThis method also does namespace lookup. Foo::Bar::UsersController will\ntry to find Foo::Bar::User, Foo::User and finally User."
+}

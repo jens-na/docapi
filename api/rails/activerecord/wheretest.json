@@ -1,0 +1,23 @@
+{
+  "test_where_copies_bind_params": "",
+  "test_rewhere_on_root": "",
+  "test_belongs_to_shallow_where": "",
+  "test_belongs_to_nil_where": "",
+  "test_belongs_to_array_value_where": "",
+  "test_belongs_to_nested_relation_where": "",
+  "test_belongs_to_nested_where": "",
+  "test_polymorphic_shallow_where": "",
+  "test_polymorphic_nested_array_where": "",
+  "test_polymorphic_nested_relation_where": "",
+  "test_polymorphic_sti_shallow_where": "",
+  "test_polymorphic_nested_where": "",
+  "test_polymorphic_sti_nested_where": "",
+  "test_decorated_polymorphic_where": "",
+  "test_aliased_attribute": "",
+  "test_where_error": "",
+  "test_where_with_table_name": "",
+  "test_where_with_table_name_and_empty_hash": "",
+  "test_where_with_table_name_and_empty_array": "",
+  "test_where_with_empty_hash_and_no_foreign_key": "",
+  "test_where_with_blank_conditions": ""
+}

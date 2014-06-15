@@ -1,0 +1,12 @@
+{
+  "test_to_yaml_with_time_with_zone_should_not_raise_exception": "",
+  "test_roundtrip": "",
+  "test_roundtrip_serialized_column": "",
+  "test_psych_roundtrip": "",
+  "test_psych_roundtrip_new_object": "",
+  "test_active_record_relation_serialization": "",
+  "test_raw_types_are_not_changed_on_round_trip": "",
+  "test_cast_types_are_not_changed_on_round_trip": "",
+  "test_new_records_remain_new_after_round_trip": "",
+  "test_types_of_virtual_columns_are_not_changed_on_round_trip": ""
+}

@@ -1,0 +1,8 @@
+{
+  "initialize": "if parent.rb is autoloaded, the stack will look like [[Object]]. If\nparent.rb then requires namespace/child.rb, the stack will look like\n[[Object], [Namespace]].",
+  "each": "",
+  "watching?": "",
+  "new_constants": "Returns a list of new constants found since the last call to\n<tt>watch_namespaces</tt>.",
+  "watch_namespaces": "Add a set of modules to the watch stack, remembering the initial\nconstants.",
+  "pop_modules": ""
+}

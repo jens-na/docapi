@@ -1,0 +1,12 @@
+{
+  "ignored_sql": "Returns the value of attribute ignored_sql",
+  "ignored_sql=": "Sets the attribute ignored_sql",
+  "log": "Returns the value of attribute log",
+  "log=": "Sets the attribute log",
+  "log_all": "Returns the value of attribute log_all",
+  "log_all=": "Sets the attribute log_all",
+  "clear_log": "",
+  "ignore": "Returns the value of attribute ignore",
+  "initialize": "",
+  "call": ""
+}

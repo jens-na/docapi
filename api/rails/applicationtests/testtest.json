@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "teardown": "",
+  "assert_unsuccessful_run": "",
+  "assert_successful_test_run": "",
+  "run_test_file": "",
+  "ruby": "",
+  "env_string": ""
+}

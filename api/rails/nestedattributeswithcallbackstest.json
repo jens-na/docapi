@@ -1,0 +1,13 @@
+{
+  "setup": "",
+  "bird_to_update": "",
+  "bird_to_destroy": "",
+  "existing_birds_attributes": "",
+  "new_birds": "",
+  "new_bird_attributes": "",
+  "destroy_bird_attributes": "",
+  "update_new_and_destroy_bird_attributes": "",
+  "assert_new_bird_with_callback_called": "",
+  "assert_callbacks_not_called": "",
+  "assert_assignment_affects_records_in_target": ""
+}

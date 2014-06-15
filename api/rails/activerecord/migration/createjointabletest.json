@@ -1,0 +1,20 @@
+{
+  "connection": "Returns the value of attribute connection",
+  "setup": "",
+  "test_create_join_table": "",
+  "test_create_join_table_set_not_null_by_default": "",
+  "test_create_join_table_with_strings": "",
+  "test_create_join_table_with_symbol_and_string": "",
+  "test_create_join_table_with_the_proper_order": "",
+  "test_create_join_table_with_the_table_name": "",
+  "test_create_join_table_with_the_table_name_as_string": "",
+  "test_create_join_table_with_column_options": "",
+  "test_create_join_table_without_indexes": "",
+  "test_create_join_table_with_index": "",
+  "test_drop_join_table": "",
+  "test_drop_join_table_with_strings": "",
+  "test_drop_join_table_with_the_proper_order": "",
+  "test_drop_join_table_with_the_table_name": "",
+  "test_drop_join_table_with_the_table_name_as_string": "",
+  "test_drop_join_table_with_column_options": ""
+}

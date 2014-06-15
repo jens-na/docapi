@@ -1,0 +1,17 @@
+{
+  "DisallowedType": "",
+  "DISALLOWED_TYPES": "",
+  "initialize": "",
+  "to_h": "",
+  "normalize_keys": "",
+  "deep_to_h": "",
+  "process_hash": "",
+  "become_content?": "",
+  "become_array?": "",
+  "become_empty_string?": "",
+  "become_hash?": "",
+  "nothing?": "",
+  "garbage?": "",
+  "process_content": "",
+  "process_array": ""
+}

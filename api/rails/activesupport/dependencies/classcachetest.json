@@ -1,0 +1,15 @@
+{
+  "setup": "",
+  "test_empty?": "",
+  "test_clear!": "",
+  "test_set_key": "",
+  "test_get_with_class": "",
+  "test_get_with_name": "",
+  "test_get_constantizes": "",
+  "test_get_constantizes_fails_on_invalid_names": "",
+  "test_get_alias": "",
+  "test_safe_get_constantizes": "",
+  "test_safe_get_constantizes_doesnt_fail_on_invalid_names": "",
+  "test_new_rejects_strings": "",
+  "test_store_returns_self": ""
+}

@@ -1,0 +1,17 @@
+{
+  "FakeCollection": "",
+  "Proxy": "",
+  "DoubtfulToAry": "",
+  "NilToAry": "",
+  "test_array": "",
+  "test_nil": "",
+  "test_object": "",
+  "test_string": "",
+  "test_string_with_newline": "",
+  "test_object_with_to_ary": "",
+  "test_proxy_object": "",
+  "test_proxy_to_object_with_to_ary": "",
+  "test_struct": "",
+  "test_wrap_returns_wrapped_if_to_ary_returns_nil": "",
+  "test_wrap_does_not_complain_if_to_ary_does_not_return_an_array": ""
+}

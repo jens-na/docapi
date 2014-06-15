@@ -1,0 +1,12 @@
+{
+  "history": "Returns the value of attribute history",
+  "saved": "Returns the value of attribute saved",
+  "halted": "Returns the value of attribute halted",
+  "initialize": "",
+  "around_it": "",
+  "first": "",
+  "second": "",
+  "third": "",
+  "save": "",
+  "halted_callback_hook": ""
+}

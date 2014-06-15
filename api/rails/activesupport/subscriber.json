@@ -1,0 +1,14 @@
+{
+  "attach_to": "Attach the subscriber to a namespace.",
+  "method_added": "Adds event subscribers for all new methods added to the class.",
+  "subscribers": "",
+  "subscriber": "Returns the value of attribute subscriber",
+  "notifier": "Returns the value of attribute notifier",
+  "namespace": "Returns the value of attribute namespace",
+  "add_event_subscriber": "",
+  "patterns": ":nodoc:",
+  "initialize": "",
+  "start": "",
+  "finish": "",
+  "event_stack": ""
+}

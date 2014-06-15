@@ -1,0 +1,10 @@
+{
+  "setup": "",
+  "test_establishes_connection_without_database": "",
+  "test_creates_database_with_default_encoding_and_collation": "",
+  "test_creates_database_with_given_encoding_and_default_collation": "",
+  "test_creates_database_with_given_encoding_and_no_collation": "",
+  "test_creates_database_with_given_collation_and_no_encoding": "",
+  "test_establishes_connection_to_database": "",
+  "test_create_when_database_exists_outputs_info_to_stderr": ""
+}

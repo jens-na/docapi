@@ -1,0 +1,5 @@
+{
+  "setup": "",
+  "test_ensure_url_for_works_as_expected_when_called_with_no_options_if_default_url_options_is_not_set": "",
+  "test_named_routes_with_path_without_doing_a_request_first": ""
+}

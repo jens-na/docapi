@@ -1,0 +1,5 @@
+{
+  "source": "Returns the value of attribute source",
+  "handler": "Returns the value of attribute handler",
+  "initialize": ""
+}

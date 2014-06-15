@@ -1,0 +1,9 @@
+{
+  "normalize_path": "Normalizes URI path.\n\nStrips off trailing slash and ensures there is a leading slash.\nAlso converts downcase url encoded string to uppercase.\n\n  normalize_path(\"/foo\")  # => \"/foo\"\n  normalize_path(\"/foo/\") # => \"/foo\"\n  normalize_path(\"foo\")   # => \"/foo\"\n  normalize_path(\"\")      # => \"/\"\n  normalize_path(\"/%ab\")  # => \"/%AB\"",
+  "UriEncoder": "URI path and fragment escaping\nhttp://tools.ietf.org/html/rfc3986",
+  "ENCODER": "",
+  "escape_path": "",
+  "escape_segment": "",
+  "escape_fragment": "",
+  "unescape_uri": ""
+}

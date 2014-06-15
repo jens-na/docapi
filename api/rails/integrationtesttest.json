@@ -1,0 +1,5 @@
+{
+  "setup": "",
+  "test_opens_new_session": "",
+  "test_does_not_prevent_method_missing_passing_up_to_ancestors": "RSpec mixes Matchers (which has a #method_missing) into\nIntegrationTest's superclass.  Make sure IntegrationTest does not\ntry to delegate these methods to the session object."
+}

@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "test_text_area_with_errors": "",
+  "test_text_field_with_errors": "",
+  "test_select_with_errors": "",
+  "test_select_with_errors_and_blank_option": "",
+  "test_date_select_with_errors": "",
+  "test_datetime_select_with_errors": "",
+  "test_time_select_with_errors": "",
+  "test_hidden_field_does_not_render_errors": "",
+  "test_field_error_proc": ""
+}

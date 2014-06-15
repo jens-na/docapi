@@ -1,0 +1,12 @@
+{
+  "NullSerializer": ":nodoc:",
+  "InvalidMessage": "",
+  "OpenSSLCipherError": "",
+  "initialize": "Initialize a new MessageEncryptor. +secret+ must be at least as long as\nthe cipher key size. For the default 'aes-256-cbc' cipher, this is 256\nbits. If you are using a user-entered secret, you can generate a suitable\nkey with <tt>OpenSSL::Digest::SHA256.new(user_secret).digest</tt> or\nsimilar.\n\nOptions:\n* <tt>:cipher</tt>     - Cipher to use. Can be any cipher returned by\n  <tt>OpenSSL::Cipher.ciphers</tt>. Default is 'aes-256-cbc'.\n* <tt>:serializer</tt> - Object serializer to use. Default is +Marshal+.",
+  "encrypt_and_sign": "Encrypt and sign a message. We need to sign the message in order to avoid\npadding attacks. Reference: http://www.limited-entropy.com/padding-oracle-attacks.",
+  "decrypt_and_verify": "Decrypt and verify a message. We need to verify the message in order to\navoid padding attacks. Reference: http://www.limited-entropy.com/padding-oracle-attacks.",
+  "_encrypt": "",
+  "_decrypt": "",
+  "new_cipher": "",
+  "verifier": ""
+}

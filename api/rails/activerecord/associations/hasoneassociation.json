@@ -1,0 +1,9 @@
+{
+  "handle_dependency": "",
+  "replace": "",
+  "delete": "",
+  "set_new_record": "The reason that the save param for replace is false, if for create (not just build),\nis because the setting of the foreign keys is actually handled by the scoping when\nthe record is instantiated, and so they are set straight away and do not need to be\nupdated within replace.",
+  "remove_target!": "",
+  "nullify_owner_attributes": "",
+  "transaction_if": ""
+}

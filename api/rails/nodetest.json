@@ -1,0 +1,15 @@
+{
+  "MockNode": "",
+  "setup": "",
+  "test_match": "",
+  "test_tag": "",
+  "test_to_s": "",
+  "test_find": "",
+  "test_parse_strict": "",
+  "test_parse_relaxed": "",
+  "test_to_s_with_boolean_attrs": "",
+  "test_parse_with_unclosed_tag": "",
+  "test_parse_with_valid_cdata_section": "",
+  "test_parse_strict_with_unterminated_cdata_section": "",
+  "test_parse_relaxed_with_unterminated_cdata_section": ""
+}

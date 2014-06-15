@@ -1,0 +1,5 @@
+{
+  "valid_options": "",
+  "define_accessors": "",
+  "define_constructors": "Defines the (build|create)_association methods for belongs_to or has_one association"
+}

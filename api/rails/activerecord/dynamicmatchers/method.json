@@ -1,0 +1,14 @@
+{
+  "matchers": "Returns the value of attribute matchers",
+  "match": "",
+  "pattern": "",
+  "prefix": "",
+  "suffix": "",
+  "model": "Returns the value of attribute model",
+  "name": "Returns the value of attribute name",
+  "attribute_names": "Returns the value of attribute attribute_names",
+  "initialize": "",
+  "valid?": "",
+  "define": "",
+  "body": ""
+}

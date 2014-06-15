@@ -1,0 +1,12 @@
+{
+  "blank_setup": "",
+  "ar_setup_fixtures": "",
+  "setup_fixtures": "",
+  "setup": "",
+  "blank_teardown": "",
+  "ar_teardown_fixtures": "",
+  "teardown_fixtures": "",
+  "teardown": "",
+  "test_no_rollback_in_teardown_unless_transaction_active": "",
+  "load_fixtures": ""
+}

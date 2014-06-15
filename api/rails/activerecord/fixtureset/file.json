@@ -1,0 +1,8 @@
+{
+  "open": "Open a fixture file named +file+.  When called with a block, the block\nis called with the filehandle and the filehandle is automatically closed\nwhen the block finishes.",
+  "initialize": "",
+  "each": "",
+  "rows": "",
+  "render": "",
+  "validate": "Validate our unmarshalled data."
+}

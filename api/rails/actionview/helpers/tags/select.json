@@ -1,0 +1,5 @@
+{
+  "initialize": "",
+  "render": "",
+  "grouped_choices?": "Grouped choices look like this:\n\n  [nil, []]\n  { nil => [] }"
+}

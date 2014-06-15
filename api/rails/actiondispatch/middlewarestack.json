@@ -1,0 +1,21 @@
+{
+  "Middleware": "",
+  "middlewares": "Returns the value of attribute middlewares",
+  "middlewares=": "Sets the attribute middlewares",
+  "initialize": "",
+  "each": "",
+  "size": "",
+  "last": "",
+  "[]": "",
+  "unshift": "",
+  "initialize_copy": "",
+  "insert": "",
+  "insert_before": "",
+  "insert_after": "",
+  "swap": "",
+  "delete": "",
+  "use": "",
+  "build": "",
+  "assert_index": "",
+  "MiddlewareTest": ""
+}

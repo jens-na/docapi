@@ -1,0 +1,8 @@
+{
+  "to_yaml_type": "",
+  "encode_with": "",
+  "select": "",
+  "reject": "",
+  "nested_under_indifferent_access": "",
+  "extractable_options?": "Returns true to make sure that this hash is extractable via <tt>Array#extract_options!</tt>"
+}

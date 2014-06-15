@@ -1,0 +1,13 @@
+{
+  "UrlHelperController": "",
+  "test_url_for_shows_only_path": "",
+  "test_overridden_url_for_shows_only_path": "",
+  "test_named_route_url_shows_host_and_path": "",
+  "test_named_route_path_shows_only_path": "",
+  "test_url_for_nil_returns_current_path": "",
+  "test_named_route_should_show_host_and_path_using_controller_default_url_options": "",
+  "test_recall_params_should_be_normalized": "",
+  "test_recall_params_should_not_be_changed": "",
+  "test_recall_params_should_normalize_id": "",
+  "test_url_helper_can_be_overridden": ""
+}

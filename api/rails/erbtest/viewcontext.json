@@ -1,0 +1,7 @@
+{
+  "output_buffer": "Returns the value of attribute output_buffer",
+  "output_buffer=": "Sets the attribute output_buffer",
+  "controller": "Returns the value of attribute controller",
+  "controller=": "Sets the attribute controller",
+  "protect_against_forgery?": ""
+}

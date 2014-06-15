@@ -1,0 +1,10 @@
+{
+  "target=": "Sets the attribute target",
+  "target": "Returns the value of attribute target",
+  "halted=": "Sets the attribute halted",
+  "halted": "Returns the value of attribute halted",
+  "value=": "Sets the attribute value",
+  "value": "Returns the value of attribute value",
+  "run_block=": "Sets the attribute run_block",
+  "run_block": "Returns the value of attribute run_block"
+}

@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "test_create_tables": "create tables with reserved-word names and columns",
+  "test_rename_tables": "rename tables with reserved-word names",
+  "test_change_columns": "alter column with a reserved-word name in a table with a reserved-word name",
+  "test_introspect": "introspect table with reserved word name",
+  "test_activerecord_model": "activerecord model class with reserved-word table name",
+  "test_has_one_associations": "has_one association with reserved-word table name",
+  "test_belongs_to_associations": "belongs_to association with reserved-word table name",
+  "test_has_and_belongs_to_many": "has_and_belongs_to_many with reserved-word table name",
+  "test_activerecord_introspection": "activerecord model introspection with reserved-word table and column names",
+  "test_calculations_work_with_reserved_words": "Calculations",
+  "test_associations_work_with_reserved_words": "",
+  "create_test_fixtures": "custom fixture loader, uses FixtureSet#create_fixtures and appends base_path to the current file's path",
+  "drop_tables_directly": "custom drop table, uses execute on connection to drop a table if it exists. note: escapes table_name",
+  "create_tables_directly": "custom create table, uses execute on connection to create a table, note: escapes table_name, does NOT escape columns"
+}

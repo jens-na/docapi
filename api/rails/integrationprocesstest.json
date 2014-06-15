@@ -1,0 +1,17 @@
+{
+  "IntegrationController": "",
+  "test_get": "",
+  "test_post": "",
+  "test_redirect": "",
+  "test_xml_http_request_get": "",
+  "test_request_with_bad_format": "",
+  "test_get_with_query_string": "",
+  "test_get_with_parameters": "",
+  "test_head": "",
+  "test_generate_url_with_controller": "",
+  "test_port_via_host!": "",
+  "test_port_via_process": "",
+  "test_https_and_port_via_host_and_https!": "",
+  "test_https_and_port_via_process": "",
+  "with_test_route_set": ""
+}

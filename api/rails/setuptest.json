@@ -1,0 +1,4 @@
+{
+  "setup": "fixtures :topics",
+  "test_nothing": ""
+}

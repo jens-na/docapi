@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "test_connected": "",
+  "test_proper_connection": "",
+  "test_find": "",
+  "test_associations": "",
+  "test_course_connection_should_survive_dependency_reload": "",
+  "test_transactions_across_databases": "",
+  "test_arel_table_engines": "",
+  "test_connection": "",
+  "test_associations_should_work_when_model_has_no_connection": ""
+}

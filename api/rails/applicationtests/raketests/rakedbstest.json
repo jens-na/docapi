@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "teardown": "",
+  "database_url_db_name": "",
+  "set_database_url": "",
+  "db_create_and_drop": "",
+  "db_migrate_and_status": "",
+  "db_schema_dump": "",
+  "db_fixtures_load": "",
+  "db_structure_dump_and_load": "",
+  "db_test_load_structure": ""
+}

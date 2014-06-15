@@ -1,0 +1,12 @@
+{
+  "Rewriter": "",
+  "setup": "",
+  "test_port": "",
+  "test_protocol_with_and_without_separator": "",
+  "test_user_name_and_password": "",
+  "test_user_name_and_password_with_escape_codes": "",
+  "test_anchor": "",
+  "test_anchor_should_call_to_param": "",
+  "test_anchor_should_be_uri_escaped": "",
+  "test_trailing_slash": ""
+}

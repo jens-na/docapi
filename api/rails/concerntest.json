@@ -1,0 +1,12 @@
+{
+  "Baz": "",
+  "Bar": "",
+  "Foo": "",
+  "setup": "",
+  "test_module_is_included_normally": "",
+  "test_class_methods_are_extended": "",
+  "test_included_block_is_ran": "",
+  "test_modules_dependencies_are_met": "",
+  "test_dependencies_with_multiple_modules": "",
+  "test_raise_on_multiple_included_calls": ""
+}

@@ -1,0 +1,9 @@
+{
+  "make": "Returns the value of attribute make",
+  "make=": "Sets the attribute make",
+  "model": "Returns the value of attribute model",
+  "model=": "Sets the attribute model",
+  "approved": "Returns the value of attribute approved",
+  "approved=": "Sets the attribute approved",
+  "validations": ""
+}

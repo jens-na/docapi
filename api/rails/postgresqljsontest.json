@@ -1,0 +1,20 @@
+{
+  "JsonDataType": "",
+  "setup": "",
+  "test_column": "",
+  "test_default": "",
+  "test_change_table_supports_json": "",
+  "test_cast_value_on_write": "",
+  "test_type_cast_json": "",
+  "test_rewrite": "",
+  "test_select": "",
+  "test_select_multikey": "",
+  "test_null_json": "",
+  "test_select_array_json_value": "",
+  "test_rewrite_array_json_value": "",
+  "test_with_store_accessors": "",
+  "test_duplication_with_store_accessors": "",
+  "test_yaml_round_trip_with_store_accessors": "",
+  "test_update_all": "",
+  "test_changes_in_place": ""
+}

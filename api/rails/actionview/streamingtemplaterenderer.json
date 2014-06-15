@@ -1,0 +1,5 @@
+{
+  "Body": "A valid Rack::Body (i.e. it responds to each).\nIt is initialized with a block that, when called, starts\nrendering the template.",
+  "render_template": "For streaming, instead of rendering a given a template, we return a Body\nobject that responds to each. This object is initialized with a block\nthat knows how to render the template.",
+  "delayed_render": ""
+}

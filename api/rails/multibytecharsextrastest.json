@@ -1,0 +1,21 @@
+{
+  "test_upcase_should_be_unicode_aware": "",
+  "test_downcase_should_be_unicode_aware": "",
+  "test_swapcase_should_be_unicode_aware": "",
+  "test_capitalize_should_be_unicode_aware": "",
+  "test_titleize_should_be_unicode_aware": "",
+  "test_titleize_should_not_affect_characters_that_do_not_case_fold": "",
+  "test_limit_should_not_break_on_blank_strings": "",
+  "test_limit_should_work_on_a_multibyte_string": "",
+  "test_limit_should_work_on_an_ascii_string": "",
+  "test_limit_should_keep_under_the_specified_byte_limit": "",
+  "test_composition_exclusion_is_set_up_properly": "",
+  "test_normalization_C_pri_29": "Test for the Public Review Issue #29, bad explanation of composition might lead to a\nbad implementation: http://www.unicode.org/review/pr-29.html",
+  "test_normalization_shouldnt_strip_null_bytes": "",
+  "test_simple_normalization": "",
+  "test_should_compute_grapheme_length": "",
+  "test_tidy_bytes_should_tidy_bytes": "",
+  "test_tidy_bytes_should_forcibly_tidy_bytes_if_specified": "",
+  "test_class_is_not_forwarded": "",
+  "string_from_classes": ""
+}

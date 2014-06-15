@@ -1,0 +1,11 @@
+{
+  "macro": "",
+  "valid_options": "",
+  "valid_dependent_options": "",
+  "define_callbacks": "",
+  "define_accessors": "",
+  "add_counter_cache_methods": "",
+  "add_counter_cache_callbacks": "",
+  "touch_record": ":nodoc:",
+  "add_touch_callbacks": ""
+}

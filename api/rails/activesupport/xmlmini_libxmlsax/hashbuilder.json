@@ -1,0 +1,12 @@
+{
+  "CONTENT_KEY": "",
+  "HASH_SIZE_KEY": "",
+  "hash": "Returns the value of attribute hash",
+  "current_hash": "",
+  "on_start_document": "",
+  "on_end_document": "",
+  "on_start_element": "",
+  "on_end_element": "",
+  "on_characters": "",
+  "on_cdata_block": ""
+}

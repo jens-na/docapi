@@ -1,0 +1,15 @@
+{
+  "test_controller_skeleton_is_created": "",
+  "test_dont_use_require_or_permit_if_there_are_no_attributes": "",
+  "test_controller_permit_references_attributes": "",
+  "test_controller_permit_polymorphic_references_attributes": "",
+  "test_helper_are_invoked_with_a_pluralized_name": "",
+  "test_views_are_generated": "",
+  "test_functional_tests": "",
+  "test_functional_tests_without_attributes": "",
+  "test_skip_helper_if_required": "",
+  "test_skip_layout_if_required": "",
+  "test_default_orm_is_used": "",
+  "test_customized_orm_is_used": "",
+  "test_model_name_option": ""
+}

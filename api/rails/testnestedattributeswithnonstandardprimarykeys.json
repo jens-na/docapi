@@ -1,0 +1,5 @@
+{
+  "setup": "",
+  "test_should_update_existing_records_with_non_standard_primary_key": "",
+  "test_attr_accessor_of_child_should_be_value_provided_during_update": ""
+}

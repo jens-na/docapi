@@ -1,0 +1,7 @@
+{
+  "attributes": ":nodoc:",
+  "initialize": "Returns a new validator instance. All options will be available via the\n+options+ reader, however the <tt>:attributes</tt> option will be removed\nand instead be made available through the +attributes+ reader.",
+  "validate": "Performs validation on the supplied record. By default this will call\n+validates_each+ to determine validity therefore subclasses should\noverride +validates_each+ with validation logic.",
+  "validate_each": "Override this method in subclasses with the validation logic, adding\nerrors to the records +errors+ array where necessary.",
+  "check_validity!": "Hook method that gets called by the initializer allowing verification\nthat the arguments supplied are valid. You could for example raise an\n+ArgumentError+ when invalid options are supplied."
+}

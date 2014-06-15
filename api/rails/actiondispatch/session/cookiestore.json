@@ -1,0 +1,12 @@
+{
+  "initialize": "",
+  "destroy_session": "",
+  "load_session": "",
+  "extract_session_id": "",
+  "unpacked_cookie_data": "",
+  "persistent_session_id!": "",
+  "set_session": "",
+  "set_cookie": "",
+  "get_cookie": "",
+  "cookie_jar": ""
+}

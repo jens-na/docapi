@@ -1,0 +1,3 @@
+{
+  "compile_methods!": "Compiles reader methods so we don't have to go through method_missing."
+}

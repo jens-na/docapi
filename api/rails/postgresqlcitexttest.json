@@ -1,0 +1,9 @@
+{
+  "Citext": "",
+  "setup": "",
+  "test_citext_enabled": "",
+  "test_column": "",
+  "test_change_table_supports_json": "",
+  "test_write": "",
+  "test_select_case_insensitive": ""
+}

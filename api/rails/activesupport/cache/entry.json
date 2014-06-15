@@ -1,0 +1,15 @@
+{
+  "DEFAULT_COMPRESS_LIMIT": ":nodoc:",
+  "initialize": "Create a new cache entry for the specified value. Options supported are\n+:compress+, +:compress_threshold+, and +:expires_in+.",
+  "value": "",
+  "expired?": "Check if the entry is expired. The +expires_in+ parameter can override\nthe value set when the entry was created.",
+  "expires_at": "",
+  "expires_at=": "",
+  "size": "Returns the size of the cached value. This could be less than\n<tt>value.size</tt> if the data is compressed.",
+  "dup_value!": "Duplicate the value in a class. This is used by cache implementations that don't natively\nserialize entries to protect against accidental cache modifications.",
+  "should_compress?": "",
+  "compressed?": "",
+  "compress": "",
+  "uncompress": "",
+  "convert_version_4beta1_entry!": "The internals of this method changed between Rails 3.x and 4.0. This method provides the glue\nto ensure that cache entries created under the old version still work with the new class definition."
+}

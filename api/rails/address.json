@@ -1,0 +1,17 @@
+{
+  "street": "Returns the value of attribute street",
+  "city": "Returns the value of attribute city",
+  "country": "Returns the value of attribute country",
+  "initialize": "",
+  "close_to?": "",
+  "==": "",
+  "street=": "Sets the attribute street",
+  "city=": "Sets the attribute city",
+  "state": "Returns the value of attribute state",
+  "state=": "Sets the attribute state",
+  "zip": "Returns the value of attribute zip",
+  "zip=": "Sets the attribute zip",
+  "apt_number": "Returns the value of attribute apt_number",
+  "apt_number=": "Sets the attribute apt_number",
+  "attributes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "DEFAULT_CHARSET": "",
+  "DEFAULT_COLLATION": "",
+  "ACCESS_DENIED_ERROR": "",
+  "initialize": "",
+  "create": "",
+  "drop": "",
+  "purge": "",
+  "charset": "",
+  "collation": "",
+  "structure_dump": "",
+  "structure_load": "",
+  "configuration": "",
+  "configuration_without_database": "",
+  "creation_options": "",
+  "error_class": "",
+  "grant_statement": "",
+  "root_configuration_without_database": "",
+  "root_password": "",
+  "prepare_command_options": ""
+}

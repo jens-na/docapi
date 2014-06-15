@@ -1,0 +1,8 @@
+{
+  "VALID_IP": "This constant contains a regular expression that validates every known\nform of IP v4 and v6 address, with or without abbreviations, adapted\nfrom {this gist}[https://gist.github.com/gazay/1289635].",
+  "initialize": "",
+  "calculate_ip": "Sort through the various IP address headers, looking for the IP most\nlikely to be the address of the actual remote client making this\nrequest.\n\nREMOTE_ADDR will be correct if the request is made directly against the\nRuby process, on e.g. Heroku. When the request is proxied by another\nserver like HAProxy or NGINX, the IP address that made the original\nrequest will be put in an X-Forwarded-For header. If there are multiple\nproxies, that header may contain a list of IPs. Other proxy services\nset the Client-Ip header instead, so we check that too.\n\nAs discussed in {this post about Rails IP Spoofing}[http://blog.gingerlime.com/2012/rails-ip-spoofing-vulnerabilities-and-protection/],\nwhile the first IP in the list is likely to be the \"originating\" IP,\nit could also have been set by the client maliciously.\n\nIn order to find the first address that is (probably) accurate, we\ntake the list of IPs, remove known and trusted proxies, and then take\nthe last address left, which was presumably set by one of those proxies.",
+  "to_s": "Memoizes the value returned by #calculate_ip and returns it for\nActionDispatch::Request to use.",
+  "ips_from": "",
+  "filter_proxies": ""
+}

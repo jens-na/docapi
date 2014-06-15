@@ -1,0 +1,9 @@
+{
+  "table_name=": "Sets the attribute table_name",
+  "table_name": "Returns the value of attribute table_name",
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "connection": "",
+  "relation_delegate_class": "",
+  "attribute_alias?": ""
+}

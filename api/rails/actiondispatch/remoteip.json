@@ -1,0 +1,9 @@
+{
+  "IpSpoofAttackError": "",
+  "TRUSTED_PROXIES": "The default trusted IPs list simply includes IP addresses that are\nguaranteed by the IP specification to be private addresses. Those will\nnot be the ultimate client IP in production, and so are discarded. See\nhttp://en.wikipedia.org/wiki/Private_network for details.",
+  "check_ip": "Returns the value of attribute check_ip",
+  "proxies": "Returns the value of attribute proxies",
+  "initialize": "Create a new +RemoteIp+ middleware instance.\n\nThe +check_ip_spoofing+ option is on by default. When on, an exception\nis raised if it looks like the client is trying to lie about its own IP\naddress. It makes sense to turn off this check on sites aimed at non-IP\nclients (like WAP devices), or behind proxies that set headers in an\nincorrect or confusing way (like AWS ELB).\n\nThe +custom_proxies+ argument can take a regex, which will be used\ninstead of +TRUSTED_PROXIES+, or a string, which will be used in addition\nto +TRUSTED_PROXIES+. Any proxy setup will put the value you want in the\nmiddle (or at the beginning) of the X-Forwarded-For list, with your proxy\nservers after it. If your proxies aren't removed, pass them in via the\n+custom_proxies+ parameter. That way, the middleware will ignore those\nIP addresses, and return the one that you want.",
+  "call": "Since the IP address may not be needed, we store the object here\nwithout calculating the IP to keep from slowing down the majority of\nrequests. For those requests that do need to know the IP, the\nGetIp#calculate_ip method will calculate the memoized client IP address.",
+  "GetIp": "The GetIp class exists as a way to defer processing of the request data\ninto an actual IP address. If the ActionDispatch::Request#remote_ip method\nis called, this class will calculate the value and then memoize it."
+}

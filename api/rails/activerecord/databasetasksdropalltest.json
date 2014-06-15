@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "test_ignores_configurations_without_databases": "",
+  "test_ignores_remote_databases": "",
+  "test_warning_for_remote_databases": "",
+  "test_creates_configurations_with_local_ip": "",
+  "test_creates_configurations_with_local_host": "",
+  "test_creates_configurations_with_blank_hosts": ""
+}

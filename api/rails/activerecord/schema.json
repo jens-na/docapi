@@ -1,0 +1,4 @@
+{
+  "migrations_paths": "Returns the migrations paths.\n\n  ActiveRecord::Schema.new.migrations_paths\n  # => [\"db/migrate\"] # Rails migration path by default.",
+  "define": "Eval the given block. All methods available to the current connection\nadapter are available within the block, so you can easily use the\ndatabase definition DSL to build up your schema (+create_table+,\n+add_index+, etc.).\n\nThe +info+ hash is optional, and if given is used to define metadata\nabout the current schema (currently, only the schema's version):\n\n  ActiveRecord::Schema.define(version: 20380119000001) do\n    ...\n  end"
+}

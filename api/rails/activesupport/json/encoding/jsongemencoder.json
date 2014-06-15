@@ -1,0 +1,11 @@
+{
+  "options": "Returns the value of attribute options",
+  "initialize": "",
+  "encode": "Encode the given object into a JSON string",
+  "ESCAPED_CHARS": "Rails does more escaping than the JSON gem natively does (we\nescape \\u2028 and \\u2029 and optionally >, <, & to work around\ncertain browser problems).",
+  "ESCAPE_REGEX_WITH_HTML_ENTITIES": "",
+  "ESCAPE_REGEX_WITHOUT_HTML_ENTITIES": "",
+  "EscapedString": "This class wraps all the strings we see and does the extra escaping",
+  "jsonify": "Convert an object into a \"JSON-ready\" representation composed of\nprimitives like Hash, Array, String, Numeric, and true/false/nil.\nRecursively calls #as_json to the object to recursively build a\nfully JSON-ready object.\n\nThis allows developers to implement #as_json without having to\nworry about what base types of objects they are allowed to return\nor having to remember to call #as_json recursively.\n\nNote: the +options+ hash passed to +object.to_json+ is only passed\nto +object.as_json+, not any of this method's recursive +#as_json+\ncalls.",
+  "stringify": "Encode a \"jsonified\" Ruby data structure using the JSON gem"
+}

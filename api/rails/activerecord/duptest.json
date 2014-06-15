@@ -1,0 +1,16 @@
+{
+  "test_dup": "",
+  "test_not_readonly": "",
+  "test_is_readonly": "",
+  "test_dup_not_persisted": "",
+  "test_dup_not_destroyed": "",
+  "test_dup_has_no_id": "",
+  "test_dup_with_modified_attributes": "",
+  "test_dup_with_changes": "",
+  "test_dup_topics_are_independent": "",
+  "test_dup_attributes_are_independent": "",
+  "test_dup_timestamps_are_cleared": "",
+  "test_dup_after_initialize_callbacks": "",
+  "test_dup_validity_is_independent": "",
+  "test_dup_with_default_scope": ""
+}

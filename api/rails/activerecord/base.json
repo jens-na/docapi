@@ -1,0 +1,4 @@
+{
+  "pluralize_table_names": "Returns the value of attribute pluralize_table_names",
+  "pluralize_table_names=": "Sets the attribute pluralize_table_names"
+}

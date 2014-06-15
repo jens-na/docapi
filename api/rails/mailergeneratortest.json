@@ -1,0 +1,14 @@
+{
+  "test_mailer_skeleton_is_created": "",
+  "test_mailer_with_i18n_helper": "",
+  "test_check_class_collision": "",
+  "test_invokes_default_test_framework": "",
+  "test_check_test_class_collision": "",
+  "test_check_preview_class_collision": "",
+  "test_invokes_default_text_template_engine": "",
+  "test_invokes_default_html_template_engine": "",
+  "test_invokes_default_template_engine_even_with_no_action": "",
+  "test_logs_if_the_template_engine_cannot_be_found": "",
+  "test_mailer_with_namedspaced_mailer": "",
+  "test_actions_are_turned_into_methods": ""
+}

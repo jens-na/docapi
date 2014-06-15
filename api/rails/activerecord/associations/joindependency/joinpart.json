@@ -1,0 +1,12 @@
+{
+  "base_klass": "The Active Record class which this join part is associated 'about'; for a JoinBase\nthis is the actual base model, for a JoinAssociation this is the target model of the\nassociation.",
+  "children": "The Active Record class which this join part is associated 'about'; for a JoinBase\nthis is the actual base model, for a JoinAssociation this is the target model of the\nassociation.",
+  "initialize": "",
+  "name": "",
+  "match?": "",
+  "each": "",
+  "table": "An Arel::Table for the active_record",
+  "aliased_table_name": "The alias for the active_record's table",
+  "extract_record": "",
+  "instantiate": ""
+}

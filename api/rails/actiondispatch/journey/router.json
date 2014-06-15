@@ -1,0 +1,20 @@
+{
+  "TestUtils": "",
+  "RoutingError": ":nodoc:",
+  "VERSION": ":nodoc:",
+  "routes": "Returns the value of attribute routes",
+  "routes=": "Sets the attribute routes",
+  "initialize": "",
+  "serve": "",
+  "recognize": "",
+  "visualizer": "",
+  "partitioned_routes": "",
+  "ast": "",
+  "simulator": "",
+  "custom_routes": "",
+  "filter_routes": "",
+  "find_routes": "",
+  "get_routes_as_head": "",
+  "Utils": ":nodoc:",
+  "Strexp": ":nodoc:"
+}

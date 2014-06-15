@@ -1,0 +1,12 @@
+{
+  "buffer": "Returns the value of attribute buffer",
+  "logger": "Returns the value of attribute logger",
+  "Buffer": "",
+  "setup": "",
+  "test_without_block": "",
+  "test_defaults": "",
+  "test_with_message": "",
+  "test_within_level": "",
+  "test_outside_level": "",
+  "assert_last_logged": ""
+}

@@ -1,0 +1,8 @@
+{
+  "relation=": "Sets the attribute relation",
+  "relation": "Returns the value of attribute relation",
+  "join_class=": "Sets the attribute join_class",
+  "join_class": "Returns the value of attribute join_class",
+  "on=": "Sets the attribute on",
+  "on": "Returns the value of attribute on"
+}

@@ -1,0 +1,20 @@
+{
+  "accepting": "Returns the value of attribute accepting",
+  "accepting=": "Sets the attribute accepting",
+  "memos": "Returns the value of attribute memos",
+  "initialize": "",
+  "accepting?": "",
+  "accepting_states": "",
+  "add_memo": "",
+  "memo": "",
+  "[]=": "",
+  "merge": "",
+  "states": "",
+  "generalized_table": "Returns a generalized transition graph with reduced states. The states\nare reduced like a DFA, but the table must be simulated like an NFA.\n\nEdges of the GTG are regular expressions.",
+  "following_states": "Returns set of NFA states to which there is a transition on ast symbol\n+a+ from some state +s+ in +t+.",
+  "move": "Returns set of NFA states to which there is a transition on ast symbol\n+a+ from some state +s+ in +t+.",
+  "alphabet": "",
+  "eclosure": "Returns a set of NFA states reachable from some NFA state +s+ in set\n+t+ on nil-transitions alone.",
+  "transitions": "",
+  "inverted": ""
+}

@@ -1,0 +1,11 @@
+{
+  "migration_dir": "",
+  "migration_file_name": "",
+  "identical?": "",
+  "revoke!": "",
+  "relative_existing_migration": "",
+  "existing_migration": "",
+  "exists?": "",
+  "on_conflict_behavior": "",
+  "say_status": ""
+}

@@ -1,0 +1,8 @@
+{
+  "test_initialize_with_values": "",
+  "test_setting_session_item_sets_item": "",
+  "test_calling_delete_removes_item_and_returns_its_value": "",
+  "test_calling_update_with_params_passes_to_attributes": "",
+  "test_clear_empties_session": "",
+  "test_keys_and_values": ""
+}

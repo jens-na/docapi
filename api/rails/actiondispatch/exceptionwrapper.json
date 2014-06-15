@@ -1,0 +1,22 @@
+{
+  "@@rescue_responses": "",
+  "@@rescue_templates": "",
+  "env": "Returns the value of attribute env",
+  "exception": "Returns the value of attribute exception",
+  "line_number": "Returns the value of attribute line_number",
+  "file": "Returns the value of attribute file",
+  "initialize": "",
+  "rescue_template": "",
+  "status_code": "",
+  "application_trace": "",
+  "framework_trace": "",
+  "full_trace": "",
+  "status_code_for_exception": "",
+  "source_extract": "",
+  "original_exception": "",
+  "registered_original_exception?": "",
+  "clean_backtrace": "",
+  "backtrace_cleaner": "",
+  "source_fragment": "",
+  "expand_backtrace": ""
+}

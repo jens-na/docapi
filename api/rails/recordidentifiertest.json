@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_dom_id_with_new_record": "",
+  "test_dom_id_with_new_record_and_prefix": "",
+  "test_dom_id_with_saved_record": "",
+  "test_dom_id_with_prefix": "",
+  "test_dom_class": "",
+  "test_dom_class_with_prefix": "",
+  "test_dom_id_as_singleton_method": "",
+  "test_dom_class_as_singleton_method": ""
+}

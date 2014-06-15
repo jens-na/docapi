@@ -1,0 +1,9 @@
+{
+  "build_class": "",
+  "test_class_conditional_with_scope": "FIXME: do we really want to support classes as conditionals?  There were\nno tests for it previous to this.",
+  "test_class": "FIXME: do we really want to support classes as conditionals?  There were\nno tests for it previous to this.",
+  "test_proc_negative_arity": "passes an empty list if *args",
+  "test_proc_arity0": "",
+  "test_proc_arity1": "",
+  "test_proc_arity2": ""
+}

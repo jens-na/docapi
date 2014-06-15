@@ -1,0 +1,7 @@
+{
+  "subtype": "Returns the value of attribute subtype",
+  "initialize": "",
+  "type_cast_from_database": "",
+  "type_cast_from_user": "",
+  "type_cast_array": ""
+}

@@ -1,0 +1,7 @@
+{
+  "amount": "Returns the value of attribute amount",
+  "currency": "Returns the value of attribute currency",
+  "EXCHANGE_RATES": "",
+  "initialize": "",
+  "exchange_to": ""
+}

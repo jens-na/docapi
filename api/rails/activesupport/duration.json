@@ -1,0 +1,23 @@
+{
+  "value": "Returns the value of attribute value",
+  "value=": "Sets the attribute value",
+  "parts": "Returns the value of attribute parts",
+  "parts=": "Sets the attribute parts",
+  "initialize": ":nodoc:",
+  "+": "Adds another Duration or a Numeric to this Duration. Numeric values\nare treated as seconds.",
+  "-": "Subtracts another Duration or a Numeric from this Duration. Numeric\nvalues are treated as seconds.",
+  "-@": ":nodoc:",
+  "is_a?": ":nodoc:",
+  "kind_of?": ":nodoc:",
+  "==": "Returns +true+ if +other+ is also a Duration instance with the\nsame +value+, or if <tt>other == value</tt>.",
+  "eql?": "",
+  "===": "We define it as a workaround to Ruby 2.0.0-p353 bug.\nFor more information, check rails/rails#13055.\nRemove it when we drop support for 2.0.0-p353.",
+  "since": "Calculates a new Time or Date that is as far in the future\nas this Duration represents.",
+  "from_now": "Calculates a new Time or Date that is as far in the future\nas this Duration represents.",
+  "ago": "Calculates a new Time or Date that is as far in the past\nas this Duration represents.",
+  "until": "Calculates a new Time or Date that is as far in the past\nas this Duration represents.",
+  "inspect": ":nodoc:",
+  "as_json": ":nodoc:",
+  "sum": ":nodoc:",
+  "method_missing": ":nodoc:"
+}

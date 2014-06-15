@@ -1,0 +1,12 @@
+{
+  "test_cant_save_readonly_record": "",
+  "test_find_with_readonly_option": "",
+  "test_find_with_joins_option_does_not_imply_readonly": "",
+  "test_has_many_find_readonly": "",
+  "test_has_many_with_through_is_not_implicitly_marked_readonly": "",
+  "test_has_many_with_through_is_not_implicitly_marked_readonly_while_finding_by_id": "",
+  "test_has_many_with_through_is_not_implicitly_marked_readonly_while_finding_first": "",
+  "test_has_many_with_through_is_not_implicitly_marked_readonly_while_finding_last": "",
+  "test_readonly_scoping": "",
+  "test_association_collection_method_missing_scoping_not_readonly": ""
+}

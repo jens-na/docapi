@@ -1,0 +1,16 @@
+{
+  "adds": "Returns the value of attribute adds",
+  "closed": "Returns the value of attribute closed",
+  "chevrons": "Returns the value of attribute chevrons",
+  "level": "Returns the value of attribute level",
+  "level=": "Sets the attribute level",
+  "progname": "Returns the value of attribute progname",
+  "progname=": "Sets the attribute progname",
+  "formatter": "Returns the value of attribute formatter",
+  "formatter=": "Sets the attribute formatter",
+  "initialize": "",
+  "debug": "",
+  "<<": "",
+  "add": "",
+  "close": ""
+}

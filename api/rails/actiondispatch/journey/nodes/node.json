@@ -1,0 +1,15 @@
+{
+  "left": "Returns the value of attribute left",
+  "left=": "Sets the attribute left",
+  "memo": "Returns the value of attribute memo",
+  "memo=": "Sets the attribute memo",
+  "initialize": "",
+  "each": "",
+  "to_s": "",
+  "to_dot": "",
+  "to_sym": "",
+  "name": "",
+  "type": "",
+  "symbol?": "",
+  "literal?": ""
+}

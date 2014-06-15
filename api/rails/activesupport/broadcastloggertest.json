@@ -1,0 +1,13 @@
+{
+  "logger": "Returns the value of attribute logger",
+  "log1": "Returns the value of attribute log1",
+  "log2": "Returns the value of attribute log2",
+  "setup": "",
+  "test_debug": "",
+  "test_close": "",
+  "test_chevrons": "",
+  "test_level": "",
+  "test_progname": "",
+  "test_formatter": "",
+  "FakeLogger": ""
+}

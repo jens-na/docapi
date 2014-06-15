@@ -1,0 +1,9 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "place=": "Sets the attribute place",
+  "place": "Returns the value of attribute place",
+  "table_name": "",
+  "FAILED_DELEGATE_LINE": "",
+  "FAILED_DELEGATE_LINE_2": ""
+}

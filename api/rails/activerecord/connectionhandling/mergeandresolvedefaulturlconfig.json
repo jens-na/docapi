@@ -1,0 +1,5 @@
+{
+  "initialize": "",
+  "resolve": "Returns fully resolved connection hashes.\nMerges connection information from `ENV['DATABASE_URL']` if available.",
+  "config": ""
+}

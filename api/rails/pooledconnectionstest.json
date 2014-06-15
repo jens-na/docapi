@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "checkout_checkin_connections": "Will deadlock due to lack of Monitor timeouts in 1.9",
+  "test_pooled_connection_checkin_one": "",
+  "add_record": ""
+}

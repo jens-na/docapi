@@ -1,0 +1,23 @@
+{
+  "setup": "",
+  "resolve_config": "",
+  "resolve_spec": "",
+  "test_resolver_with_database_uri_and_current_env_symbol_key": "",
+  "test_resolver_with_database_uri_and_and_current_env_string_key": "",
+  "test_resolver_with_database_uri_and_known_key": "",
+  "test_resolver_with_database_uri_and_unknown_symbol_key": "",
+  "test_resolver_with_database_uri_and_unknown_string_key": "",
+  "test_resolver_with_database_uri_and_supplied_url": "",
+  "test_jdbc_url": "",
+  "test_environment_does_not_exist_in_config_url_does_exist": "",
+  "test_url_with_hyphenated_scheme": "",
+  "test_string_connection": "",
+  "test_url_sub_key": "",
+  "test_hash": "",
+  "test_blank": "",
+  "test_blank_with_database_url": "",
+  "test_database_url_with_ipv6_host_and_port": "",
+  "test_url_sub_key_with_database_url": "",
+  "test_merge_no_conflicts_with_database_url": "",
+  "test_merge_conflicts_with_database_url": ""
+}

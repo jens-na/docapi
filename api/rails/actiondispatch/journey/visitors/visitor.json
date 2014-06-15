@@ -1,0 +1,17 @@
+{
+  "DISPATCH_CACHE": "",
+  "accept": "",
+  "visit": "",
+  "binary": "",
+  "visit_CAT": "",
+  "nary": "",
+  "visit_OR": "",
+  "unary": "",
+  "visit_GROUP": "",
+  "visit_STAR": "",
+  "terminal": "",
+  "visit_LITERAL": "",
+  "visit_SYMBOL": "",
+  "visit_SLASH": "",
+  "visit_DOT": ""
+}

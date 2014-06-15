@@ -1,0 +1,15 @@
+{
+  "test_invalid_adding": "",
+  "test_invalid_adding_before_save": "",
+  "test_invalid_adding_with_validate_false": "",
+  "test_valid_adding_with_validate_false": "",
+  "test_invalid_build": "",
+  "test_adding_before_save": "",
+  "test_assign_ids": "",
+  "test_assign_ids_for_through_a_belongs_to": "",
+  "test_build_before_save": "",
+  "test_build_many_before_save": "",
+  "test_build_via_block_before_save": "",
+  "test_build_many_via_block_before_save": "",
+  "test_replace_on_new_object": ""
+}

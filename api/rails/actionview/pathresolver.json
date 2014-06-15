@@ -1,0 +1,12 @@
+{
+  "EXTENSIONS": ":nodoc:",
+  "DEFAULT_PATTERN": "",
+  "initialize": "",
+  "find_templates": "",
+  "query": "",
+  "find_template_paths": "",
+  "build_query": "Helper for building query glob string based on resolver's pattern.",
+  "escape_entry": "",
+  "mtime": "Returns the file mtime from the filesystem.",
+  "extract_handler_and_format_and_variant": "Extract handler, formats and variant from path. If a format cannot be found neither\nfrom the path, or the handler, we should return the array of formats given\nto the resolver."
+}

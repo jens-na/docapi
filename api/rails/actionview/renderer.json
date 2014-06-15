@@ -1,0 +1,9 @@
+{
+  "lookup_context": "Returns the value of attribute lookup_context",
+  "lookup_context=": "Sets the attribute lookup_context",
+  "initialize": "",
+  "render": "Main render entry point shared by AV and AC.",
+  "render_body": "Render but returns a valid Rack body. If fibers are defined, we return\na streaming body that renders the template piece by piece.\n\nNote that partials are not supported to be rendered with streaming,\nso in such cases, we just wrap them in an array.",
+  "render_template": "Direct accessor to template rendering.",
+  "render_partial": "Direct access to partial rendering."
+}

@@ -1,0 +1,13 @@
+{
+  "setup": "",
+  "teardown": "",
+  "set_logger": "",
+  "test_render_file_template": "",
+  "test_render_text_template": "",
+  "test_render_inline_template": "",
+  "test_render_partial_template": "",
+  "test_render_partial_with_implicit_path": "",
+  "test_render_collection_template": "",
+  "test_render_collection_with_implicit_path": "",
+  "test_render_collection_template_without_path": ""
+}

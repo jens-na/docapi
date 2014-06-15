@@ -1,0 +1,10 @@
+{
+  "test_inspect_class": "",
+  "test_inspect_instance": "",
+  "test_inspect_new_instance": "",
+  "test_inspect_limited_select_instance": "",
+  "test_inspect_class_without_table": "",
+  "test_pretty_print_new": "",
+  "test_pretty_print_persisted": "",
+  "test_pretty_print_uninitialized": ""
+}

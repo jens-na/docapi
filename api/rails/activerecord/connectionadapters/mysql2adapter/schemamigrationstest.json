@@ -1,0 +1,5 @@
+{
+  "test_renaming_index_on_foreign_key": "",
+  "test_initializes_schema_migrations_for_encoding_utf8mb4": "",
+  "connection": ""
+}

@@ -1,0 +1,16 @@
+{
+  "number": "Returns the value of attribute number",
+  "opts": "Returns the value of attribute opts",
+  "DEFAULTS": "",
+  "convert": "",
+  "initialize": "",
+  "execute": "",
+  "options": "",
+  "format_options": ":nodoc:",
+  "default_format_options": ":nodoc:",
+  "i18n_format_options": ":nodoc:",
+  "translate_number_value_with_default": ":nodoc:",
+  "translate_in_locale": "",
+  "default_value": "",
+  "valid_float?": ":nodoc:"
+}

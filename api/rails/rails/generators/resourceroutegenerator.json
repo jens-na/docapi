@@ -1,0 +1,6 @@
+{
+  "add_resource_route": "Properly nests namespaces passed into a generator\n\n  $ rails generate resource admin/users/products\n\nshould give you\n\n  namespace :admin do\n    namespace :users do\n      resources :products\n    end\n  end",
+  "route_string": "",
+  "write": "",
+  "route_length": ""
+}

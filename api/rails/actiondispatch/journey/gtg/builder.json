@@ -1,0 +1,15 @@
+{
+  "DUMMY": "",
+  "root": "Returns the value of attribute root",
+  "ast": "Returns the value of attribute ast",
+  "endpoints": "Returns the value of attribute endpoints",
+  "initialize": "",
+  "transition_table": "",
+  "nullable?": "",
+  "firstpos": "",
+  "lastpos": "",
+  "followpos": "",
+  "followpos_table": "",
+  "build_followpos": "",
+  "symbol": ""
+}

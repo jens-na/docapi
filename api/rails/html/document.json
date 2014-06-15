@@ -1,0 +1,6 @@
+{
+  "root": "The root of the parsed document.",
+  "initialize": "Create a new Document from the given text.",
+  "find": "Search the tree for (and return) the first node that matches the given\nconditions. The conditions are interpreted differently for different node\ntypes, see HTML::Text#find and HTML::Tag#find.",
+  "find_all": "Search the tree for (and return) all nodes that match the given\nconditions. The conditions are interpreted differently for different node\ntypes, see HTML::Text#find and HTML::Tag#find."
+}

@@ -1,0 +1,12 @@
+{
+  "paths": "Returns the value of attribute paths",
+  "initialize": "",
+  "initialize_copy": "",
+  "to_ary": "",
+  "compact": "",
+  "+": "",
+  "find": "",
+  "find_all": "",
+  "exists?": "",
+  "typecast": ""
+}

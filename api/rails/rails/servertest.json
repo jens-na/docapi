@@ -1,0 +1,8 @@
+{
+  "test_environment_with_server_option": "",
+  "test_environment_without_server_option": "",
+  "test_server_option_without_environment": "",
+  "test_environment_with_rails_env": "",
+  "test_environment_with_rack_env": "",
+  "test_log_stdout": ""
+}

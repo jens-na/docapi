@@ -1,0 +1,9 @@
+{
+  "error_number": "Returns the value of attribute error_number",
+  "error_number=": "Sets the attribute error_number",
+  "sql_state": "Returns the value of attribute sql_state",
+  "sql_state=": "Sets the attribute sql_state",
+  "initialize": "",
+  "errno": "Returns the value of attribute error_number\nMysql gem compatibility",
+  "error": ""
+}

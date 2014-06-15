@@ -1,0 +1,6 @@
+{
+  "test_rendering_xml_sets_content_type": "",
+  "test_rendering_xml_respects_content_type": "",
+  "test_rendering_xml_respects_content_type_when_set_in_the_header": "",
+  "test_render_text_with_custom_content_type": ""
+}

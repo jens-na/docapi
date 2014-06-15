@@ -1,0 +1,11 @@
+{
+  "build_app": "",
+  "StubDispatcher": "Stub Rails dispatcher so it does not get controller references and\nsimply return the controller#action as Rack::Body.",
+  "stub_controllers": "",
+  "with_routing": "",
+  "with_autoload_path": "",
+  "@@app": "",
+  "app": "",
+  "app=": "",
+  "url_options": ""
+}

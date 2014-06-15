@@ -1,0 +1,19 @@
+{
+  "setup": "",
+  "test_creates_reference_id_column": "",
+  "test_does_not_create_reference_type_column": "",
+  "test_creates_reference_type_column": "",
+  "test_creates_reference_id_index": "",
+  "test_does_not_create_reference_id_index": "",
+  "test_creates_polymorphic_index": "",
+  "test_creates_reference_type_column_with_default": "",
+  "test_creates_named_index": "",
+  "test_deletes_reference_id_column": "",
+  "test_deletes_reference_id_index": "",
+  "test_does_not_delete_reference_type_column": "",
+  "test_deletes_reference_type_column": "",
+  "test_deletes_polymorphic_index": "",
+  "test_add_belongs_to_alias": "",
+  "test_remove_belongs_to_alias": "",
+  "with_polymorphic_column": ""
+}

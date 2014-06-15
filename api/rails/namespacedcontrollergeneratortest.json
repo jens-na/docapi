@@ -1,0 +1,11 @@
+{
+  "test_namespaced_controller_skeleton_is_created": "",
+  "test_skipping_namespace": "",
+  "test_namespaced_controller_with_additional_namespace": "",
+  "test_helper_is_also_namespaced": "",
+  "test_invokes_default_test_framework": "",
+  "test_invokes_default_template_engine": "",
+  "test_routes_should_not_be_namespaced": "",
+  "test_invokes_default_template_engine_even_with_no_action": "",
+  "test_namespaced_controller_dont_indent_blank_lines": ""
+}

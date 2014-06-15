@@ -1,0 +1,23 @@
+{
+  "test_to_param_should_return_string": "",
+  "test_to_param_returns_nil_if_not_persisted": "",
+  "test_to_param_returns_id_if_not_persisted_but_id_is_set": "",
+  "test_to_param_class_method": "",
+  "test_to_param_class_method_truncates": "",
+  "test_to_param_class_method_truncates_edge_case": "",
+  "test_to_param_class_method_squishes": "",
+  "test_to_param_class_method_multibyte_character": "",
+  "test_to_param_class_method_uses_default_if_blank": "",
+  "test_to_param_class_method_uses_default_if_not_persisted": "",
+  "test_to_param_with_no_arguments": "",
+  "test_cache_key_for_existing_record_is_not_timezone_dependent": "",
+  "test_cache_key_format_for_existing_record_with_updated_at": "",
+  "test_cache_key_format_for_existing_record_with_updated_at_and_custom_cache_timestamp_format": "",
+  "test_cache_key_changes_when_child_touched": "",
+  "test_cache_key_format_for_existing_record_with_nil_updated_timestamps": "",
+  "test_cache_key_for_updated_on": "",
+  "test_cache_key_for_newer_updated_at": "",
+  "test_cache_key_for_newer_updated_on": "",
+  "test_cache_key_format_is_precise_enough": "",
+  "test_named_timestamps_for_cache_key": ""
+}

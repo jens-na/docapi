@@ -1,0 +1,21 @@
+{
+  "extensions": "Returns the value of attribute extensions",
+  "extensions=": "Sets the attribute extensions",
+  "valid_options": "",
+  "valid_options=": "TODO: This class accessor is needed to make activerecord-deprecated_finders work.\nWe can move it to a constant in 5.0.",
+  "name": "Returns the value of attribute name",
+  "scope": "Returns the value of attribute scope",
+  "options": "Returns the value of attribute options",
+  "build": "",
+  "create_builder": "",
+  "initialize": "",
+  "macro": "",
+  "validate_options": "",
+  "define_extensions": "",
+  "define_callbacks": "",
+  "define_accessors": "Defines the setter and getter methods for the association\nclass Post < ActiveRecord::Base\n  has_many :comments\nend\n\nPost.first.comments and Post.first.comments= methods are defined by this method...",
+  "define_readers": "",
+  "define_writers": "",
+  "valid_dependent_options": "",
+  "add_before_destroy_callbacks": ""
+}

@@ -1,0 +1,23 @@
+{
+  "test_migration": "",
+  "test_migrations_generated_simultaneously": "",
+  "test_migration_with_class_name": "",
+  "test_migration_with_invalid_file_name": "",
+  "test_add_migration_with_attributes": "",
+  "test_remove_migration_with_indexed_attribute": "",
+  "test_remove_migration_with_attributes": "",
+  "test_remove_migration_with_references_options": "",
+  "test_add_migration_with_attributes_and_indices": "",
+  "test_add_migration_with_attributes_and_wrong_index_declaration": "",
+  "test_add_migration_with_attributes_without_type_and_index": "",
+  "test_add_migration_with_attributes_index_declaration_and_attribute_options": "",
+  "test_add_migration_with_references_options": "",
+  "test_create_join_table_migration": "",
+  "test_create_table_migration": "",
+  "test_should_create_empty_migrations_if_name_not_start_with_add_or_remove_or_create": "",
+  "test_properly_identifies_usage_file": "",
+  "test_migration_with_singular_table_name": "",
+  "test_create_join_table_migration_with_singular_table_name": "",
+  "test_create_table_migration_with_singular_table_name": "",
+  "with_singular_table_name": ""
+}

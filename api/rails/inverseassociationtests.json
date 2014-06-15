@@ -1,0 +1,7 @@
+{
+  "test_should_allow_for_inverse_of_options_in_associations": "",
+  "test_should_be_able_to_ask_a_reflection_if_it_has_an_inverse": "",
+  "test_should_be_able_to_ask_a_reflection_what_it_is_the_inverse_of": "",
+  "test_inverse_of_method_should_supply_the_actual_reflection_instance_it_is_the_inverse_of": "",
+  "test_associations_with_no_inverse_of_should_return_nil": ""
+}

@@ -1,0 +1,15 @@
+{
+  "JsonRenderable": "",
+  "TestController": "",
+  "setup": "",
+  "test_render_json_nil": "",
+  "test_render_json_render_to_string": "",
+  "test_render_json": "",
+  "test_render_json_with_status": "",
+  "test_render_json_with_callback": "",
+  "test_render_json_with_custom_content_type": "",
+  "test_render_symbol_json": "",
+  "test_render_json_with_render_to_string": "",
+  "test_render_json_forwards_extra_options": "",
+  "test_render_json_calls_to_json_from_object": ""
+}

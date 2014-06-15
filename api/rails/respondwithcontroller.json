@@ -1,0 +1,19 @@
+{
+  "CustomerWithJson": "",
+  "using_resource": "",
+  "using_hash_resource": "",
+  "using_resource_with_block": "",
+  "using_resource_with_overwrite_block": "",
+  "using_resource_with_collection": "",
+  "using_resource_with_parent": "",
+  "using_resource_with_status_and_location": "",
+  "using_resource_with_json": "",
+  "using_invalid_resource_with_template": "",
+  "using_options_with_template": "",
+  "using_resource_with_responder": "",
+  "using_resource_with_action": "",
+  "using_responder_with_respond": "",
+  "respond_with_additional_params": "",
+  "params": "",
+  "resource": ""
+}

@@ -1,0 +1,16 @@
+{
+  "test_io_error_in_view": "",
+  "test_zero_division_error_in_view": "",
+  "test_rescue_handler": "",
+  "test_rescue_handler_string": "",
+  "test_rescue_handler_with_argument": "",
+  "test_rescue_handler_with_argument_as_string": "",
+  "test_proc_rescue_handler": "",
+  "test_proc_rescue_handler_as_string": "",
+  "test_proc_rescue_handle_with_argument": "",
+  "test_proc_rescue_handle_with_argument_as_string": "",
+  "test_block_rescue_handler": "",
+  "test_block_rescue_handler_as_string": "",
+  "test_block_rescue_handler_with_argument": "",
+  "test_block_rescue_handler_with_argument_as_string": ""
+}

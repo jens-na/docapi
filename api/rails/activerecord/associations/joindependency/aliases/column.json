@@ -1,0 +1,6 @@
+{
+  "name=": "Sets the attribute name",
+  "name": "Returns the value of attribute name",
+  "alias=": "Sets the attribute alias",
+  "alias": "Returns the value of attribute alias"
+}

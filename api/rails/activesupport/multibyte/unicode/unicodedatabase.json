@@ -1,0 +1,7 @@
+{
+  "ATTRIBUTES": "",
+  "initialize": "",
+  "load": "Loads the Unicode database and returns all the internal objects of\nUnicodeDatabase.",
+  "dirname": "Returns the directory in which the data files are stored.",
+  "filename": "Returns the filename for the data file for this version."
+}

@@ -1,0 +1,3 @@
+{
+  "test_clear_without_autoloaded_singleton_parent": "Regression test for #8422. https://github.com/rails/rails/issues/8442"
+}

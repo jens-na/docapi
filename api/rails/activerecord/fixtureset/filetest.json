@@ -1,0 +1,14 @@
+{
+  "test_open": "",
+  "test_open_with_block": "",
+  "test_names": "",
+  "test_values": "",
+  "test_erb_processing": "",
+  "test_empty_file": "",
+  "test_wrong_fixture_format_string": "A valid YAML file is not necessarily a value Fixture file. Make sure\nan exception is raised if the format is not valid Fixture format.",
+  "test_wrong_fixture_format_nested": "",
+  "test_render_context_helper": "",
+  "test_render_context_lookup_scope": "",
+  "test_independent_render_contexts": "Make sure that each fixture gets its own rendering context so that\nfixtures are independent.",
+  "tmp_yaml": ""
+}

@@ -1,0 +1,12 @@
+{
+  "request": "Returns the value of attribute request",
+  "setup": "",
+  "test_select_month_given_use_month_names_option_does_not_translate_monthnames": "select_month",
+  "test_select_month_translates_monthnames": "",
+  "test_select_month_given_use_short_month_option_translates_abbr_monthnames": "",
+  "test_date_or_time_select_translates_prompts": "",
+  "test_date_or_time_select_given_an_order_options_does_not_translate_order": "date_or_time_select",
+  "test_date_or_time_select_given_no_order_options_translates_order": "",
+  "test_date_or_time_select_given_invalid_order": "",
+  "test_date_or_time_select_given_symbol_keys": ""
+}

@@ -1,0 +1,10 @@
+{
+  "log": "Returns the value of attribute log",
+  "action_name": "Returns the value of attribute action_name",
+  "initialize": "",
+  "before1": "",
+  "before2": "",
+  "after1": "",
+  "after2": "",
+  "dispatch": ""
+}

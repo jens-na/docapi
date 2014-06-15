@@ -1,0 +1,20 @@
+{
+  "Virus": "",
+  "Octopus": "",
+  "Pass": "",
+  "Bus": "",
+  "Mess": "",
+  "Crisis": "",
+  "Analysis": "",
+  "Success": "",
+  "Dress": "",
+  "Compress": "",
+  "setup": "",
+  "connection": "",
+  "test_eager_no_extra_singularization_belongs_to": "",
+  "test_eager_no_extra_singularization_has_one": "",
+  "test_eager_no_extra_singularization_has_many": "",
+  "test_eager_no_extra_singularization_has_and_belongs_to_many": "",
+  "test_eager_no_extra_singularization_has_many_through_belongs_to": "",
+  "test_eager_no_extra_singularization_has_many_through_has_many": ""
+}

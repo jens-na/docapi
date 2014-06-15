@@ -1,0 +1,20 @@
+{
+  "test_parent_instance_should_be_shared_with_every_child_on_find": "",
+  "test_parent_instance_should_be_shared_with_eager_loaded_children": "",
+  "test_parent_instance_should_be_shared_with_newly_block_style_built_child": "",
+  "test_parent_instance_should_be_shared_with_newly_created_via_bang_method_child": "",
+  "test_parent_instance_should_be_shared_with_newly_block_style_created_child": "",
+  "test_parent_instance_should_be_shared_within_create_block_of_new_child": "",
+  "test_parent_instance_should_be_shared_within_build_block_of_new_child": "",
+  "test_parent_instance_should_be_shared_with_poked_in_child": "",
+  "test_parent_instance_should_be_shared_with_replaced_via_accessor_children": "",
+  "test_parent_instance_should_be_shared_with_first_and_last_child": "",
+  "test_parent_instance_should_be_shared_with_first_n_and_last_n_children": "",
+  "test_parent_instance_should_find_child_instance_using_child_instance_id": "",
+  "test_parent_instance_should_find_child_instance_using_child_instance_id_when_created": "",
+  "test_find_on_child_instance_with_id_should_not_load_all_child_records": "",
+  "test_raise_record_not_found_error_when_invalid_ids_are_passed": "",
+  "test_raise_record_not_found_error_when_no_ids_are_passed": "",
+  "test_trying_to_use_inverses_that_dont_exist_should_raise_an_error": "",
+  "test_child_instance_should_point_to_parent_without_saving": ""
+}

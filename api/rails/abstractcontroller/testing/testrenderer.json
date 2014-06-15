@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_render_template": "",
+  "test_render_file": "",
+  "test_render_inline": "",
+  "test_render_text": "",
+  "test_render_default": "",
+  "test_render_string": "",
+  "test_render_symbol": "",
+  "test_render_string_with_path": ""
+}

@@ -1,0 +1,3 @@
+{
+  "ms": "Benchmark realtime in milliseconds.\n\n  Benchmark.realtime { User.all }\n  # => 8.0e-05\n\n  Benchmark.ms { User.all }\n  # => 0.074"
+}

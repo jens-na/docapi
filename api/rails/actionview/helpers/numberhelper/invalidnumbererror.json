@@ -1,0 +1,5 @@
+{
+  "number": "Returns the value of attribute number",
+  "number=": "Sets the attribute number",
+  "initialize": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Options": "",
+  "initialize": "",
+  "app": "TODO: this is no longer required but we keep it for the moment to support older config.ru files.",
+  "opt_parser": "",
+  "set_environment": "",
+  "start": "",
+  "middleware": "",
+  "log_path": "",
+  "default_options": "",
+  "print_boot_information": "",
+  "create_tmp_directories": "",
+  "log_to_stdout": ""
+}

@@ -1,0 +1,23 @@
+{
+  "controller": "Returns the value of attribute controller",
+  "path": "Returns the value of attribute path",
+  "options": "Returns the value of attribute options",
+  "param": "Returns the value of attribute param",
+  "initialize": "",
+  "default_actions": "",
+  "actions": "",
+  "name": "",
+  "plural": "",
+  "singular": "",
+  "member_name": "",
+  "collection_name": "Checks for uncountable plurals, and appends \"_index\" if the plural\nand singular form are the same.",
+  "resource_scope": "",
+  "collection_scope": "Returns the value of attribute path",
+  "member_scope": "",
+  "shallow_scope": "",
+  "new_scope": "",
+  "nested_param": "",
+  "nested_scope": "",
+  "shallow=": "",
+  "shallow?": ""
+}

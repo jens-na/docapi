@@ -1,0 +1,5 @@
+{
+  "primary_key": "Defines the primary key field.\nUse of the native PostgreSQL UUID type is supported, and can be used\nby defining your tables as such:\n\n  create_table :stuffs, id: :uuid do |t|\n    t.string :content\n    t.timestamps\n  end\n\nBy default, this will use the +uuid_generate_v4()+ function from the\n+uuid-ossp+ extension, which MUST be enabled on your database. To enable\nthe +uuid-ossp+ extension, you can use the +enable_extension+ method in your\nmigrations. To use a UUID primary key without +uuid-ossp+ enabled, you can\nset the +:default+ option to +nil+:\n\n  create_table :stuffs, id: false do |t|\n    t.primary_key :id, :uuid, default: nil\n    t.uuid :foo_id\n    t.timestamps\n  end\n\nYou may also pass a different UUID generation function from +uuid-ossp+\nor another library.\n\nNote that setting the UUID primary key default value to +nil+ will\nrequire you to assure that you always provide a UUID value before saving\na record (as primary keys cannot be +nil+). This might be done via the\n+SecureRandom.uuid+ method and a +before_save+ callback, for instance.",
+  "column": "",
+  "create_column_definition": ""
+}

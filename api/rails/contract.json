@@ -1,0 +1,8 @@
+{
+  "hi_count": "Returns the value of attribute hi_count",
+  "hi_count=": "Sets the attribute hi_count",
+  "bye_count": "Returns the value of attribute bye_count",
+  "bye_count=": "Sets the attribute bye_count",
+  "hi": "",
+  "bye": ""
+}

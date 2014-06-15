@@ -1,0 +1,21 @@
+{
+  "test_quote_value_passed_lock_col": "",
+  "test_non_integer_lock_existing": "",
+  "test_non_integer_lock_destroy": "",
+  "test_lock_existing": "",
+  "test_lock_destroy": "See Lighthouse ticket #1966",
+  "test_lock_repeating": "",
+  "test_lock_new": "",
+  "test_lock_exception_record": "",
+  "test_lock_new_with_nil": "",
+  "test_touch_existing_lock": "",
+  "test_lock_column_name_existing": "",
+  "test_lock_column_is_mass_assignable": "",
+  "test_lock_without_default_sets_version_to_zero": "",
+  "test_lock_with_custom_column_without_default_sets_version_to_zero": "",
+  "test_readonly_attributes": "",
+  "test_quote_table_name": "",
+  "test_update_without_attributes_does_not_only_update_lock_version": "Useful for partial updates, don't only update the lock_version if there\nis nothing else being updated.",
+  "test_polymorphic_destroy_with_dependencies_and_lock_version": "",
+  "test_removing_has_and_belongs_to_many_associations_upon_destroy": ""
+}

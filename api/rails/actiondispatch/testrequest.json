@@ -1,0 +1,19 @@
+{
+  "DEFAULT_ENV": "",
+  "new": "",
+  "initialize": "",
+  "request_method=": "",
+  "host=": "",
+  "port=": "",
+  "request_uri=": "",
+  "path=": "",
+  "action=": "",
+  "if_modified_since=": "",
+  "if_none_match=": "",
+  "remote_addr=": "",
+  "user_agent=": "",
+  "accept=": "",
+  "rack_cookies": "",
+  "cookies": "",
+  "default_env": ""
+}

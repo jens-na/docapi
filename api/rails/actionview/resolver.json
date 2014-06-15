@@ -1,0 +1,12 @@
+{
+  "Path": "Keeps all information about view path and builds virtual path.",
+  "Cache": "Threadsafe template cache",
+  "caching?": "",
+  "initialize": "",
+  "clear_cache": "",
+  "find_all": "Normalizes the arguments and passes it on to find_templates.",
+  "find_templates": "This is what child classes implement. No defaults are needed\nbecause Resolver guarantees that the arguments are present and\nnormalized.",
+  "build_path": "Helpers that builds a path. Useful for building virtual paths.",
+  "cached": "Handles templates caching. If a key is given and caching is on\nalways check the cache before hitting the resolver. Otherwise,\nit always hits the resolver but if the key is present, check if the\nresolver is fresher before returning it.",
+  "decorate": "Ensures all the resolver information is set in the template."
+}

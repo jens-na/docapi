@@ -1,0 +1,19 @@
+{
+  "EXPLICIT_DEPENDENCY": "",
+  "IDENTIFIER": "A valid ruby identifier - suitable for class, method and specially variable names",
+  "VARIABLE_OR_METHOD_CHAIN": "Any kind of variable name. e.g. @instance, @@class, $global or local.\nPossibly following a method call chain",
+  "STRING": "A simple string literal. e.g. \"School's out!\"",
+  "PARTIAL_HASH_KEY": "Part of any hash containing the :partial key",
+  "RENDER_ARGUMENTS": "Matches:\n  partial: \"comments/comment\", collection: @all_comments => \"comments/comment\"\n  (object: @single_comment, partial: \"comments/comment\") => \"comments/comment\"\n\n  \"comments/comments\"\n  'comments/comments'\n  ('comments/comments')\n\n  (@topic)         => \"topics/topic\"\n   topics          => \"topics/topic\"\n  (message.topics) => \"topics/topic\"",
+  "call": "",
+  "initialize": "",
+  "dependencies": "",
+  "name": "Returns the value of attribute name",
+  "template": "Returns the value of attribute template",
+  "source": "",
+  "directory": "",
+  "render_dependencies": "",
+  "add_dynamic_dependency": "",
+  "add_static_dependency": "",
+  "explicit_dependencies": ""
+}

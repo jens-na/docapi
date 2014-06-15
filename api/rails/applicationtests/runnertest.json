@@ -1,0 +1,14 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_should_include_runner_in_shebang_line_in_help_without_option": "",
+  "test_should_include_runner_in_shebang_line_in_help": "",
+  "test_should_run_ruby_statement": "",
+  "test_should_run_file": "",
+  "test_should_set_dollar_0_to_file": "",
+  "test_should_set_dollar_program_name_to_file": "",
+  "test_with_hook": "",
+  "test_default_environment": "",
+  "test_environment_with_rails_env": "",
+  "test_environment_with_rack_env": ""
+}

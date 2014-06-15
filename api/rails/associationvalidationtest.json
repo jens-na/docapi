@@ -1,0 +1,9 @@
+{
+  "test_validates_associated_many": "",
+  "test_validates_associated_one": "",
+  "test_validates_associated_marked_for_destruction": "",
+  "test_validates_associated_with_custom_message_using_quotes": "",
+  "test_validates_associated_missing": "",
+  "test_validates_presence_of_belongs_to_association__parent_is_new_record": "",
+  "test_validates_presence_of_belongs_to_association__existing_parent": ""
+}

@@ -1,0 +1,7 @@
+{
+  "_get": "preserve the original #[] method",
+  "[]=": "",
+  "[]": "",
+  "method_missing": "",
+  "respond_to_missing?": ""
+}

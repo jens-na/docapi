@@ -1,0 +1,13 @@
+{
+  "setup": "",
+  "test_clear": "",
+  "test_cleanup": "",
+  "test_write": "",
+  "test_read": "",
+  "test_delete": "",
+  "test_increment": "",
+  "test_decrement": "",
+  "test_delete_matched": "",
+  "test_local_store_strategy": "",
+  "test_setting_nil_cache_store": ""
+}

@@ -1,0 +1,9 @@
+{
+  "RDOC_FILES": "",
+  "initialize": "",
+  "desc": "Hack, ignore the desc calls performed by the original initializer.",
+  "load_and_configure_sdoc": "",
+  "configure_rdoc_files": "",
+  "setup_horo_variables": "",
+  "api_main": ""
+}

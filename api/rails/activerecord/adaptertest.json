@@ -1,0 +1,23 @@
+{
+  "setup": "",
+  "test_update_prepared_statement": "",
+  "test_tables": "",
+  "test_table_exists?": "",
+  "test_indexes": "",
+  "test_current_database": "",
+  "test_charset": "",
+  "test_collation": "",
+  "test_show_nonexistent_variable_returns_nil": "",
+  "test_not_specifying_database_name_for_cross_database_selects": "",
+  "test_table_alias": "",
+  "test_table_alias_length": "",
+  "test_reset_empty_table_with_custom_pk": "",
+  "test_reset_table_with_non_integer_pk": "",
+  "test_uniqueness_violations_are_translated_to_specific_exception": "",
+  "test_foreign_key_violations_are_translated_to_specific_exception": "",
+  "test_foreign_key_violations_are_translated_to_specific_exception_with_validate_false": "",
+  "test_disable_referential_integrity": "",
+  "test_select_all_always_return_activerecord_result": "",
+  "test_select_methods_passing_a_association_relation": "",
+  "test_select_methods_passing_a_relation": ""
+}

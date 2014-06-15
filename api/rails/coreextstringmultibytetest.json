@@ -1,0 +1,9 @@
+{
+  "UTF8_STRING": "",
+  "ASCII_STRING": "",
+  "EUC_JP_STRING": "",
+  "INVALID_UTF8_STRING": "",
+  "test_core_ext_adds_mb_chars": "",
+  "test_string_should_recognize_utf8_strings": "",
+  "test_mb_chars_returns_instance_of_proxy_class": ""
+}

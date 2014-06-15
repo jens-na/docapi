@@ -1,0 +1,13 @@
+{
+  "SmallCache": ":nodoc:",
+  "PARTIAL_BLOCK": "preallocate all the default blocks for performance/memory consumption reasons",
+  "PREFIX_BLOCK": "",
+  "NAME_BLOCK": "",
+  "KEY_BLOCK": "",
+  "NO_TEMPLATES": "usually a majority of template look ups return nothing, use this canonical preallocated array to save memory",
+  "initialize": "",
+  "cache": "Cache the templates returned by the block",
+  "clear": "",
+  "canonical_no_templates": "",
+  "templates_have_changed?": ""
+}

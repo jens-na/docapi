@@ -1,0 +1,16 @@
+{
+  "destination_root": "",
+  "tmp_path": "",
+  "engine_path": "",
+  "bundled_rails": "",
+  "rails": "",
+  "build_engine": "",
+  "build_mountable_engine": "",
+  "test_controllers_are_correctly_namespaced_when_engine_is_mountable": "",
+  "test_models_are_correctly_namespaced_when_engine_is_mountable": "",
+  "test_table_name_prefix_is_correctly_namespaced_when_engine_is_mountable": "",
+  "test_helpers_are_correctly_namespaced_when_engine_is_mountable": "",
+  "test_controllers_are_not_namespaced_when_engine_is_not_mountable": "",
+  "test_models_are_not_namespaced_when_engine_is_not_mountable": "",
+  "test_helpers_are_not_namespaced_when_engine_is_not_mountable": ""
+}

@@ -1,0 +1,8 @@
+{
+  "try": "Calling +try+ on +nil+ always returns +nil+.\nIt becomes specially helpful when navigating through associations that may return +nil+.\n\n  nil.try(:name) # => nil\n\nWithout +try+\n  @person && !@person.children.blank? && @person.children.first.name\n\nWith +try+\n  @person.try(:children).try(:first).try(:name)",
+  "try!": "",
+  "as_json": ":nodoc:",
+  "blank?": "+nil+ is blank:\n\n  nil.blank? # => true",
+  "to_param": "Returns +self+.",
+  "duplicable?": "+nil+ is not duplicable:\n\n  nil.duplicable? # => false\n  nil.dup         # => TypeError: can't dup NilClass"
+}

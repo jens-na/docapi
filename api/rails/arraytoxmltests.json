@@ -1,0 +1,14 @@
+{
+  "test_to_xml_with_hash_elements": "",
+  "test_to_xml_with_non_hash_elements": "",
+  "test_to_xml_with_non_hash_different_type_elements": "",
+  "test_to_xml_with_dedicated_name": "",
+  "test_to_xml_with_options": "",
+  "test_to_xml_with_indent_set": "",
+  "test_to_xml_with_dasherize_false": "",
+  "test_to_xml_with_dasherize_true": "",
+  "test_to_xml_with_instruct": "",
+  "test_to_xml_with_block": "",
+  "test_to_xml_with_empty": "",
+  "test_to_xml_dups_options": ""
+}

@@ -1,0 +1,12 @@
+{
+  "resolve_column_aliases": "",
+  "build_from_hash": "",
+  "expand": "",
+  "polymorphic_base_class_from_value": "",
+  "references": "",
+  "register_handler": "Define how a class is converted to Arel nodes when passed to +where+.\nThe handler can be any object that responds to +call+, and will be used\nfor any value that +===+ the class given. For example:\n\n    MyCustomDateRange = Struct.new(:start, :end)\n    handler = proc do |column, range|\n      Arel::Nodes::Between.new(column,\n        Arel::Nodes::And.new([range.start, range.end])\n      )\n    end\n    ActiveRecord::PredicateBuilder.register_handler(MyCustomDateRange, handler)",
+  "build": "",
+  "handler_for": "",
+  "ArrayHandler": ":nodoc:",
+  "RelationHandler": ":nodoc:"
+}

@@ -1,0 +1,14 @@
+{
+  "Attribute": ":nodoc:",
+  "MethodAttribute": ":nodoc:",
+  "options": "Returns the value of attribute options",
+  "initialize": "",
+  "serializable_hash": "",
+  "serializable_collection": "",
+  "serialize": "",
+  "add_extra_behavior": "",
+  "add_attributes_and_methods": "",
+  "add_includes": "",
+  "add_associations": "TODO: This can likely be cleaned up to simple use ActiveSupport::XmlMini.to_tag as well.",
+  "add_procs": ""
+}

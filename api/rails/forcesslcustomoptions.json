@@ -1,0 +1,15 @@
+{
+  "force_ssl_action": "",
+  "redirect_host": "",
+  "redirect_port": "",
+  "redirect_subdomain": "",
+  "redirect_domain": "",
+  "redirect_path": "",
+  "redirect_status": "",
+  "redirect_flash": "",
+  "redirect_alert": "",
+  "redirect_notice": "",
+  "use_flash": "",
+  "use_alert": "",
+  "use_notice": ""
+}

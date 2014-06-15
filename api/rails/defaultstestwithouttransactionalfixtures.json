@@ -1,0 +1,7 @@
+{
+  "using_strict": "",
+  "test_mysql_text_not_null_defaults_non_strict": "MySQL cannot have defaults on text/blob columns. It reports the\ndefault value as null.\n\nDespite this, in non-strict mode, MySQL will use an empty string\nas the default value of the field, if no other value is\nspecified.\n\nTherefore, in non-strict mode, we want column.default to report\nan empty string as its default, to be consistent with that.\n\nIn strict mode, column.default should be nil.",
+  "test_mysql_text_not_null_defaults_strict": "",
+  "with_text_blob_not_null_table": "",
+  "test_mysql_integer_not_null_defaults": "MySQL uses an implicit default 0 rather than NULL unless in strict mode.\nWe use an implicit NULL so schema.rb is compatible with other databases."
+}

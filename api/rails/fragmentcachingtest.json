@@ -1,0 +1,14 @@
+{
+  "setup": "",
+  "test_fragment_cache_key": "",
+  "test_read_fragment_with_caching_enabled": "",
+  "test_read_fragment_with_caching_disabled": "",
+  "test_fragment_exist_with_caching_enabled": "",
+  "test_fragment_exist_with_caching_disabled": "",
+  "test_write_fragment_with_caching_enabled": "",
+  "test_write_fragment_with_caching_disabled": "",
+  "test_expire_fragment_with_simple_key": "",
+  "test_expire_fragment_with_regexp": "",
+  "test_fragment_for": "",
+  "test_html_safety": ""
+}

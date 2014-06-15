@@ -1,0 +1,17 @@
+{
+  "setup": "",
+  "test_module_spanning_associations": "",
+  "test_module_spanning_has_and_belongs_to_many_associations": "",
+  "test_associations_spanning_cross_modules": "",
+  "test_find_account_and_include_company": "",
+  "test_table_name": "",
+  "test_assign_ids": "",
+  "test_eager_loading_in_modules": "need to add an eager loading condition to force the eager loading model into\nthe old join model, to test that. See http://dev.rubyonrails.org/ticket/9640",
+  "test_module_table_name_prefix": "",
+  "test_module_table_name_prefix_with_global_prefix": "",
+  "test_module_table_name_suffix": "",
+  "test_module_table_name_suffix_with_global_suffix": "",
+  "test_compute_type_can_infer_class_name_of_sibling_inside_module": "",
+  "test_nested_models_should_not_raise_exception_when_using_delete_all_dependency_on_association": "",
+  "test_nested_models_should_not_raise_exception_when_using_nullify_dependency_on_association": ""
+}

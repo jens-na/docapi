@@ -1,0 +1,15 @@
+{
+  "test_named_generator_with_underscore": "",
+  "test_named_generator_attributes": "",
+  "test_named_generator_attributes_as_ruby": "",
+  "test_named_generator_attributes_without_pluralized": "",
+  "test_scaffold_plural_names": "",
+  "test_scaffold_plural_names_as_ruby": "",
+  "test_application_name": "",
+  "test_index_helper": "",
+  "test_index_helper_to_pluralize_once": "",
+  "test_index_helper_with_uncountable": "",
+  "test_hide_namespace": "",
+  "test_scaffold_plural_names_with_model_name_option": "",
+  "assert_name": ""
+}

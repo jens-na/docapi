@@ -1,0 +1,11 @@
+{
+  "route_sets": "Returns the value of attribute route_sets",
+  "paths": "Returns the value of attribute paths",
+  "initialize": "",
+  "reload!": "",
+  "updater": "",
+  "clear!": "",
+  "load_paths": "",
+  "finalize!": "",
+  "revert": ""
+}

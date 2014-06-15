@@ -1,0 +1,8 @@
+{
+  "number": "",
+  "begin": "",
+  "closed?": "",
+  "open?": "",
+  "joinable?": "",
+  "add_record": "This is a noop when there are no open transactions"
+}

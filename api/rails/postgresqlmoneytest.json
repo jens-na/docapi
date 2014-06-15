@@ -1,0 +1,9 @@
+{
+  "PostgresqlMoney": "",
+  "test_column": "",
+  "test_default": "",
+  "test_money_values": "",
+  "test_money_type_cast": "",
+  "test_schema_dumping": "",
+  "test_create_and_update_money": ""
+}

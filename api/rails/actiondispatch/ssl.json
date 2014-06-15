@@ -1,0 +1,9 @@
+{
+  "YEAR": "",
+  "default_hsts_options": "",
+  "initialize": "",
+  "call": "",
+  "redirect_to_https": "",
+  "hsts_headers": "http://tools.ietf.org/html/draft-hodges-strict-transport-sec-02",
+  "flag_cookies_as_secure!": ""
+}

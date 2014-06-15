@@ -1,0 +1,4 @@
+{
+  "test_automatic_savepoint_in_outer_transaction": "",
+  "test_no_automatic_savepoint_for_inner_transaction": ""
+}

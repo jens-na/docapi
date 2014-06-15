@@ -1,0 +1,11 @@
+{
+  "setup": "",
+  "test_type_cast_true": "",
+  "test_type_cast_false": "",
+  "test_type_cast_cidr": "",
+  "test_type_cast_inet": "",
+  "test_quote_float_nan": "",
+  "test_quote_float_infinity": "",
+  "test_quote_cast_numeric": "",
+  "test_quote_time_usec": ""
+}

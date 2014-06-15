@@ -1,0 +1,15 @@
+{
+  "singular": "Returns the value of attribute singular",
+  "plural": "Returns the value of attribute plural",
+  "element": "Returns the value of attribute element",
+  "collection": "Returns the value of attribute collection",
+  "singular_route_key": "Returns the value of attribute singular_route_key",
+  "route_key": "Returns the value of attribute route_key",
+  "param_key": "Returns the value of attribute param_key",
+  "i18n_key": "Returns the value of attribute i18n_key",
+  "name": "Returns the value of attribute name",
+  "cache_key": "Returns the value of attribute collection",
+  "initialize": "Returns a new ActiveModel::Name instance. By default, the +namespace+\nand +name+ option will take the namespace and name of the given class\nrespectively.\n\n  module Foo\n    class Bar\n    end\n  end\n\n  ActiveModel::Name.new(Foo::Bar).to_s\n  # => \"Foo::Bar\"",
+  "human": "Transform the model name into a more humane format, using I18n. By default,\nit will underscore then humanize the class name.\n\n  class BlogPost\n    extend ActiveModel::Naming\n  end\n\n  BlogPost.model_name.human # => \"Blog post\"\n\nSpecify +options+ with additional translating options.",
+  "_singularize": ""
+}

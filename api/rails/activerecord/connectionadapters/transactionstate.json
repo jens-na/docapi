@@ -1,0 +1,10 @@
+{
+  "parent": "Returns the value of attribute parent",
+  "parent=": "Sets the attribute parent",
+  "VALID_STATES": "",
+  "initialize": "",
+  "finalized?": "",
+  "committed?": "",
+  "rolledback?": "",
+  "set_state": ""
+}

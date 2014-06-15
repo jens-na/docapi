@@ -1,0 +1,9 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_rename_table_for_sqlite_should_work_with_reserved_words": "",
+  "test_rename_table": "",
+  "test_rename_table_with_an_index": "",
+  "test_rename_table_does_not_rename_custom_named_index": "",
+  "test_rename_table_for_postgresql_should_also_rename_default_sequence": ""
+}

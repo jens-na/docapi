@@ -1,0 +1,21 @@
+{
+  "object": "Returns the value of attribute object",
+  "initialize": "",
+  "render": "This is what child classes implement.",
+  "value": "",
+  "value_before_type_cast": "",
+  "retrieve_object": "",
+  "retrieve_autoindex": "",
+  "add_default_name_and_id_for_value": "",
+  "add_default_name_and_id": "",
+  "tag_name": "",
+  "tag_name_with_index": "",
+  "tag_id": "",
+  "tag_id_with_index": "",
+  "sanitized_object_name": "",
+  "sanitized_method_name": "",
+  "sanitized_value": "",
+  "select_content_tag": "",
+  "select_not_required?": "",
+  "add_options": ""
+}

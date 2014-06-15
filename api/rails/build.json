@@ -1,0 +1,17 @@
+{
+  "MAP": "",
+  "component": "Returns the value of attribute component",
+  "options": "Returns the value of attribute options",
+  "initialize": "",
+  "run!": "",
+  "announce": "",
+  "heading": "",
+  "tasks": "",
+  "key": "",
+  "activerecord?": "",
+  "isolated?": "",
+  "gem": "",
+  "dir": "",
+  "adapter": "",
+  "rake": ""
+}

@@ -1,0 +1,12 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_alias_method_chain": "",
+  "test_alias_method_chain_with_punctuation_method": "",
+  "test_alias_method_chain_with_same_names_between_predicates_and_bang_methods": "",
+  "test_alias_method_chain_with_feature_punctuation": "",
+  "test_alias_method_chain_yields_target_and_punctuation": "",
+  "test_alias_method_chain_preserves_private_method_status": "",
+  "test_alias_method_chain_preserves_protected_method_status": "",
+  "test_alias_method_chain_preserves_public_method_status": ""
+}

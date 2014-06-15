@@ -1,0 +1,15 @@
+{
+  "name": "Returns the value of attribute name",
+  "name=": "Sets the attribute name",
+  "email": "Returns the value of attribute email",
+  "email=": "Sets the attribute email",
+  "gender": "Returns the value of attribute gender",
+  "gender=": "Sets the attribute gender",
+  "address": "Returns the value of attribute address",
+  "address=": "Sets the attribute address",
+  "friends": "Returns the value of attribute friends",
+  "friends=": "Sets the attribute friends",
+  "initialize": "",
+  "attributes": "",
+  "foo": ""
+}

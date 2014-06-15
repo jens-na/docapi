@@ -1,0 +1,10 @@
+{
+  "pool": "Returns the value of attribute pool",
+  "setup": "",
+  "FakePool": "",
+  "test_nil_time": "A reaper with nil time should never reap connections",
+  "test_some_time": "",
+  "test_pool_has_reaper": "",
+  "test_reaping_frequency_configuration": "",
+  "test_connection_pool_starts_reaper": ""
+}

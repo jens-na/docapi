@@ -1,0 +1,12 @@
+{
+  "args": "Returns the value of attribute args",
+  "block": "Returns the value of attribute block",
+  "name": "Returns the value of attribute name",
+  "classcache": "Returns the value of attribute classcache",
+  "initialize": "",
+  "klass": "",
+  "==": "",
+  "inspect": "",
+  "build": "",
+  "normalize": ""
+}

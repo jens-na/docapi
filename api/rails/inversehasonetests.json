@@ -1,0 +1,9 @@
+{
+  "test_parent_instance_should_be_shared_with_child_on_find": "",
+  "test_parent_instance_should_be_shared_with_eager_loaded_child_on_find": "",
+  "test_parent_instance_should_be_shared_with_newly_built_child": "",
+  "test_parent_instance_should_be_shared_with_newly_created_child": "",
+  "test_parent_instance_should_be_shared_with_newly_created_child_via_bang_method": "",
+  "test_parent_instance_should_be_shared_with_replaced_via_accessor_child": "",
+  "test_trying_to_use_inverses_that_dont_exist_should_raise_an_error": ""
+}

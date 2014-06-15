@@ -1,0 +1,6 @@
+{
+  "setup": "",
+  "test_creates_current_environment_database": "",
+  "test_drops_test_and_development_databases_when_env_was_not_specified": "",
+  "test_drops_only_development_database_when_rails_env_is_development": ""
+}

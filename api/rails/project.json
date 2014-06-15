@@ -1,0 +1,10 @@
+{
+  "developers_log": "Returns the value of attribute developers_log",
+  "developers_log=": "Sets the attribute developers_log",
+  "set_developers_log": "",
+  "all_as_method": "",
+  "description=": "Sets the attribute description",
+  "description": "Returns the value of attribute description",
+  "person=": "Sets the attribute person",
+  "person": "Returns the value of attribute person"
+}

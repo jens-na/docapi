@@ -1,0 +1,18 @@
+{
+  "setup": "",
+  "teardown": "",
+  "test_cloning_an_application_makes_a_shallow_copy_of_config": "",
+  "test_inheriting_multiple_times_from_application": "",
+  "test_initialization_of_multiple_copies_of_same_application": "",
+  "test_initialization_of_application_with_previous_config": "",
+  "test_initialization_of_application_with_previous_railties": "",
+  "test_initialize_new_application_with_all_previous_initialization_variables": "",
+  "test_rake_tasks_defined_on_different_applications_go_to_the_same_class": "",
+  "test_multiple_applications_can_be_initialized": "",
+  "test_initializers_run_on_different_applications_go_to_the_same_class": "",
+  "test_consoles_run_on_different_applications_go_to_the_same_class": "",
+  "test_generators_run_on_different_applications_go_to_the_same_class": "",
+  "test_runners_run_on_different_applications_go_to_the_same_class": "",
+  "test_isolate_namespace_on_an_application": "",
+  "test_inserting_configuration_into_application": ""
+}

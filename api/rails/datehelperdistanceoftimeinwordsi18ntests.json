@@ -1,0 +1,9 @@
+{
+  "request": "Returns the value of attribute request",
+  "setup": "",
+  "test_distance_of_time_in_words_calls_i18n": "distance_of_time_in_words",
+  "test_distance_of_time_in_words_calls_i18n_with_custom_scope": "",
+  "test_time_ago_in_words_passes_locale": "",
+  "test_distance_of_time_pluralizations": "",
+  "assert_distance_of_time_in_words_translates_key": ""
+}

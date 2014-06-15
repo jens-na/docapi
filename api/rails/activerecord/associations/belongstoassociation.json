@@ -1,0 +1,20 @@
+{
+  "handle_dependency": "",
+  "replace": "",
+  "reset": "",
+  "updated?": "",
+  "decrement_counters": ":nodoc:",
+  "increment_counters": ":nodoc:",
+  "find_target?": "",
+  "with_cache_name": "",
+  "update_counters": "",
+  "decrement_counter": "",
+  "increment_counter": "",
+  "different_target?": "Checks whether record is different to the current target, without loading it",
+  "replace_keys": "",
+  "remove_keys": "",
+  "foreign_key_present?": "",
+  "invertible_for?": "NOTE - for now, we're only supporting inverse setting from belongs_to back onto\nhas_one associations.",
+  "target_id": "",
+  "stale_state": ""
+}

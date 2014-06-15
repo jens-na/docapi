@@ -1,0 +1,13 @@
+{
+  "FakeSet": "",
+  "test_initialize": "",
+  "test_mapping_requirements": "",
+  "test_map_slash": "",
+  "test_map_more_slashes": "",
+  "test_map_wildcard": "",
+  "test_map_wildcard_with_other_element": "",
+  "test_map_wildcard_with_multiple_wildcard": "",
+  "test_map_wildcard_with_format_false": "",
+  "test_map_wildcard_with_format_true": "",
+  "test_raising_helpful_error_on_invalid_arguments": ""
+}

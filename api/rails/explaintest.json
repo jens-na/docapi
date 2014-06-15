@@ -1,0 +1,9 @@
+{
+  "base": "",
+  "connection": "",
+  "test_relation_explain": "",
+  "test_collecting_queries_for_explain": "",
+  "test_exec_explain_with_no_binds": "",
+  "test_exec_explain_with_binds": "",
+  "test_unsupported_connection_adapter": ""
+}

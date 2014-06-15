@@ -1,0 +1,14 @@
+{
+  "connection": "Returns the value of attribute connection",
+  "table_name": "Returns the value of attribute table_name",
+  "setup": "",
+  "test_creates_index": "",
+  "test_does_not_create_index": "",
+  "test_does_not_create_index_explicit": "",
+  "test_creates_index_with_options": "",
+  "test_creates_polymorphic_index": "",
+  "test_creates_index_for_existing_table": "",
+  "test_does_not_create_index_for_existing_table": "",
+  "test_does_not_create_index_for_existing_table_explicit": "",
+  "test_creates_polymorphic_index_for_existing_table": ""
+}

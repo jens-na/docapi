@@ -1,0 +1,18 @@
+{
+  "initialize": "",
+  "connection_pool_list": "",
+  "connection_pools": "",
+  "establish_connection": "",
+  "active_connections?": "Returns true if there are any active connections among the connection\npools that the ConnectionHandler is managing.",
+  "clear_active_connections!": "Returns any connections in use by the current thread back to the pool,\nand also returns connections to the pool cached by threads that are no\nlonger alive.",
+  "clear_reloadable_connections!": "Clears the cache which maps classes.",
+  "clear_all_connections!": "",
+  "retrieve_connection": "Locate the connection of the nearest super class. This can be an\nactive or defined connection: if it is the latter, it will be\nopened and set as the active connection for the class it was defined\nfor (not necessarily the current class).",
+  "connected?": "Returns true if a connection that's accessible to this class has\nalready been opened.",
+  "remove_connection": "Remove the connection for this class. This will close the active\nconnection and the defined connection (if they exist). The result\ncan be used as an argument for establish_connection, for easily\nre-establishing the connection.",
+  "retrieve_connection_pool": "Retrieving the connection pool happens a lot so we cache it in @class_to_pool.\nThis makes retrieving the connection pool O(1) once the process is warm.\nWhen a connection is established or removed, we invalidate the cache.\n\nIdeally we would use #fetch here, as class_to_pool[klass] may sometimes be nil.\nHowever, benchmarking (https://gist.github.com/jonleighton/3552829) showed that\n#fetch is significantly slower than #[]. So in the nil case, no caching will\ntake place, but that's ok since the nil case is not the common one that we wish\nto optimise for.",
+  "owner_to_pool": "",
+  "class_to_pool": "",
+  "pool_for": "",
+  "pool_from_any_process_for": ""
+}

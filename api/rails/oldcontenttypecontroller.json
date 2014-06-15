@@ -1,0 +1,11 @@
+{
+  "render_content_type_from_body": ":ported:",
+  "render_defaults": ":ported:",
+  "render_content_type_from_render": ":ported:",
+  "render_charset_from_body": ":ported:",
+  "render_nil_charset_from_body": ":ported:",
+  "render_default_for_erb": "",
+  "render_default_for_builder": "",
+  "render_change_for_builder": "",
+  "render_default_content_types_for_respond_to": ""
+}
